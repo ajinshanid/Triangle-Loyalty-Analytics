@@ -43,7 +43,7 @@ A loyalty analytics dashboard built to help a retailer **quantify the incrementa
 Python (Faker) -> Raw CSVs -> PostgreSQL (raw + staging + star-schema modeling) -> Power Query (clean: dedup + quarantine) -> Power BI (DAX)
 ```
 
-Raw CSVs are loaded into **PostgreSQL** as staging tables and modeled into the dim/fact star schema; Power Query then runs the cleaning layer against those tables - collapsing the line-item rows to transaction grain (deduplicating on `transaction_id`), standardizing the `CAD`-formatted amounts and `MM-DD-YYYY` dates, and routing the missing-amount transactions to a quarantine query - so only validated rows reach the report. All data quality issues were isolated to `raw_05_transactions`; every other source table loaded clean.
+Raw CSVs are loaded into **PostgreSQL** as staging tables and modeled into the dim/fact star schema; Power Query then runs the cleaning layer against those tables - collapsing the line-item rows to transaction grain (deduplicating on `transaction_id`), standardizing the CAD-suffixed amounts (e.g. `647.52 CAD`) and `MM-DD-YYYY` dates, and routing transactions with no valid amount line to a quarantine query - so only validated rows reach the report. All data quality issues were isolated to `raw_05_transactions`; every other source table loaded clean.
 
 ---
 
@@ -59,10 +59,10 @@ A star schema centered on a single transaction fact with two dimensions. Keys sh
 
 - Staging held **9,644 raw rows** from `raw_05_transactions` at line-item grain (one row per `item_id`).
 - Removed **duplicate line items** and collapsed to transaction grain on `transaction_id`, leaving **8,000 distinct transactions**.
-- Standardized **~150 amount values** stored as `CAD` text (e.g. `"CAD 240.00"`) back to numeric, and reformatted **~5% of `transaction_date` values** from `MM-DD-YYYY` to ISO `YYYY-MM-DD` - both correct rows **in place** rather than dropping them.
-- **377 transactions with a missing amount** (~5%) were quarantined and excluded from the model.
-- The remaining **7,623 clean transactions** were loaded into `fact_transactions` - matching the Total Transactions KPI exactly.
-- Confirmed zero orphaned rows: every `customer_id` and `store_id` in the fact resolves to its dimension.
+- Standardized **~180 amount values** stored as CAD text (e.g. `"647.52 CAD"`) back to numeric, and reformatted **~5% of `transaction_date` values** from `MM-DD-YYYY` to ISO `YYYY-MM-DD` - correcting rows **in place** rather than dropping them.
+- **400 transactions carried at least one missing-amount line item** (~5%). The **377** with no salvageable line were **quarantined** and excluded from the model; the remaining **23** recovered a valid amount from another line item during the collapse to transaction grain, so the transaction was retained.
+- The remaining **7,623 clean transactions** were loaded into `fact_transactions` - matching the Total Transactions KPI exactly (**8,000 distinct − 377 quarantined = 7,623**).
+- Confirmed zero orphaned rows: every `transaction_id` in the fact resolves to a staging record, and every `customer_id` and `store_id` resolves to its dimension.
 
 ---
 
@@ -178,5 +178,3 @@ Triangle-Loyalty-Analytics/
 |-- visuals/ <- Dashboard screenshot
 \-- README.md
 ```
-
-
