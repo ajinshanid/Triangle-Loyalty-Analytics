@@ -1,0 +1,31 @@
+store_id,city,province,store_type
+STR001,Halifax,NS,Express
+STR002,Quebec City,QC,Standard
+STR003,Victoria,BC,Express
+STR004,Gatineau,QC,Standard
+STR005,Lethbridge,AB,Flagship
+STR006,Quebec City,QC,Outlet
+STR007,Red Deer,AB,Outlet
+STR008,Lethbridge,AB,Express
+STR009,Brampton,ON,Standard
+STR010,Surrey,BC,Standard
+STR011,Hamilton,ON,Flagship
+STR012,Montreal,QC,Standard
+STR013,Red Deer,AB,Standard
+STR014,Mississauga,ON,Standard
+STR015,Dartmouth,NS,Express
+STR016,Ottawa,ON,Standard
+STR017,Saint John,NB,Standard
+STR018,Saskatoon,SK,Express
+STR019,Halifax,NS,Outlet
+STR020,Regina,SK,Express
+STR021,Halifax,NS,Standard
+STR022,Mississauga,ON,Express
+STR023,Ottawa,ON,Flagship
+STR024,Quebec City,QC,Standard
+STR025,Ottawa,ON,Standard
+STR026,Quebec City,QC,Standard
+STR027,Gatineau,QC,Express
+STR028,Mississauga,ON,Express
+STR029,Red Deer,AB,Standard
+STR030,Kelowna,BC,Standard

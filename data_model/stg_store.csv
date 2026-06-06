@@ -1,0 +1,31 @@
+store_id,store_name,city,province,region,store_type,open_date,sq_footage
+STR001,RetailCo Halifax West,Halifax,NS,East,Express,2022-01-08,53018
+STR002,RetailCo Quebec City South,Quebec City,QC,East,Standard,2018-05-13,32022
+STR003,RetailCo Victoria East,Victoria,BC,West,Express,2010-09-16,15166
+STR004,RetailCo Gatineau Central,Gatineau,QC,East,Standard,2011-08-21,50220
+STR005,RetailCo Lethbridge West,Lethbridge,AB,West,Flagship,2022-07-12,8653
+STR006,RetailCo Quebec City Square,Quebec City,QC,East,Outlet,2015-04-20,28519
+STR007,RetailCo Red Deer West,Red Deer,AB,West,Outlet,2012-02-05,31672
+STR008,RetailCo Lethbridge North,Lethbridge,AB,West,Express,2015-05-12,36992
+STR009,RetailCo Brampton East,Brampton,ON,East,Standard,2022-12-17,5283
+STR010,RetailCo Surrey Central,Surrey,BC,West,Standard,2016-02-18,16812
+STR011,RetailCo Hamilton Central,Hamilton,ON,East,Flagship,2016-05-05,37846
+STR012,RetailCo Montreal Central,Montreal,QC,East,Standard,2014-06-18,19051
+STR013,RetailCo Red Deer Square,Red Deer,AB,West,Standard,2022-01-11,42733
+STR014,RetailCo Mississauga East,Mississauga,ON,East,Standard,2013-11-06,16541
+STR015,RetailCo Dartmouth North,Dartmouth,NS,East,Express,2021-09-18,29988
+STR016,RetailCo Ottawa Central,Ottawa,ON,East,Standard,2015-12-23,9544
+STR017,RetailCo Saint John Mall,Saint John,NB,East,Standard,2009-01-04,33629
+STR018,RetailCo Saskatoon Mall,Saskatoon,SK,Central,Express,2022-07-14,49981
+STR019,RetailCo Halifax Mall,Halifax,NS,East,Outlet,2016-12-10,27717
+STR020,RetailCo Regina North,Regina,SK,Central,Express,2018-03-04,48107
+STR021,RetailCo Halifax North,Halifax,NS,East,Standard,2016-02-29,50362
+STR022,RetailCo Mississauga South,Mississauga,ON,East,Express,2009-07-02,38267
+STR023,RetailCo Ottawa North,Ottawa,ON,East,Flagship,2016-08-01,41791
+STR024,RetailCo Quebec City Central,Quebec City,QC,East,Standard,2021-04-27,28017
+STR025,RetailCo Ottawa Mall,Ottawa,ON,East,Standard,2016-12-10,28945
+STR026,RetailCo Quebec City West,Quebec City,QC,East,Standard,2010-04-08,34244
+STR027,RetailCo Gatineau Central,Gatineau,QC,East,Express,2018-10-12,16494
+STR028,RetailCo Mississauga West,Mississauga,ON,East,Express,2013-06-14,15694
+STR029,RetailCo Red Deer North,Red Deer,AB,West,Standard,2009-06-16,7289
+STR030,RetailCo Kelowna North,Kelowna,BC,West,Standard,2022-02-08,15591

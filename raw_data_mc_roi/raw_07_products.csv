@@ -1,0 +1,21 @@
+product_id,product_name,category,base_price,supplier,launch_date
+PRD001,Premium Drill Kit,Power Tools,129.99,Flores-Clark,2019-06-16
+PRD002,Toolbox Professional,Hand Tools,59.99,"Ramirez, Kemp and Hamilton",2018-07-28
+PRD003,Circular Saw 7.25in,Power Tools,189.99,"Salinas, Green and Richard",2022-05-01
+PRD004,Engine Oil 5W-30 5L,Automotive,34.99,"Zamora, Jimenez and Rodriguez",2022-03-03
+PRD005,Winter Tire Set,Automotive,599.99,Day and Sons,2018-05-13
+PRD006,Wiper Blade Pair,Automotive,29.99,"Peck, Rhodes and Holt",2021-08-23
+PRD007,Outdoor Grill Pro,Outdoor Living,349.99,Hogan-Hutchinson,2018-03-02
+PRD008,Patio Furniture Set,Outdoor Living,499.99,Walker Group,2019-12-15
+PRD009,Garden Hose 75ft,Garden,54.99,Chavez-Ray,2021-06-08
+PRD010,Lawn Mower Electric,Garden,279.99,Fleming-Russell,2018-11-12
+PRD011,Paint Interior 4L,Home Improvement,44.99,Mcdonald Inc,2020-02-25
+PRD012,LED Light Fixture,Home Improvement,69.99,Bartlett-Brewer,2020-07-17
+PRD013,Smart Thermostat,Electronics,149.99,Buckley Ltd,2021-09-01
+PRD014,Portable Speaker,Electronics,89.99,"Howard, Hernandez and Gonzales",2020-09-01
+PRD015,Kitchen Mixer Stand,Kitchen,249.99,"Brown, Pennington and Richardson",2022-02-26
+PRD016,Cookware Set 10pc,Kitchen,179.99,"Stone, Riggs and Johnson",2018-11-17
+PRD017,Camping Tent 4-Person,Outdoor Living,229.99,Webb Ltd,2021-05-11
+PRD018,Fire Pit Steel,Outdoor Living,159.99,Blair Inc,2023-02-25
+PRD019,Snow Blower 22in,Seasonal,449.99,Lopez-Ford,2023-06-17
+PRD020,Holiday Lights 200ct,Seasonal,24.99,Wilson Inc,2018-06-10

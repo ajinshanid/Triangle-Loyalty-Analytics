@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,date_of_birth,join_date,primary_payment,income_bracket,is_active,email,phone,street,city,province,postal_code,region,account_id,card_tier,rewards_rate,credit_limit,account_open_date,account_status
+CUST00001,Danielle,Johnson,M,1960-03-30,2023-02-27,Mastercard,High,1,danielle.johnson@gmail.com,604-528-3955,836 Hill Point,Markham,ON,S1Y 6V7,East,ACC00001,Standard,0.029,10000,2022-06-27,Active
+CUST00002,Joshua,Walker,M,1965-10-19,2022-04-24,Mastercard,Low,1,joshua.walker@gmail.com,403-341-8388,662 Bennett Throughway Suite 334,Surrey,BC,T7B 7Y9,West,ACC00002,Platinum,0.02,15000,2019-03-12,Active
+CUST00003,Jill,Rhodes,F,1975-11-03,2023-01-06,Visa,Low,1,jill.rhodes@outlook.com,306-187-1169,3435 Sandra Vista,Regina,SK,C1Y5J7,Central,ACC00003,N/A,0.0,0,2019-10-23,Inactive
+CUST00004,Patricia,Miller,F,1958-08-01,2023-04-04,Debit,Mid,1,patricia.miller@shaw.ca,204-803-4476,39837 Molly Isle,Burnaby,BC,A2J8J4,West,ACC00004,N/A,0.0,0,2019-04-06,Active
+CUST00005,Robert,Johnson,M,1988-03-13,2019-07-29,Mastercard,High,1,robert.johnson@hotmail.com,403-174-2561,3854 Owens Run,Gatineau,QC,M9L8P8,East,ACC00005,Platinum,0.032,7500,2019-11-20,Active
+CUST00006,Jeffery,Wagner,F,1999-03-21,2022-01-03,Mastercard,Low,1,jeffery.wagner@yahoo.com,604-582-6804,753 Edwards Cape,Calgary,AB,G9A 7L5,West,ACC00006,Standard,0.017,15000,2019-05-16,Active
+CUST00007,Anthony,Gonzalez,M,1990-06-12,2022-03-28,Mastercard,Mid,1,anthony.gonzalez@bell.net,416-105-5155,53693 Pierce Spur,Saint John,NB,L8V3V6,East,ACC00007,Gold,0.04,20000,2021-06-20,Active
+CUST00008,Debra,Gardner,M,1978-11-20,2023-11-10,Mastercard,Mid,1,debra.gardner@yahoo.com,204-787-7076,87280 Mary Club,Richmond,BC,A4S 2G3,West,ACC00008,Gold,0.029,10000,2021-09-02,Active
+CUST00009,Jeffrey,Lawrence,F,1976-10-18,2022-10-04,Mastercard,Mid,1,jeffrey.lawrence@gmail.com,647-366-3783,87509 Hopkins Brook,Hamilton,ON,Y1Y 1S9,East,ACC00009,World Elite,0.014,25000,2022-01-10,Active
+CUST00010,Lisa,Smith,M,1979-12-18,2019-12-01,Visa,High,1,lisa.smith@rogers.com,647-191-6198,408 Drake Fall Apt. 182,Burnaby,BC,J6X 5L7,West,ACC00010,N/A,0.0,0,2022-06-10,Active
+CUST00011,Linda,Wolfe,M,1987-02-04,2023-09-23,Debit,High,1,linda.wolfe@gmail.com,905-420-1723,6793 Kevin Views,Gatineau,QC,B7C 7R9,East,ACC00011,N/A,0.0,0,2019-07-17,Active
+CUST00012,Matthew,Moore,F,1963-12-09,2020-03-08,Cash,High,1,matthew.moore@rogers.com,403-865-6907,02176 Knight Walks Apt. 803,Fredericton,NB,V2L 5B9,East,ACC00012,N/A,0.0,0,2023-03-14,Inactive
+CUST00013,Susan,Rogers,M,1999-03-02,2019-10-20,Mastercard,Mid,1,susan.rogers@rogers.com,403-727-5321,50392 Hickman Hills,Dartmouth,NS,K6R 7Y3,East,ACC00013,Gold,0.014,20000,2019-09-23,Inactive
+CUST00014,Christopher,Davis,NB,1993-10-31,2021-01-11,Mastercard,Mid,1,christopher.davis@rogers.com,514-854-9049,501 Hall Club,Richmond,BC,R5N8A8,West,ACC00014,Standard,0.03,25000,2019-07-14,Active
+CUST00015,Melanie,Munoz,F,1967-11-02,2019-11-10,Visa,Mid,1,melanie.munoz@outlook.com,306-154-4095,8662 Miller River,Quebec City,QC,K5C3C7,East,ACC00015,N/A,0.0,0,2020-08-01,Inactive
+CUST00016,Lindsay,Blair,F,1999-12-29,2021-12-19,Mastercard,High,1,lindsay.blair@gmail.com,306-366-3679,655 Christopher Inlet,Ottawa,ON,P3L2E3,East,ACC00016,Standard,0.017,7500,2023-02-04,Active
+CUST00017,Amanda,Dudley,M,1981-12-09,2023-04-24,Visa,Mid,1,amanda.dudley@gmail.com,306-141-8233,8886 Anthony Knoll Apt. 995,Gatineau,QC,A7M2S9,East,ACC00017,N/A,0.0,0,2020-11-04,Active
+CUST00018,Nicholas,Arnold,M,1981-08-18,2024-06-13,Visa,High,0,nicholas.arnold@outlook.com,306-604-2843,826 Dominic Hollow,London,ON,V3G7C5,East,ACC00018,N/A,0.0,0,2021-08-04,Active
+CUST00019,Maria,Montgomery,M,1975-11-05,2019-11-10,Mastercard,High,0,maria.montgomery@gmail.com,905-308-5654,7154 Jennifer Park Apt. 712,Winnipeg,MB,A7R6N8,Central,ACC00019,Gold,0.027,10000,2023-04-06,Inactive
+CUST00020,Michelle,Ray,F,1987-01-30,2021-09-27,Mastercard,High,0,michelle.ray@hotmail.com,403-676-4479,9245 Timothy Fall Suite 547,Ottawa,ON,N7R 6L2,East,ACC00020,Standard,0.021,7500,2022-04-01,Active
+CUST00021,Janet,Williams,NB,1963-03-14,2020-05-08,Cash,Low,1,janet.williams@outlook.com,647-526-2258,828 Stephanie Mountain,Calgary,AB,T7M 8C3,West,ACC00021,N/A,0.0,0,2023-10-09,Active
+CUST00022,Jeremy,Roberts,NB,1969-04-13,2019-09-20,Debit,Low,1,jeremy.roberts@hotmail.com,514-126-5657,42661 Ewing Neck Suite 886,Brampton,ON,P2Y 4C6,East,ACC00022,N/A,0.0,0,2024-01-30,Active
+CUST00023,Christopher,Hall,F,1977-01-01,2024-03-17,Visa,Low,1,christopher.hall@yahoo.com,905-957-6300,909 Rasmussen Isle,Montreal,QC,E5A4E9,East,ACC00023,N/A,0.0,0,2022-07-18,Active
+CUST00024,Craig,Ramirez,M,1991-07-03,2021-06-16,Cash,Low,1,craig.ramirez@yahoo.com,306-564-5412,5679 Michael Burg,Toronto,ON,E2M2S3,East,ACC00024,N/A,0.0,0,2020-02-10,Suspended
+CUST00025,Cynthia,Diaz,M,1978-08-24,2022-04-20,Mastercard,Mid,1,cynthia.diaz@yahoo.com,416-771-8423,5738 Bailey Court Suite 751,Calgary,AB,B6E2A3,West,ACC00025,Standard,0.029,7500,2019-11-28,Active
+CUST00026,Mitchell,Clark,M,1987-08-24,2019-05-26,Visa,Mid,1,mitchell.clark@shaw.ca,647-316-1797,282 Castro Mountain,London,ON,R7H 7H1,East,ACC00026,N/A,0.0,0,2019-01-24,Active
+CUST00027,Joseph,Zuniga,F,2000-05-28,2020-05-12,Debit,Low,1,joseph.zuniga@yahoo.com,416-861-2158,9660 Jamie Terrace,Laval,QC,E6Y 6H4,East,ACC00027,N/A,0.0,0,2021-09-17,Inactive
+CUST00028,Deborah,Lynch,F,1996-01-01,2021-04-21,Visa,Mid,0,deborah.lynch@gmail.com,403-282-4933,47859 Carr Radial Apt. 557,Lethbridge,AB,M6C 2G4,West,ACC00028,N/A,0.0,0,2020-01-20,Active
+CUST00029,George,Daniel,F,1994-02-14,2023-01-31,Mastercard,Low,1,george.daniel@gmail.com,604-266-7365,25286 Carlson Ports Suite 627,Fredericton,NB,Y5H 3V3,East,ACC00029,Platinum,0.027,15000,2020-03-15,Active
+CUST00030,Frank,Gray,M,1995-11-07,2020-01-11,Mastercard,High,1,frank.gray@hotmail.com,647-223-5891,9050 Taylor Via Suite 887,Laval,QC,V8S3T2,East,ACC00030,Standard,0.023,25000,2020-07-26,Active
+CUST00031,Veronica,Bowman,F,1966-10-14,2019-04-14,Debit,Low,1,veronica.bowman@hotmail.com,403-801-3151,40438 Jackson Mount,Richmond,BC,Y2X5E9,West,ACC00031,N/A,0.0,0,2021-11-19,Inactive
+CUST00032,Angela,Cohen,F,1979-03-17,2019-12-07,Mastercard,High,0,angela.cohen@icloud.com,604-601-8298,078 Veronica Cove Apt. 407,Toronto,ON,P2C4T4,East,ACC00032,Standard,0.037,10000,2020-11-29,Inactive
+CUST00033,Megan,Parsons,F,1958-03-12,2021-03-10,Mastercard,Mid,1,megan.parsons@gmail.com,204-192-7922,962 Kristen Via Apt. 095,Regina,SK,Y5H5N5,Central,ACC00033,Gold,0.026,25000,2019-07-17,Active
+CUST00034,Jeremy,Johnson,M,2001-08-30,2019-11-14,Mastercard,Low,1,jeremy.johnson@yahoo.com,204-195-1662,60422 Dustin Islands,Quebec City,QC,R5V 7G7,East,ACC00034,Standard,0.026,5000,2023-05-21,Active
+CUST00035,Leslie,Adams,F,1986-02-19,2019-04-28,Mastercard,High,1,leslie.adams@hotmail.com,647-607-9638,16845 Clements Islands Apt. 175,Richmond,BC,Y7R 4J8,West,ACC00035,Gold,0.039,7500,2019-07-13,Active
+CUST00036,Jason,Hahn,F,1965-03-10,2023-10-10,Mastercard,Mid,1,jason.hahn@gmail.com,204-181-8825,4589 Ashlee Oval Suite 001,Calgary,AB,A8E8H1,West,ACC00036,Gold,0.013,20000,2022-12-30,Active
+CUST00037,Nancy,Edwards,F,1980-02-02,2022-03-31,Visa,Mid,1,nancy.edwards@hotmail.com,403-961-5073,24241 Wright Landing Apt. 064,Ottawa,ON,S1C 4E8,East,ACC00037,N/A,0.0,0,2023-11-24,Active
+CUST00038,Diana,Foster,M,1981-05-24,2020-02-23,Debit,Mid,1,diana.foster@outlook.com,905-146-9411,93870 Heather Viaduct,Burnaby,BC,S2G 4V7,West,ACC00038,N/A,0.0,0,2021-07-15,Active
+CUST00039,Robin,Ellis,F,1999-01-08,2020-10-09,Cash,Low,1,robin.ellis@yahoo.com,306-776-5151,115 Ibarra Dam,Brampton,ON,G9G1C3,East,ACC00039,N/A,0.0,0,2019-06-19,Suspended
+CUST00040,Joseph,Wright,F,1966-12-21,2019-05-31,Visa,Low,1,joseph.wright@gmail.com,416-216-8583,3269 Heath Corners Apt. 219,Hamilton,ON,P3S4N5,East,ACC00040,N/A,0.0,0,2021-10-30,Active
+CUST00041,Anna,Baker,M,1979-12-01,2021-01-26,Mastercard,Mid,1,anna.baker@icloud.com,416-185-7819,89994 Melanie Shoals,Ottawa,ON,J4X7X5,East,ACC00041,Platinum,0.037,20000,2020-02-04,Active
+CUST00042,Brenda,Hurst,M,1958-09-14,2022-09-29,Debit,Mid,0,brenda.hurst@yahoo.com,306-875-8371,76137 Allison Bridge,Regina,SK,N7G6R9,Central,ACC00042,N/A,0.0,0,2022-10-25,Active
+CUST00043,Reginald,Robinson,F,1968-05-10,2023-12-28,Mastercard,Mid,1,reginald.robinson@yahoo.com,647-316-4032,1091 Jose Canyon,Red Deer,AB,R9X 7M7,West,ACC00043,Standard,0.032,10000,2021-12-12,Active
+CUST00044,Whitney,Hicks,M,1976-04-07,2022-11-08,Visa,Mid,0,whitney.hicks@gmail.com,905-544-9755,88924 Kyle Pass Apt. 285,Hamilton,ON,C4M1S4,East,ACC00044,N/A,0.0,0,2019-11-07,Active
+CUST00045,Christopher,Williams,M,1966-04-13,2022-07-23,Mastercard,Low,1,christopher.williams@gmail.com,647-771-8817,1799 Kyle Streets,Brampton,ON,E1A 3G8,East,ACC00045,Gold,0.011,20000,2021-01-12,Active
+CUST00046,Daniel,Burton,F,1981-07-02,2019-11-27,Debit,Mid,1,daniel.burton@rogers.com,306-410-6910,842 Martinez Tunnel Suite 105,Richmond,BC,L5X2C8,West,ACC00046,N/A,0.0,0,2022-11-21,Inactive
+CUST00047,Laura,Henderson,M,1971-05-17,2022-01-22,Mastercard,Mid,1,laura.henderson@icloud.com,905-228-3213,507 Michael Glens Apt. 913,Gatineau,QC,B1A 8K6,East,ACC00047,Gold,0.021,5000,2022-10-25,Active
+CUST00048,Bryan,James,NB,1990-09-18,2024-01-16,Cash,Low,1,bryan.james@icloud.com,604-979-1439,20863 Wright Stravenue Suite 419,Toronto,ON,E3X4B9,East,ACC00048,N/A,0.0,0,2022-07-23,Inactive
+CUST00049,Wendy,Rice,F,1967-03-23,2020-12-25,Debit,Mid,1,wendy.rice@gmail.com,604-546-9824,1744 Miller Motorway,London,ON,P5J 4M8,East,ACC00049,N/A,0.0,0,2020-04-08,Inactive
+CUST00050,Tasha,Valencia,F,1979-03-29,2023-11-06,Mastercard,Low,1,tasha.valencia@icloud.com,647-585-7912,738 Edward Lodge Apt. 385,Mississauga,ON,N5A 2R4,East,ACC00050,Platinum,0.015,20000,2021-05-18,Inactive
+CUST00051,Alexander,Le,F,1987-10-21,2023-05-22,Cash,High,1,alexander.le@rogers.com,306-596-8724,7024 Bradley Fort,Ottawa,ON,P2T9C3,East,ACC00051,N/A,0.0,0,2020-07-24,Active
+CUST00052,Erin,Herrera,F,1967-09-13,2021-02-22,Cash,Low,1,erin.herrera@outlook.com,604-401-7418,99062 Kelly Vista Suite 655,Brampton,ON,L4K3C2,East,ACC00052,N/A,0.0,0,2021-03-31,Active
+CUST00053,Joseph,Davidson,M,1985-05-19,2023-08-08,Debit,Low,1,joseph.davidson@gmail.com,204-525-9121,27756 Amanda Trail,Toronto,ON,T5M 2T2,East,ACC00053,N/A,0.0,0,2024-01-20,Active
+CUST00054,Daniel,Graham,M,1964-03-24,2024-06-03,Debit,Mid,1,daniel.graham@gmail.com,204-597-9410,490 Mary Islands,Laval,QC,C7K 9P1,East,ACC00054,N/A,0.0,0,2021-05-12,Inactive
+CUST00055,Shawn,Mckay,F,1987-09-17,2024-04-07,Mastercard,Mid,1,shawn.mckay@gmail.com,416-640-1311,2067 Cody Cove Apt. 100,Lethbridge,AB,G6J 2R5,West,ACC00055,Gold,0.014,10000,2019-01-01,Active
+CUST00056,Nancy,Baker,M,1961-06-07,2019-08-11,Visa,High,1,nancy.baker@outlook.com,403-763-7834,13721 Martinez Mountain,Burnaby,BC,H8S 1R7,West,ACC00056,N/A,0.0,0,2022-12-21,Active
+CUST00057,Vincent,White,M,1968-05-17,2021-02-27,Cash,Low,1,vincent.white@outlook.com,514-559-8147,53244 Stephenson Bypass Apt. 476,Saskatoon,SK,B7C3L7,Central,ACC00057,N/A,0.0,0,2020-09-30,Active
+CUST00058,Rita,Harrell,NB,1975-09-05,2021-01-15,Mastercard,High,1,rita.harrell@hotmail.com,306-452-8178,838 Veronica Tunnel,Mississauga,ON,V6Y9V6,East,ACC00058,Platinum,0.028,5000,2019-05-02,Active
+CUST00059,Kenneth,Fowler,F,1969-03-07,2023-01-14,Cash,Mid,1,kenneth.fowler@outlook.com,514-716-8675,2059 Anthony Valleys Suite 078,Ottawa,ON,K4H4E5,East,ACC00059,N/A,0.0,0,2019-10-15,Active
+CUST00060,Chelsea,Hernandez,NB,1969-06-02,2020-01-28,Mastercard,Mid,0,chelsea.hernandez@hotmail.com,204-526-6902,96522 Brittany Valley,Mississauga,ON,A4P8G9,East,ACC00060,Platinum,0.033,7500,2021-03-12,Active
+CUST00061,Kathryn,Ryan,M,1984-12-31,2021-04-11,Visa,Mid,1,kathryn.ryan@outlook.com,403-807-2412,70103 Andrew Neck Apt. 593,Quebec City,QC,N1H 1N3,East,ACC00061,N/A,0.0,0,2022-08-16,Active
+CUST00062,Kimberly,Moreno,F,1986-11-29,2021-08-10,Mastercard,Mid,1,kimberly.moreno@gmail.com,647-720-9063,85156 Matthew Islands,Edmonton,AB,H6S 3V9,West,ACC00062,Gold,0.017,10000,2019-05-25,Active
+CUST00063,Aaron,Nguyen,F,1973-03-23,2022-09-11,Mastercard,Mid,1,aaron.nguyen@bell.net,306-410-4845,92644 Gregory Alley Suite 902,Brampton,ON,K3E6V2,East,ACC00063,World Elite,0.014,15000,2019-09-10,Active
+CUST00064,Andrew,Hickman,F,1979-01-27,2022-10-09,Mastercard,Low,1,andrew.hickman@shaw.ca,514-367-6849,5215 Smith Fords,Toronto,ON,C2P 1L1,East,ACC00064,Gold,0.03,7500,2021-06-27,Active
+CUST00065,Natasha,Decker,F,1964-07-14,2021-07-21,Mastercard,Low,1,natasha.decker@icloud.com,416-926-2043,6267 Bell Lane Apt. 793,Quebec City,QC,T5C 1B6,East,ACC00065,Standard,0.02,25000,2019-08-29,Active
+CUST00066,Kyle,Brown,M,1979-11-21,2019-10-30,Debit,High,1,kyle.brown@outlook.com,905-675-4671,15262 Amy Course Suite 997,Toronto,ON,S3H 1S2,East,ACC00066,N/A,0.0,0,2021-12-09,Active
+CUST00067,Natalie,Arroyo,NB,1996-02-22,2020-03-24,Mastercard,Mid,1,natalie.arroyo@icloud.com,416-888-5382,36884 Evans Court Apt. 698,Burnaby,BC,G1B7P2,West,ACC00067,Gold,0.024,25000,2021-06-16,Active
+CUST00068,Christopher,Tucker,M,1968-11-20,2021-07-23,Mastercard,Mid,1,christopher.tucker@hotmail.com,306-918-8489,973 Anthony Extension Suite 171,Saskatoon,SK,R5V2V9,Central,ACC00068,Standard,0.032,15000,2019-11-11,Active
+CUST00069,Chad,Hodges,F,1997-09-15,2022-06-08,Debit,Mid,0,chad.hodges@shaw.ca,905-943-1687,56527 Jose Mountain Suite 349,Moncton,NB,G6E 9C7,East,ACC00069,N/A,0.0,0,2023-03-25,Inactive
+CUST00070,Katie,Anderson,M,1972-04-12,2023-03-04,Cash,High,0,katie.anderson@outlook.com,604-470-3572,068 Sheppard Spur,Surrey,BC,K2V7M1,West,ACC00070,N/A,0.0,0,2020-11-30,Inactive
+CUST00071,Thomas,Pierce,M,2001-06-23,2022-07-07,Mastercard,High,1,thomas.pierce@icloud.com,306-850-2626,72233 Brad Common,Gatineau,QC,J6G2L2,East,ACC00071,World Elite,0.011,10000,2019-08-20,Active
+CUST00072,Joseph,Brennan,M,1965-03-25,2019-10-11,Mastercard,Low,1,joseph.brennan@yahoo.com,647-225-4307,685 Stone Well Apt. 998,Mississauga,ON,E3S2G2,East,ACC00072,Gold,0.015,25000,2022-11-17,Inactive
+CUST00073,Rodney,Lewis,M,1987-09-08,2022-01-16,Visa,High,1,rodney.lewis@icloud.com,416-351-8760,8564 Pena Ports,Richmond,BC,B7H3L7,West,ACC00073,N/A,0.0,0,2021-09-24,Active
+CUST00074,Amber,Blair,F,1959-10-03,2023-10-21,Cash,Mid,0,amber.blair@gmail.com,403-481-7799,5307 Prince Brooks,Hamilton,ON,M8M2L4,East,ACC00074,N/A,0.0,0,2020-04-05,Active
+CUST00075,James,Collins,F,1992-12-27,2023-10-14,Cash,Mid,1,james.collins@gmail.com,204-906-4738,7546 Jacob Forest,London,ON,V1X9P3,East,ACC00075,N/A,0.0,0,2019-07-01,Suspended
+CUST00076,Wanda,Santos,M,1977-10-14,2021-09-26,Mastercard,Low,1,wanda.santos@yahoo.com,204-569-9456,8628 Glenn Wells,Brampton,ON,B8K 1B6,East,ACC00076,Gold,0.028,10000,2020-05-09,Inactive
+CUST00077,Samuel,Holmes,M,1994-04-10,2023-01-23,Mastercard,Low,1,samuel.holmes@bell.net,306-249-1162,5786 Erin Garden,Laval,QC,V8T9H6,East,ACC00077,Platinum,0.035,15000,2021-05-13,Active
+CUST00078,David,Walker,M,1993-05-08,2022-04-27,Visa,Mid,1,david.walker@gmail.com,514-511-3692,41406 Frank Ports Apt. 333,Montreal,QC,S1X8A3,East,ACC00078,N/A,0.0,0,2019-08-04,Inactive
+CUST00079,Matthew,Chapman,M,1962-07-06,2020-06-16,Mastercard,Mid,1,matthew.chapman@icloud.com,647-688-1947,034 Marquez Station,Richmond,BC,S8R5P4,West,ACC00079,Standard,0.032,10000,2024-01-27,Active
+CUST00080,Jerry,Robinson,F,1995-10-27,2020-05-31,Debit,High,1,jerry.robinson@icloud.com,403-529-7586,8969 Adrian Shore Suite 899,Saint John,NB,M2E6V5,East,ACC00080,N/A,0.0,0,2021-11-06,Active
+CUST00081,Chad,Welch,NB,1978-02-12,2022-08-24,Mastercard,Low,1,chad.welch@hotmail.com,514-452-1129,4432 Rachel Valley Suite 520,Regina,SK,M7L7S1,Central,ACC00081,Platinum,0.018,10000,2019-06-20,Active
+CUST00082,Jeremy,Whitehead,M,1959-10-30,2022-06-26,Mastercard,Mid,1,jeremy.whitehead@hotmail.com,306-759-4360,3875 Bruce Ville,Winnipeg,MB,M3E 5V9,Central,ACC00082,Platinum,0.025,20000,2021-10-10,Active
+CUST00083,Michele,Jones,F,1980-12-27,2023-04-20,Mastercard,High,1,michele.jones@hotmail.com,204-894-4232,513 Walker Well,Regina,SK,S5N5P8,Central,ACC00083,Gold,0.018,25000,2021-09-26,Active
+CUST00084,John,Caldwell,F,1972-09-10,2024-05-29,Mastercard,High,1,john.caldwell@gmail.com,514-499-3064,0999 Thomas Fields,Saskatoon,SK,R7X 1M3,Central,ACC00084,Platinum,0.021,20000,2023-11-18,Inactive
+CUST00085,Jason,Anderson,M,1991-09-03,2021-03-23,Cash,Mid,0,jason.anderson@gmail.com,905-623-6115,56972 Huffman Falls,Kelowna,BC,V6N 1H1,West,ACC00085,N/A,0.0,0,2021-02-22,Active
+CUST00086,Selena,Duncan,F,1985-01-21,2023-10-08,Debit,High,1,selena.duncan@gmail.com,416-915-9846,3292 Glover Tunnel Apt. 296,Victoria,BC,R7S1V1,West,ACC00086,N/A,0.0,0,2019-08-09,Active
+CUST00087,Thomas,Mueller,F,1996-06-07,2022-09-16,Mastercard,Mid,0,thomas.mueller@icloud.com,403-843-7926,505 Andrew Avenue,Edmonton,AB,K3P 2M7,West,ACC00087,Platinum,0.039,20000,2019-07-14,Active
+CUST00088,Lindsey,Lee,F,1967-06-21,2021-06-06,Gift Card,High,1,lindsey.lee@hotmail.com,514-365-9314,10447 Hamilton Spur Apt. 575,Moncton,NB,H4R 4A3,East,ACC00088,N/A,0.0,0,2023-04-14,Active
+CUST00089,Collin,Jordan,F,1982-03-26,2022-06-15,Debit,Mid,1,collin.jordan@icloud.com,905-559-5881,098 David Station,Toronto,ON,R1L 1Y2,East,ACC00089,N/A,0.0,0,2022-04-03,Active
+CUST00090,Rodney,Owens,F,1982-01-29,2020-10-22,Cash,Low,0,rodney.owens@yahoo.com,604-924-9737,16761 Wells Drives,Calgary,AB,A2M 9S5,West,ACC00090,N/A,0.0,0,2024-01-25,Active
+CUST00091,Jessica,Nunez,M,1999-09-10,2022-03-13,Visa,Low,0,jessica.nunez@yahoo.com,403-782-3293,1891 Wilson Coves,Winnipeg,MB,J9J4L6,Central,ACC00091,N/A,0.0,0,2023-07-28,Active
+CUST00092,Tracey,Garcia,M,1977-01-11,2020-12-27,Debit,High,1,tracey.garcia@gmail.com,604-942-6919,2087 Haley Orchard Suite 300,Quebec City,QC,E2V 9G2,East,ACC00092,N/A,0.0,0,2023-03-05,Active
+CUST00093,Richard,Morgan,M,1958-11-29,2021-11-24,Cash,High,1,richard.morgan@hotmail.com,204-183-2511,3744 Williams Via,Surrey,BC,B6M 7P2,West,ACC00093,N/A,0.0,0,2022-08-18,Active
+CUST00094,Michelle,Wright,M,2000-09-17,2022-08-15,Debit,Low,1,michelle.wright@yahoo.com,306-179-7050,02255 Friedman Grove,Ottawa,ON,P2N 7H7,East,ACC00094,N/A,0.0,0,2023-10-12,Active
+CUST00095,James,West,M,1979-10-30,2020-09-19,Debit,Mid,1,james.west@outlook.com,204-992-5320,6762 David Stream Apt. 216,Gatineau,QC,T6H1R3,East,ACC00095,N/A,0.0,0,2023-11-04,Active
+CUST00096,Robert,Ramirez,M,1987-09-05,2020-12-21,Debit,Mid,1,robert.ramirez@shaw.ca,306-849-7830,1670 Jose Island Apt. 899,Lethbridge,AB,N2X 7X4,West,ACC00096,N/A,0.0,0,2021-03-27,Inactive
+CUST00097,John,Leblanc,F,1968-09-22,2023-03-02,Visa,Low,1,john.leblanc@outlook.com,306-828-8499,6289 Alexander Estate Suite 721,Winnipeg,MB,N5K1N9,Central,ACC00097,N/A,0.0,0,2022-07-10,Active
+CUST00098,Scott,Callahan,M,1983-05-23,2019-07-25,Debit,Mid,1,scott.callahan@outlook.com,905-811-4483,663 Stephen Unions,London,ON,C6V2T8,East,ACC00098,N/A,0.0,0,2021-06-03,Active
+CUST00099,Andrea,Williams,M,1969-05-10,2020-07-15,Mastercard,Mid,0,andrea.williams@hotmail.com,514-221-7694,66088 Margaret Turnpike,Vancouver,BC,X8Y6J6,West,ACC00099,Standard,0.027,5000,2022-07-15,Inactive
+CUST00100,Yvette,Huff,F,2002-01-15,2019-07-30,Cash,Mid,1,yvette.huff@outlook.com,416-635-3511,75899 Moran Lakes,Mississauga,ON,E1E6K6,East,ACC00100,N/A,0.0,0,2019-07-22,Active
+CUST00101,Tanya,House,F,1962-08-11,2020-06-01,Cash,High,1,tanya.house@shaw.ca,403-401-8961,851 Penny Park Apt. 614,Mississauga,ON,J4E 8R4,East,ACC00101,N/A,0.0,0,2021-04-24,Inactive
+CUST00102,Melinda,Martin,F,1962-10-23,2019-11-07,Mastercard,Mid,0,melinda.martin@gmail.com,204-149-5999,60917 Barrett Parkways Apt. 708,Ottawa,ON,Y9S 3V3,East,ACC00102,Platinum,0.035,10000,2021-01-04,Inactive
+CUST00103,Todd,Lewis,F,1995-05-04,2022-05-26,Visa,High,1,todd.lewis@gmail.com,306-102-3004,69958 Barnes Rest,Saskatoon,SK,L5R 8N3,Central,ACC00103,N/A,0.0,0,2020-12-05,Active
+CUST00104,Richard,Brown,M,1984-09-04,2023-10-28,Visa,Mid,1,richard.brown@rogers.com,204-592-6074,9848 Joseph Plaza,Calgary,AB,J6J 3M3,West,ACC00104,N/A,0.0,0,2020-05-24,Active
+CUST00105,Nicholas,Galloway,F,1966-11-26,2024-04-24,Debit,Mid,1,nicholas.galloway@icloud.com,306-954-3175,158 Aguilar Shores Suite 846,Red Deer,AB,X7E 3A1,West,ACC00105,N/A,0.0,0,2023-05-25,Active
+CUST00106,Joseph,Bowers,M,1964-09-25,2019-11-17,Mastercard,Mid,1,joseph.bowers@icloud.com,306-252-6328,42442 Hannah Hill,Gatineau,QC,Y8B 2P9,East,ACC00106,Gold,0.04,10000,2023-04-24,Active
+CUST00107,Spencer,Henderson,M,1983-05-14,2022-12-10,Cash,Low,1,spencer.henderson@hotmail.com,204-496-4814,863 Schwartz Causeway,Hamilton,ON,R9S1N1,East,ACC00107,N/A,0.0,0,2020-03-04,Active
+CUST00108,Susan,Cowan,M,1975-10-01,2021-05-20,Mastercard,Low,1,susan.cowan@outlook.com,306-853-5544,97359 Kimberly Fields Suite 721,Regina,SK,H7X 1E7,Central,ACC00108,Platinum,0.029,25000,2021-04-01,Active
+CUST00109,Angela,Higgins,F,1963-05-09,2019-12-06,Debit,High,0,angela.higgins@hotmail.com,403-674-3028,422 Smith Mountain Apt. 025,Edmonton,AB,M6V 2Y6,West,ACC00109,N/A,0.0,0,2023-05-19,Inactive
+CUST00110,Eric,Phillips,M,2000-01-19,2022-11-11,Mastercard,Mid,1,eric.phillips@gmail.com,416-683-9548,81826 Davis Forges,Calgary,AB,N5N 4P9,West,ACC00110,Platinum,0.036,10000,2020-12-21,Active
+CUST00111,Tanya,Riley,M,1961-07-30,2023-12-27,Mastercard,Mid,1,tanya.riley@outlook.com,416-223-9713,015 Allen Row Apt. 056,Brampton,ON,R5L 1Y9,East,ACC00111,Platinum,0.035,7500,2020-10-10,Inactive
+CUST00112,Amy,Adkins,M,1959-11-11,2023-04-16,Debit,Low,1,amy.adkins@gmail.com,604-351-8278,877 Kenneth Run Apt. 581,Toronto,ON,H1Y 2Y4,East,ACC00112,N/A,0.0,0,2019-07-27,Inactive
+CUST00113,Brian,Silva,NB,1997-09-03,2024-02-20,Mastercard,Mid,1,brian.silva@outlook.com,204-703-1737,613 Lucas Cliffs,Hamilton,ON,A1T 2N2,East,ACC00113,Standard,0.022,20000,2021-10-15,Active
+CUST00114,Wesley,Farrell,M,2000-03-02,2020-12-13,Mastercard,Low,1,wesley.farrell@yahoo.com,647-524-1394,48193 Russell Mission,Vancouver,BC,S7N2A9,West,ACC00114,Platinum,0.016,25000,2021-09-21,Active
+CUST00115,Eric,Yu,M,2002-06-14,2020-08-13,Debit,High,1,eric.yu@yahoo.com,905-217-2627,919 Jaclyn Cliffs,Brandon,MB,X5E2M5,Central,ACC00115,N/A,0.0,0,2023-07-09,Active
+CUST00116,Christopher,Lopez,F,1980-08-23,2020-10-24,Mastercard,High,0,christopher.lopez@gmail.com,403-886-2468,6072 Derek Lock Suite 245,Red Deer,AB,Y2Y 1G1,West,ACC00116,Gold,0.015,7500,2020-10-23,Active
+CUST00117,Brooke,Leonard,F,1999-06-13,2021-04-26,Mastercard,Mid,1,brooke.leonard@hotmail.com,416-729-6329,814 Kaitlin Stream Suite 368,Brampton,ON,H5H 4K2,East,ACC00117,Standard,0.019,20000,2022-12-05,Active
+CUST00118,Joe,Wilson,M,1962-08-19,2020-02-21,Mastercard,Mid,0,joe.wilson@gmail.com,204-201-6243,908 Newman Cliffs,London,ON,C4L8E6,East,ACC00118,Standard,0.027,7500,2021-03-26,Active
+CUST00119,Pamela,Sanchez,F,1960-08-03,2024-06-16,Visa,High,1,pamela.sanchez@gmail.com,905-153-4318,31491 Louis Mission Suite 949,Mississauga,ON,P3N 1S6,East,ACC00119,N/A,0.0,0,2019-06-05,Active
+CUST00120,Brooke,Harvey,F,1994-08-09,2019-07-10,Mastercard,Low,0,brooke.harvey@outlook.com,306-620-9264,64525 Ford Knolls,Hamilton,ON,V3Y2E5,East,ACC00120,Standard,0.028,25000,2021-04-08,Inactive
+CUST00121,Robert,Silva,M,1971-10-25,2021-10-17,Cash,High,1,robert.silva@gmail.com,514-575-7669,341 Patricia Vista,Vancouver,BC,R9J 5B9,West,ACC00121,N/A,0.0,0,2019-10-26,Active
+CUST00122,Alexandra,Donovan,M,2000-05-13,2020-05-14,Visa,Low,1,alexandra.donovan@yahoo.com,604-119-5409,256 Patricia Radial Suite 278,Toronto,ON,R1P 4X3,East,ACC00122,N/A,0.0,0,2021-12-27,Active
+CUST00123,James,Moran,F,1970-04-01,2023-11-05,Mastercard,High,1,james.moran@gmail.com,647-411-7664,2299 Jill Orchard,Calgary,AB,B4K2V5,West,ACC00123,Standard,0.022,25000,2023-07-27,Inactive
+CUST00124,John,Foster,F,1981-12-20,2023-08-08,Mastercard,High,1,john.foster@outlook.com,647-482-9854,03856 Hardin Cape Apt. 518,Victoria,BC,L7Y7H6,West,ACC00124,Platinum,0.028,5000,2020-10-25,Suspended
+CUST00125,Emily,Evans,M,1971-05-02,2021-07-03,Visa,Mid,1,emily.evans@outlook.com,204-668-8401,463 Gomez Ways,Moncton,NB,V9V3A8,East,ACC00125,N/A,0.0,0,2021-06-25,Inactive
+CUST00126,Leslie,Walton,F,1986-11-14,2023-11-16,Mastercard,Mid,1,leslie.walton@yahoo.com,403-768-3742,18432 Eric Rapids,Markham,ON,K2S 8N8,East,ACC00126,Standard,0.015,10000,2019-02-23,Active
+CUST00127,Charles,Ellis,F,1961-12-01,2020-10-13,Debit,High,1,charles.ellis@gmail.com,403-959-7228,92603 David Ramp Apt. 280,Brampton,ON,B3H 9L7,East,ACC00127,N/A,0.0,0,2023-09-03,Active
+CUST00128,Yolanda,Ferrell,M,1971-08-25,2021-10-11,Gift Card,High,1,yolanda.ferrell@gmail.com,403-146-3644,413 Obrien Mountains,Saint John,NB,H3K3S9,East,ACC00128,N/A,0.0,0,2020-03-24,Active
+CUST00129,Charles,Lewis,M,1997-07-02,2019-07-24,Visa,High,1,charles.lewis@yahoo.com,204-815-3014,57991 Nicholas Curve Apt. 038,Montreal,QC,G8E1H9,East,ACC00129,N/A,0.0,0,2020-04-07,Active
+CUST00130,Joseph,Mahoney,NB,1971-11-07,2019-06-03,Visa,Mid,1,joseph.mahoney@rogers.com,604-725-9270,72980 Boyd Land,Brandon,MB,X8S 7K6,Central,ACC00130,N/A,0.0,0,2023-07-21,Active
+CUST00131,Nicole,Suarez,F,1987-06-24,2023-10-12,Debit,High,1,nicole.suarez@rogers.com,514-750-5282,2473 Justin Wells,Dartmouth,NS,L1J9A2,East,ACC00131,N/A,0.0,0,2019-01-26,Active
+CUST00132,Mike,Moore,F,2001-10-11,2023-11-22,Visa,Low,1,mike.moore@yahoo.com,604-778-6269,3565 Eric Run,Saint John,NB,L6Y5S7,East,ACC00132,N/A,0.0,0,2019-02-12,Inactive
+CUST00133,Martha,Warner,NB,1978-05-30,2023-03-10,Mastercard,High,1,martha.warner@bell.net,514-116-3190,8872 Hansen Orchard,Brampton,ON,M3P2R4,East,ACC00133,Gold,0.023,20000,2022-02-02,Suspended
+CUST00134,Cheryl,Archer,M,1972-12-04,2022-11-22,Mastercard,Mid,1,cheryl.archer@outlook.com,416-109-3843,213 Hartman Unions Apt. 260,Calgary,AB,G2V 2S5,West,ACC00134,Standard,0.016,20000,2022-04-04,Active
+CUST00135,Destiny,Smith,M,1996-08-21,2019-10-26,Mastercard,Mid,1,destiny.smith@hotmail.com,204-651-2329,1906 Mendez Pike,Victoria,BC,B8H1V4,West,ACC00135,Gold,0.037,15000,2023-03-10,Active
+CUST00136,Lisa,Evans,F,1992-04-27,2022-06-23,Debit,Mid,1,lisa.evans@outlook.com,306-788-3022,09883 Emily Lake Apt. 021,Montreal,QC,R7P4R9,East,ACC00136,N/A,0.0,0,2023-06-20,Suspended
+CUST00137,Elizabeth,Mcmillan,F,1999-03-26,2020-06-06,Debit,Mid,1,elizabeth.mcmillan@yahoo.com,514-496-3903,118 Barber Points,Markham,ON,P4L8K7,East,ACC00137,N/A,0.0,0,2023-07-04,Inactive
+CUST00138,Dennis,Wilson,NB,1964-08-17,2021-06-23,Cash,Mid,0,dennis.wilson@gmail.com,514-297-8283,2681 Wesley Junctions,Winnipeg,MB,X5L 8Y7,Central,ACC00138,N/A,0.0,0,2021-06-02,Active
+CUST00139,Daniel,Tran,NB,1998-12-26,2023-09-28,Mastercard,High,1,daniel.tran@gmail.com,403-796-6862,57790 Wilson Cliff Suite 335,London,ON,P1X5Y4,East,ACC00139,World Elite,0.038,10000,2022-01-11,Active
+CUST00140,Joseph,Jacobs,F,1990-03-16,2022-03-23,Mastercard,Low,0,joseph.jacobs@outlook.com,403-927-4623,65182 Edwards Forge Suite 237,Markham,ON,K4K 4L4,East,ACC00140,World Elite,0.014,25000,2020-05-20,Active
+CUST00141,Jennifer,Harris,F,1958-09-23,2022-03-05,Cash,High,0,jennifer.harris@bell.net,416-387-9074,521 Samantha Springs,Brampton,ON,A8Y6B6,East,ACC00141,N/A,0.0,0,2022-03-31,Active
+CUST00142,Cynthia,Baker,F,1983-09-05,2023-05-08,Debit,Mid,1,cynthia.baker@gmail.com,204-213-5544,472 Sanders Terrace Apt. 086,Saskatoon,SK,Y6B7X3,Central,ACC00142,N/A,0.0,0,2024-02-22,Active
+CUST00143,Tracy,Whitehead,F,1970-04-09,2022-07-10,Mastercard,Low,1,tracy.whitehead@gmail.com,604-775-3875,87500 Nicolas Courts Suite 594,Lethbridge,AB,Y5L 8K6,West,ACC00143,Gold,0.024,10000,2019-08-03,Inactive
+CUST00144,Meghan,Davis,F,1990-09-25,2023-02-08,Mastercard,Mid,1,meghan.davis@hotmail.com,647-365-4734,76365 Dickerson Harbors Suite 292,Ottawa,ON,E9L 7K7,East,ACC00144,Gold,0.032,25000,2022-12-08,Active
+CUST00145,Rodney,Hill,M,1990-10-28,2021-12-23,Visa,Low,0,rodney.hill@gmail.com,416-809-9731,27026 Taylor Vista,Regina,SK,V9M1L7,Central,ACC00145,N/A,0.0,0,2022-02-08,Inactive
+CUST00146,Adam,Wise,F,1984-06-24,2023-03-09,Cash,Mid,1,adam.wise@gmail.com,204-756-1849,203 Woods Roads,Lethbridge,AB,T6N 6L9,West,ACC00146,N/A,0.0,0,2020-04-03,Active
+CUST00147,Dana,Green,F,1978-03-29,2023-10-28,Debit,Mid,0,dana.green@yahoo.com,204-380-2994,0615 Barbara Run Apt. 455,Brandon,MB,T5C8R3,Central,ACC00147,N/A,0.0,0,2022-03-22,Inactive
+CUST00148,Joyce,Arnold,M,1966-02-07,2023-06-08,Mastercard,Low,1,joyce.arnold@outlook.com,416-838-4678,569 Sweeney Cliffs,Gatineau,QC,H6N 6K5,East,ACC00148,Gold,0.023,20000,2021-06-12,Active
+CUST00149,Ronald,Smith,F,1981-07-09,2022-04-12,Mastercard,Mid,1,ronald.smith@outlook.com,514-105-7420,647 Adkins Pike Suite 622,Brampton,ON,G2K 4L3,East,ACC00149,World Elite,0.011,15000,2022-02-18,Active
+CUST00150,Charles,Ware,F,1987-06-06,2024-02-18,Visa,Mid,1,charles.ware@rogers.com,416-855-4696,11780 Kelli Pine Apt. 149,Toronto,ON,C4R 4M5,East,ACC00150,N/A,0.0,0,2024-01-09,Active
+CUST00151,Rebecca,Gardner,NB,1994-08-19,2019-08-27,Mastercard,Mid,1,rebecca.gardner@bell.net,604-301-3694,228 Anthony Shore Suite 577,Fredericton,NB,Y9T3G8,East,ACC00151,Platinum,0.014,25000,2020-12-26,Active
+CUST00152,Mary,Aguilar,F,1970-03-04,2021-03-06,Visa,High,0,mary.aguilar@outlook.com,905-128-8863,845 Fernandez Valley Apt. 745,Toronto,ON,L1G1M9,East,ACC00152,N/A,0.0,0,2023-01-12,Active
+CUST00153,Earl,Anderson,M,1971-11-12,2023-12-19,Mastercard,Mid,1,earl.anderson@outlook.com,514-960-5102,4780 Arroyo Neck,Vancouver,BC,A4S1M9,West,ACC00153,Standard,0.037,5000,2023-01-01,Active
+CUST00154,Kyle,Nolan,M,1960-12-08,2022-11-14,Mastercard,High,0,kyle.nolan@gmail.com,514-952-1891,68663 Jennifer Rue Suite 634,Brampton,ON,S5K 5X9,East,ACC00154,Gold,0.033,7500,2021-03-22,Active
+CUST00155,Laura,Valencia,F,1990-12-15,2022-01-20,Cash,Low,1,laura.valencia@bell.net,306-882-2567,3122 Rodriguez Motorway Suite 497,Winnipeg,MB,N1A 9G1,Central,ACC00155,N/A,0.0,0,2021-07-14,Active
+CUST00156,Rachel,Clark,F,1998-10-18,2019-07-07,Debit,Mid,1,rachel.clark@gmail.com,416-134-7183,44270 Christopher Bridge,Calgary,AB,J5N8S6,West,ACC00156,N/A,0.0,0,2022-11-28,Active
+CUST00157,John,Garcia,M,1979-11-08,2019-09-15,Debit,High,1,john.garcia@hotmail.com,647-163-8240,051 Brian Trail Suite 187,Markham,ON,J1L 2R4,East,ACC00157,N/A,0.0,0,2020-11-07,Active
+CUST00158,Kimberly,Henson,F,1978-11-26,2020-11-03,Debit,Mid,1,kimberly.henson@outlook.com,905-204-1914,3037 Adriana Fords Suite 645,Hamilton,ON,B2Y 5X8,East,ACC00158,N/A,0.0,0,2023-06-24,Inactive
+CUST00159,Richard,Oliver,M,1969-08-30,2022-01-11,Mastercard,Mid,1,richard.oliver@icloud.com,204-198-7735,50313 Nguyen Expressway Suite 916,Red Deer,AB,A3B 6V2,West,ACC00159,World Elite,0.014,20000,2022-10-27,Active
+CUST00160,Eric,Spears,M,1979-05-07,2022-04-20,Mastercard,Low,1,eric.spears@icloud.com,416-564-7290,71950 Michael Drives,Hamilton,ON,G6V 9K6,East,ACC00160,Platinum,0.039,5000,2022-12-29,Active
+CUST00161,Michelle,Cherry,M,1963-09-14,2021-09-02,Mastercard,Mid,1,michelle.cherry@rogers.com,905-447-1425,306 Ramsey Glen Apt. 778,Richmond,BC,Y3V9J6,West,ACC00161,Gold,0.033,5000,2022-06-11,Active
+CUST00162,Lisa,Keith,F,1961-11-21,2023-01-29,Debit,Mid,1,lisa.keith@outlook.com,905-205-1201,749 Casey Drives Suite 448,Burnaby,BC,T7A3X1,West,ACC00162,N/A,0.0,0,2021-04-27,Active
+CUST00163,Angel,Doyle,M,1963-06-17,2021-09-07,Debit,Low,1,angel.doyle@outlook.com,604-686-3064,351 Lee Springs Suite 829,Calgary,AB,N2S2N9,West,ACC00163,N/A,0.0,0,2023-02-09,Active
+CUST00164,Martin,Galvan,M,1965-04-01,2020-10-21,Visa,Mid,1,martin.galvan@yahoo.com,306-842-8284,22031 Lee Bypass,Red Deer,AB,V1X6L4,West,ACC00164,N/A,0.0,0,2022-05-16,Active
+CUST00165,Leah,Shields,F,1987-03-05,2021-02-19,Gift Card,Mid,1,leah.shields@icloud.com,416-230-6106,37170 Grant Mall,Ottawa,ON,B1L2X5,East,ACC00165,N/A,0.0,0,2020-01-03,Inactive
+CUST00166,Lisa,Adams,F,1968-04-07,2023-10-13,Debit,Mid,0,lisa.adams@yahoo.com,647-250-8692,81138 Lopez Pine,Red Deer,AB,H7Y 2Y6,West,ACC00166,N/A,0.0,0,2019-03-02,Active
+CUST00167,Kristin,Rodriguez,M,1978-07-02,2021-04-27,Mastercard,Mid,1,kristin.rodriguez@gmail.com,416-630-3369,612 Andrea Parkways Suite 289,Mississauga,ON,P6N6Y7,East,ACC00167,Gold,0.014,5000,2019-07-12,Inactive
+CUST00168,Monica,Garrison,F,1980-11-13,2021-02-05,Gift Card,Mid,1,monica.garrison@icloud.com,416-532-6633,593 Nicholas Plaza Suite 577,Hamilton,ON,A1B9M3,East,ACC00168,N/A,0.0,0,2022-03-21,Active
+CUST00169,Jeffrey,Velasquez,M,1996-09-29,2019-07-17,Debit,Low,1,jeffrey.velasquez@hotmail.com,604-904-2120,43350 Ellison Pass Apt. 107,Ottawa,ON,G6G4L4,East,ACC00169,N/A,0.0,0,2022-11-04,Active
+CUST00170,Steven,Torres,M,1987-07-29,2022-10-04,Mastercard,Mid,1,steven.torres@yahoo.com,306-714-6425,1969 Jessica Stream Suite 727,London,ON,M2B 1R6,East,ACC00170,Gold,0.031,7500,2023-10-02,Active
+CUST00171,Laura,Perez,M,1962-08-13,2024-06-06,Mastercard,Low,1,laura.perez@outlook.com,204-436-3658,6139 Cynthia Roads Suite 048,Brandon,MB,N6Y 9G4,Central,ACC00171,Standard,0.021,25000,2021-05-31,Inactive
+CUST00172,Andrew,Lee,M,2001-04-05,2020-04-04,Debit,Mid,1,andrew.lee@rogers.com,306-324-1060,67998 Jeffrey Highway,Markham,ON,G2G8N1,East,ACC00172,N/A,0.0,0,2021-10-20,Active
+CUST00173,Mark,Lin,F,1978-04-16,2023-07-12,Mastercard,High,1,mark.lin@yahoo.com,604-344-8876,1686 Kathleen Orchard Apt. 769,Edmonton,AB,Y4X 2K5,West,ACC00173,Standard,0.016,10000,2022-08-18,Active
+CUST00174,Tammy,Ramirez,F,1960-05-10,2022-06-01,Cash,Mid,1,tammy.ramirez@icloud.com,204-310-7558,9116 Diaz Field Suite 590,Laval,QC,H3P8T1,East,ACC00174,N/A,0.0,0,2020-11-26,Active
+CUST00175,Darlene,Ross,M,1985-09-20,2024-03-02,Mastercard,High,1,darlene.ross@yahoo.com,905-466-1491,52110 Stacy Drive,Toronto,ON,A5N8E8,East,ACC00175,Standard,0.018,20000,2019-05-05,Suspended
+CUST00176,Tina,Herrera,M,1970-09-23,2023-02-26,Visa,High,1,tina.herrera@gmail.com,604-746-6896,3833 Dunn Road,Edmonton,AB,A1R 5X3,West,ACC00176,N/A,0.0,0,2019-05-02,Active
+CUST00177,Sheila,Wilson,F,1988-08-01,2019-11-19,Mastercard,High,1,sheila.wilson@gmail.com,403-278-4587,3940 Pena Branch,Toronto,ON,R2L 1P5,East,ACC00177,Standard,0.01,20000,2019-01-26,Active
+CUST00178,Tara,White,F,1962-09-20,2019-11-15,Mastercard,Mid,1,tara.white@yahoo.com,604-282-4211,68157 Jacob Parkway Suite 800,Saskatoon,SK,X8M 7N3,Central,ACC00178,Gold,0.011,20000,2022-02-27,Active
+CUST00179,Sydney,Baker,M,2001-07-28,2022-05-28,Mastercard,High,1,sydney.baker@gmail.com,905-121-3248,5543 Cain Road,Markham,ON,R5A4Y3,East,ACC00179,Standard,0.015,25000,2022-06-25,Active
+CUST00180,Daniel,Hamilton,F,1983-05-31,2022-10-20,Debit,Mid,1,daniel.hamilton@rogers.com,514-315-5998,2168 Robert Ports Apt. 649,Markham,ON,T4Y3G9,East,ACC00180,N/A,0.0,0,2022-01-01,Active
+CUST00181,Jessica,Edwards,NB,1962-12-01,2019-01-16,Mastercard,High,1,jessica.edwards@icloud.com,647-639-8106,48262 Lonnie Point,Burnaby,BC,H1N 6G7,West,ACC00181,Standard,0.036,7500,2022-05-13,Active
+CUST00182,Catherine,Dixon,M,1968-10-06,2019-01-16,Visa,Low,1,catherine.dixon@gmail.com,647-913-4107,7423 David Burg Suite 999,Saskatoon,SK,K6K 2A8,Central,ACC00182,N/A,0.0,0,2019-12-29,Inactive
+CUST00183,Paul,Ray,F,1989-10-10,2019-05-28,Mastercard,Mid,1,paul.ray@hotmail.com,514-713-8037,975 Melissa Overpass,Brampton,ON,G4H1J7,East,ACC00183,Platinum,0.036,7500,2021-11-05,Active
+CUST00184,Jonathan,Fletcher,M,1986-02-01,2022-03-25,Mastercard,Mid,1,jonathan.fletcher@bell.net,604-974-9773,6333 Gregory Mill,Moncton,NB,N7T7K1,East,ACC00184,Platinum,0.011,5000,2024-03-30,Active
+CUST00185,Aaron,Frost,F,1987-02-20,2019-12-18,Debit,High,0,aaron.frost@yahoo.com,416-744-5588,569 Abigail Mission Suite 038,Ottawa,ON,B9Y1R4,East,ACC00185,N/A,0.0,0,2023-06-14,Inactive
+CUST00186,Amanda,Ball,M,1967-07-01,2020-05-13,Mastercard,Low,0,amanda.ball@gmail.com,905-903-8711,6447 Roberto Ridge Apt. 827,Regina,SK,C3X9E3,Central,ACC00186,Platinum,0.019,10000,2019-08-09,Active
+CUST00187,Judy,Lambert,M,1977-11-17,2020-11-13,Debit,Mid,1,judy.lambert@gmail.com,204-869-9342,5702 Garza Station Apt. 714,Montreal,QC,H2E8C6,East,ACC00187,N/A,0.0,0,2020-01-05,Active
+CUST00188,Michael,Jones,F,1989-05-06,2020-12-20,Debit,High,1,michael.jones@yahoo.com,514-829-7125,689 Nicholas Light,Hamilton,ON,H3N 3G3,East,ACC00188,N/A,0.0,0,2019-12-09,Inactive
+CUST00189,Elizabeth,Rivera,F,1975-09-13,2019-12-22,Visa,Mid,1,elizabeth.rivera@hotmail.com,306-585-5396,4474 David Curve,Richmond,BC,A8L 8A8,West,ACC00189,N/A,0.0,0,2021-10-16,Active
+CUST00190,Lee,Charles,F,2002-05-01,2021-08-08,Debit,Mid,0,lee.charles@gmail.com,604-562-4840,733 Chavez Mills,Calgary,AB,A5K 9Y4,West,ACC00190,N/A,0.0,0,2019-11-14,Suspended
+CUST00191,Jennifer,Evans,M,1986-12-30,2023-11-05,Gift Card,Mid,1,jennifer.evans@yahoo.com,204-685-3575,20502 Elizabeth Villages,Burnaby,BC,N2C7B3,West,ACC00191,N/A,0.0,0,2024-02-28,Active
+CUST00192,Kyle,Ortiz,F,1982-08-23,2022-04-26,Mastercard,Mid,1,kyle.ortiz@gmail.com,905-237-2376,499 Tammy Summit,Dartmouth,NS,B6C6M7,East,ACC00192,Gold,0.03,15000,2023-05-25,Active
+CUST00193,Richard,Phillips,NB,1983-10-03,2019-06-07,Visa,Low,1,richard.phillips@yahoo.com,416-576-9392,8147 David Wall,Hamilton,ON,N9X4S4,East,ACC00193,N/A,0.0,0,2019-08-27,Active
+CUST00194,David,Fisher,F,1961-09-06,2021-07-10,Cash,Low,1,david.fisher@yahoo.com,204-518-7021,98179 Simmons Vista,Lethbridge,AB,L3X8P9,West,ACC00194,N/A,0.0,0,2019-05-15,Active
+CUST00195,Shelby,Byrd,F,1963-07-21,2021-07-11,Mastercard,Mid,1,shelby.byrd@gmail.com,416-283-8236,2934 Aaron Burg Suite 139,Laval,QC,S6B9N4,East,ACC00195,Gold,0.017,15000,2020-01-21,Active
+CUST00196,Raven,Gilbert,M,1973-06-25,2019-03-22,Mastercard,Mid,1,raven.gilbert@gmail.com,905-401-9220,344 Kyle Parkways,London,ON,A6E7N1,East,ACC00196,Standard,0.012,15000,2023-07-19,Inactive
+CUST00197,Kevin,Kelley,M,1991-06-14,2024-02-23,Mastercard,Mid,1,kevin.kelley@gmail.com,403-333-2612,55770 Timothy Road,Victoria,BC,Y7N1T9,West,ACC00197,Platinum,0.033,20000,2019-07-22,Inactive
+CUST00198,Aaron,Mitchell,F,1988-01-09,2019-05-15,Mastercard,Mid,1,aaron.mitchell@gmail.com,604-441-4221,588 Jared Spur Suite 512,Mississauga,ON,A9N3R7,East,ACC00198,Standard,0.03,20000,2022-02-27,Active
+CUST00199,Russell,Carpenter,F,1971-06-29,2020-11-13,Mastercard,High,1,russell.carpenter@yahoo.com,403-295-3258,145 Joseph Corners,Laval,QC,K5P4T9,East,ACC00199,Gold,0.022,20000,2022-08-10,Active
+CUST00200,Diana,Marshall,F,1993-03-01,2019-09-22,Visa,Mid,1,diana.marshall@hotmail.com,403-108-5906,15031 Hunter Union Suite 823,Saint John,NB,V6X3M2,East,ACC00200,N/A,0.0,0,2020-10-18,Active
+CUST00201,Scott,Lewis,NB,1969-06-19,2022-10-04,Debit,High,0,scott.lewis@icloud.com,204-515-1194,07681 Larry Cape,Mississauga,ON,N2T 9B5,East,ACC00201,N/A,0.0,0,2023-04-13,Active
+CUST00202,Thomas,Santana,M,1995-12-27,2021-11-07,Mastercard,Low,1,thomas.santana@shaw.ca,647-986-7512,435 James Harbor,Kelowna,BC,T3E3L5,West,ACC00202,World Elite,0.023,15000,2021-02-11,Active
+CUST00203,Laura,Jackson,M,2001-08-17,2020-01-29,Mastercard,Low,0,laura.jackson@hotmail.com,306-339-9451,98813 Dunn Groves,London,ON,M2K 5H6,East,ACC00203,Standard,0.013,20000,2021-09-18,Active
+CUST00204,Christopher,Robertson,F,1961-05-21,2022-09-17,Mastercard,Low,1,christopher.robertson@hotmail.com,306-448-2406,20701 Brown Meadow Suite 299,Lethbridge,AB,P4M9N2,West,ACC00204,Standard,0.04,10000,2023-04-28,Active
+CUST00205,Cynthia,Rogers,M,1972-11-07,2023-01-16,Mastercard,Mid,1,cynthia.rogers@yahoo.com,204-314-8187,217 Stanley Spur Suite 733,Ottawa,ON,L3P 6R6,East,ACC00205,Standard,0.035,7500,2019-07-02,Active
+CUST00206,Loretta,Potter,M,1983-07-25,2023-03-21,Debit,Mid,1,loretta.potter@gmail.com,647-691-3102,0171 Mendoza Vista Apt. 459,Kelowna,BC,X2E 6R9,West,ACC00206,N/A,0.0,0,2022-04-18,Active
+CUST00207,Emily,Walker,M,2000-01-29,2024-01-26,Debit,High,0,emily.walker@gmail.com,514-447-4694,8769 Allen Gardens,London,ON,V6R 4C7,East,ACC00207,N/A,0.0,0,2022-03-15,Active
+CUST00208,James,Johnson,F,1983-04-13,2023-05-13,Mastercard,High,1,james.johnson@icloud.com,403-433-1380,583 Elaine Club Suite 199,Victoria,BC,N8Y3E5,West,ACC00208,Gold,0.032,20000,2019-02-27,Active
+CUST00209,John,Alvarez,F,1970-06-02,2023-11-23,Mastercard,High,1,john.alvarez@bell.net,647-438-7404,91965 Newman Circle Apt. 329,Calgary,AB,G9G 5T7,West,ACC00209,Standard,0.016,20000,2019-04-18,Inactive
+CUST00210,Melissa,Jones,M,1969-03-09,2020-08-06,Mastercard,Mid,1,melissa.jones@bell.net,905-647-7331,35494 Robbins Key Apt. 909,Moncton,NB,G6M9B1,East,ACC00210,Platinum,0.023,20000,2021-12-09,Inactive
+CUST00211,Robert,Soto,F,1966-03-25,2024-04-22,Cash,High,0,robert.soto@yahoo.com,306-754-5991,851 Glenn Freeway,Toronto,ON,R7N7R7,East,ACC00211,N/A,0.0,0,2021-11-07,Active
+CUST00212,James,Horton,M,1993-07-27,2021-10-25,Mastercard,Low,1,james.horton@hotmail.com,647-132-9005,272 Angela Ville,Toronto,ON,S3G3M1,East,ACC00212,Platinum,0.037,5000,2021-07-25,Inactive
+CUST00213,Troy,Sanchez,M,1966-11-21,2023-09-15,Debit,Low,1,troy.sanchez@gmail.com,204-390-4373,027 Proctor Dale,Ottawa,ON,G7S 3T8,East,ACC00213,N/A,0.0,0,2024-01-02,Active
+CUST00214,Diana,Smith,F,2000-05-21,2022-11-26,Debit,Mid,1,diana.smith@outlook.com,306-158-7039,765 Jacob Rapids Apt. 973,London,ON,S1Y1P8,East,ACC00214,N/A,0.0,0,2020-10-17,Active
+CUST00215,Karen,Carrillo,M,1959-09-15,2020-06-08,Mastercard,High,1,karen.carrillo@yahoo.com,204-500-3572,97128 Marshall Common Apt. 371,Surrey,BC,B1N8Y8,West,ACC00215,Standard,0.016,25000,2022-06-09,Active
+CUST00216,Daniel,Coleman,M,1983-11-06,2020-05-01,Mastercard,Mid,1,daniel.coleman@outlook.com,306-860-2126,565 Roberts Camp Suite 940,Moncton,NB,H1B5M8,East,ACC00216,World Elite,0.016,25000,2019-08-27,Inactive
+CUST00217,Gregory,Rubio,F,1967-12-12,2023-09-10,Cash,Low,1,gregory.rubio@gmail.com,604-417-8081,81442 Hill Glens,Surrey,BC,E8H 6G3,West,ACC00217,N/A,0.0,0,2019-01-10,Inactive
+CUST00218,April,Williams,F,1970-11-18,2020-08-19,Mastercard,Low,1,april.williams@gmail.com,403-701-4325,372 Matthew Corner Apt. 927,Gatineau,QC,R3K4T6,East,ACC00218,Platinum,0.037,10000,2019-12-29,Suspended
+CUST00219,John,Charles,M,1965-09-06,2021-12-08,Gift Card,Mid,1,john.charles@yahoo.com,604-107-3337,410 Steven Mountains,Victoria,BC,V7Y7K8,West,ACC00219,N/A,0.0,0,2023-08-20,Active
+CUST00220,Stephen,Solis,M,1959-10-29,2021-03-10,Cash,Mid,1,stephen.solis@outlook.com,604-638-6388,86047 Gregory Pines Apt. 185,Richmond,BC,L5N2L5,West,ACC00220,N/A,0.0,0,2024-02-23,Inactive
+CUST00221,Elizabeth,Travis,M,1990-01-14,2023-06-03,Mastercard,Mid,1,elizabeth.travis@yahoo.com,416-854-2492,3938 Byrd Falls Suite 800,Regina,SK,A9S 2E8,Central,ACC00221,Standard,0.014,7500,2022-06-27,Active
+CUST00222,Caitlin,Dodson,F,1987-10-31,2019-10-01,Mastercard,High,1,caitlin.dodson@yahoo.com,403-500-3869,44300 Brian Ranch Apt. 911,Brampton,ON,G2R 3H5,East,ACC00222,Platinum,0.023,20000,2022-12-25,Inactive
+CUST00223,Patricia,Salazar,M,1999-09-07,2022-11-25,Visa,Low,1,patricia.salazar@rogers.com,204-568-7302,1746 Scott Tunnel Apt. 406,Surrey,BC,N5B3L8,West,ACC00223,N/A,0.0,0,2022-07-06,Active
+CUST00224,Jennifer,Wagner,F,1961-04-26,2020-08-23,Mastercard,High,1,jennifer.wagner@hotmail.com,905-502-1715,3962 Rodriguez Plains,Saskatoon,SK,J5E2T1,Central,ACC00224,World Elite,0.03,10000,2021-04-18,Active
+CUST00225,Maria,Kelley,M,1993-09-23,2023-07-28,Visa,High,1,maria.kelley@gmail.com,403-782-2093,94707 Denise Alley,Markham,ON,R6L 7G1,East,ACC00225,N/A,0.0,0,2021-05-01,Inactive
+CUST00226,Phyllis,Manning,M,1962-04-16,2023-11-09,Debit,High,1,phyllis.manning@rogers.com,204-880-2986,6618 Aaron Spurs Suite 198,Quebec City,QC,N1M2R6,East,ACC00226,N/A,0.0,0,2021-02-11,Active
+CUST00227,Thomas,Green,M,1997-06-14,2024-01-07,Gift Card,Low,1,thomas.green@icloud.com,514-519-8388,74328 Tammy Shore Apt. 461,Moncton,NB,V4C3T1,East,ACC00227,N/A,0.0,0,2024-01-20,Active
+CUST00228,John,Walsh,M,1981-12-05,2023-06-29,Mastercard,Mid,0,john.walsh@outlook.com,306-127-2199,93761 Porter Village,Ottawa,ON,A1B6N1,East,ACC00228,Platinum,0.018,5000,2022-07-07,Active
+CUST00229,Katie,Boyd,M,1984-05-10,2020-10-19,Mastercard,Mid,1,katie.boyd@yahoo.com,204-976-4185,38782 Sandy Camp Apt. 707,Lethbridge,AB,K3G 1A5,West,ACC00229,Standard,0.033,7500,2022-09-19,Active
+CUST00230,Courtney,Hill,M,1972-12-13,2022-11-13,Mastercard,High,0,courtney.hill@gmail.com,647-434-8606,9291 Danny Ranch,Vancouver,BC,C6J 7S6,West,ACC00230,Standard,0.013,7500,2024-01-22,Active
+CUST00231,Chris,Mitchell,F,1997-01-08,2020-07-16,Visa,Low,1,chris.mitchell@gmail.com,604-830-8171,982 Copeland Underpass,Vancouver,BC,B2H 2N5,West,ACC00231,N/A,0.0,0,2019-05-17,Active
+CUST00232,Joseph,Flores,F,1972-05-09,2024-05-05,Mastercard,Mid,1,joseph.flores@gmail.com,647-274-1295,2582 Sanchez Prairie,Markham,ON,G3E 1R8,East,ACC00232,Standard,0.038,10000,2022-10-26,Active
+CUST00233,Amber,Taylor,M,1979-03-05,2023-05-14,Visa,High,1,amber.taylor@gmail.com,204-272-2271,02194 Steele Turnpike,Edmonton,AB,G5J9G8,West,ACC00233,N/A,0.0,0,2022-11-24,Active
+CUST00234,Jesse,Benson,M,1998-05-14,2024-04-27,Mastercard,Low,1,jesse.benson@hotmail.com,647-551-6866,29092 Salazar Corners Suite 560,Montreal,QC,J2E 6X9,East,ACC00234,Gold,0.019,20000,2020-06-19,Active
+CUST00235,Jasmine,Brown,NB,1986-03-16,2022-08-23,Mastercard,Low,1,jasmine.brown@gmail.com,604-552-1782,3403 Laura Spur,London,ON,V1H1H6,East,ACC00235,Standard,0.035,7500,2019-06-27,Active
+CUST00236,Rick,Daniels,F,1968-07-25,2020-06-20,Debit,Low,1,rick.daniels@yahoo.com,403-554-1858,64597 Dan Center Apt. 207,Winnipeg,MB,C6K 7T4,Central,ACC00236,N/A,0.0,0,2021-10-16,Active
+CUST00237,Robert,Clark,F,2002-01-25,2020-02-14,Mastercard,Mid,0,robert.clark@icloud.com,604-355-7138,15313 Kane Lane Apt. 179,Calgary,AB,B4S8G3,West,ACC00237,Gold,0.011,15000,2019-08-12,Active
+CUST00238,Robert,Stein,F,1965-11-16,2023-07-18,Debit,Mid,1,robert.stein@gmail.com,204-128-1238,2735 Harris Crossroad Apt. 904,Saskatoon,SK,E7T 3T6,Central,ACC00238,N/A,0.0,0,2019-03-19,Inactive
+CUST00239,Brandy,Dominguez,M,1984-01-19,2023-12-31,Mastercard,High,1,brandy.dominguez@hotmail.com,905-325-2582,9292 Christopher Walks,Ottawa,ON,J5V1T7,East,ACC00239,Standard,0.033,5000,2020-05-10,Active
+CUST00240,Melissa,Cannon,NB,1990-06-07,2021-11-07,Mastercard,High,1,melissa.cannon@hotmail.com,416-525-9396,56939 Robin Avenue,Quebec City,QC,B9B1V7,East,ACC00240,Gold,0.032,15000,2022-05-07,Active
+CUST00241,Omar,Smith,M,1990-05-18,2022-02-08,Visa,High,1,omar.smith@yahoo.com,604-739-4393,1773 Angela Bridge Suite 325,Mississauga,ON,K8C5A3,East,ACC00241,N/A,0.0,0,2022-09-19,Inactive
+CUST00242,Michael,Molina,F,1963-11-25,2020-09-25,Mastercard,Mid,1,michael.molina@bell.net,905-337-4502,907 Ingram Well Suite 257,Dartmouth,NS,C9R 1N5,East,ACC00242,Platinum,0.016,7500,2023-01-24,Active
+CUST00243,Melissa,Ashley,F,1964-08-13,2019-09-14,Gift Card,Mid,1,melissa.ashley@gmail.com,204-769-6181,9893 Christine Isle Apt. 850,Mississauga,ON,R1P 6T6,East,ACC00243,N/A,0.0,0,2022-03-10,Active
+CUST00244,Robert,Adkins,M,1974-04-29,2023-04-22,Gift Card,High,1,robert.adkins@yahoo.com,905-773-5562,818 Devon Isle,Ottawa,ON,Y4E 4V6,East,ACC00244,N/A,0.0,0,2019-11-09,Active
+CUST00245,Amy,Morrison,M,1971-09-24,2020-09-14,Mastercard,High,1,amy.morrison@gmail.com,604-520-5940,8640 Nathan Mission Suite 881,Red Deer,AB,Y8Y6M2,West,ACC00245,World Elite,0.038,10000,2021-08-04,Active
+CUST00246,Jeffrey,Robinson,M,1983-06-26,2023-09-29,Mastercard,High,1,jeffrey.robinson@shaw.ca,905-829-9784,1162 Mullen Club,Gatineau,QC,H3L 8E3,East,ACC00246,Gold,0.022,7500,2020-08-20,Active
+CUST00247,Ryan,Johnson,F,1966-05-20,2021-10-26,Visa,Mid,1,ryan.johnson@gmail.com,905-714-6314,046 Thomas Manor,Quebec City,QC,A2M1J4,East,ACC00247,N/A,0.0,0,2020-04-06,Active
+CUST00248,Matthew,Shelton,M,1988-04-16,2023-09-22,Cash,High,1,matthew.shelton@yahoo.com,647-440-3872,9557 Ellis Port Apt. 424,Saint John,NB,V1P 3M6,East,ACC00248,N/A,0.0,0,2020-02-03,Active
+CUST00249,Richard,Martin,F,1981-09-29,2022-08-26,Mastercard,Mid,1,richard.martin@shaw.ca,306-169-6490,2928 White Extensions Apt. 231,Red Deer,AB,N5G 6T3,West,ACC00249,Platinum,0.011,15000,2019-05-23,Inactive
+CUST00250,Tanner,Anderson,F,1983-12-27,2022-08-07,Gift Card,High,1,tanner.anderson@yahoo.com,604-615-1217,055 Nathan Plains,Hamilton,ON,Y1M 7E8,East,ACC00250,N/A,0.0,0,2022-05-17,Active
+CUST00251,Cindy,Johnson,M,1964-07-19,2022-11-11,Mastercard,Mid,1,cindy.johnson@icloud.com,905-416-4873,5208 Holland Hill,Hamilton,ON,M6G2T8,East,ACC00251,Gold,0.014,10000,2019-04-27,Active
+CUST00252,Phillip,Elliott,F,1986-01-16,2023-10-31,Debit,High,0,phillip.elliott@outlook.com,416-240-7136,81406 Sean Course,Quebec City,QC,B4J5X4,East,ACC00252,N/A,0.0,0,2019-05-14,Active
+CUST00253,Anthony,Day,M,1991-03-30,2021-11-20,Visa,Mid,1,anthony.day@gmail.com,604-757-1621,87186 Tracy Rapids,Surrey,BC,P7R 6G7,West,ACC00253,N/A,0.0,0,2021-12-30,Active
+CUST00254,Derek,Murray,M,1966-09-08,2019-04-14,Mastercard,Mid,1,derek.murray@outlook.com,306-856-6385,45547 Jason Mills Suite 742,London,ON,S3G4C5,East,ACC00254,Platinum,0.032,10000,2021-01-28,Active
+CUST00255,Brent,Gray,F,1972-04-30,2023-07-25,Mastercard,Mid,1,brent.gray@hotmail.com,416-633-7797,519 Davis Lodge Suite 628,Mississauga,ON,G7J5H9,East,ACC00255,World Elite,0.031,5000,2021-02-19,Active
+CUST00256,Jason,Murphy,F,1999-11-18,2021-10-18,Cash,Low,1,jason.murphy@icloud.com,604-967-6427,49478 Walker Turnpike Apt. 244,Red Deer,AB,E3M8S4,West,ACC00256,N/A,0.0,0,2019-04-30,Inactive
+CUST00257,Kathleen,Gray,M,1979-08-07,2020-03-16,Visa,Mid,1,kathleen.gray@outlook.com,604-920-4644,47195 Cunningham Ways,Ottawa,ON,V9E1P5,East,ACC00257,N/A,0.0,0,2023-04-24,Active
+CUST00258,Karen,Decker,F,2000-03-21,2020-08-08,Visa,Mid,0,karen.decker@outlook.com,647-552-1099,025 Johns Dale,Lethbridge,AB,H6B7L6,West,ACC00258,N/A,0.0,0,2023-10-22,Active
+CUST00259,Johnny,Miller,M,1994-03-06,2021-01-19,Mastercard,Mid,1,johnny.miller@gmail.com,604-153-3318,4818 Katie Falls,Brampton,ON,H6Y 5N5,East,ACC00259,Gold,0.027,5000,2019-02-10,Active
+CUST00260,Andrew,Ryan,F,1992-08-29,2021-10-29,Visa,High,1,andrew.ryan@gmail.com,604-341-9313,89520 April Landing Suite 652,Halifax,NS,J4G 4X9,East,ACC00260,N/A,0.0,0,2024-02-09,Active
+CUST00261,Zoe,Bell,M,1969-07-18,2024-06-19,Mastercard,High,1,zoe.bell@yahoo.com,647-838-4236,7112 Timothy Inlet,London,ON,G6T3X5,East,ACC00261,Gold,0.022,25000,2022-06-15,Active
+CUST00262,Debra,Harrington,M,1970-12-11,2020-02-12,Visa,Low,1,debra.harrington@outlook.com,403-392-8344,132 Hailey Inlet,Ottawa,ON,J7G 2C2,East,ACC00262,N/A,0.0,0,2024-02-08,Active
+CUST00263,Denise,Webster,F,2000-07-02,2021-11-29,Visa,Mid,1,denise.webster@gmail.com,306-181-6891,6031 Laura Passage,Moncton,NB,V1E 2L5,East,ACC00263,N/A,0.0,0,2022-10-30,Active
+CUST00264,Stefanie,Gonzalez,F,1972-07-30,2021-03-15,Gift Card,Mid,1,stefanie.gonzalez@yahoo.com,204-617-8101,19393 Ellen Burgs,Surrey,BC,G6L 3P9,West,ACC00264,N/A,0.0,0,2020-05-27,Active
+CUST00265,Andrew,Hernandez,F,2001-12-12,2022-12-22,Visa,Low,1,andrew.hernandez@gmail.com,204-537-2363,911 Allison Stravenue,Gatineau,QC,M1H 2Y4,East,ACC00265,N/A,0.0,0,2022-07-27,Active
+CUST00266,David,Caldwell,F,1995-05-16,2022-04-10,Mastercard,High,1,david.caldwell@outlook.com,647-666-3878,9271 Mary Light Suite 383,Laval,QC,E8N2E9,East,ACC00266,World Elite,0.015,20000,2023-12-07,Active
+CUST00267,Anne,Robinson,NB,1981-10-27,2024-06-03,Debit,Mid,1,anne.robinson@yahoo.com,403-484-8878,5480 Mark Crescent,Brampton,ON,M8T4M9,East,ACC00267,N/A,0.0,0,2019-10-23,Active
+CUST00268,Holly,Wang,F,2001-02-07,2019-12-16,Visa,High,1,holly.wang@hotmail.com,604-258-4106,6317 White Spring Suite 167,Ottawa,ON,E7G 2R3,East,ACC00268,N/A,0.0,0,2023-02-06,Active
+CUST00269,Gary,Lawson,F,1979-09-24,2019-03-06,Visa,Low,1,gary.lawson@outlook.com,514-603-7628,3539 Martinez Villages,Markham,ON,V7L6L8,East,ACC00269,N/A,0.0,0,2021-03-06,Suspended
+CUST00270,Julie,Wilson,F,1995-01-18,2022-11-15,Mastercard,Mid,1,julie.wilson@shaw.ca,514-493-9020,8427 David Overpass Suite 320,Dartmouth,NS,B1C 3V7,East,ACC00270,Platinum,0.021,5000,2021-06-03,Inactive
+CUST00271,Lori,Oconnell,M,1963-08-03,2022-12-16,Mastercard,Mid,1,lori.oconnell@gmail.com,416-227-7304,49911 Sparks Flats Suite 778,Hamilton,ON,Y9N1Y1,East,ACC00271,Standard,0.024,25000,2023-12-07,Active
+CUST00272,Daniel,Johnson,F,1986-02-24,2024-05-13,Mastercard,Mid,1,daniel.johnson@gmail.com,204-361-6711,67567 Johnson Fall Suite 276,Halifax,NS,M2R 8V9,East,ACC00272,Standard,0.022,25000,2020-12-23,Active
+CUST00273,Larry,Byrd,NB,1981-09-19,2022-06-03,Visa,Mid,1,larry.byrd@hotmail.com,514-813-1945,8280 Baker Ramp Suite 954,Richmond,BC,B3A6B6,West,ACC00273,N/A,0.0,0,2021-04-11,Active
+CUST00274,Susan,Sanders,M,1984-09-13,2023-04-29,Mastercard,High,1,susan.sanders@hotmail.com,604-589-1565,561 Reed Knolls,Lethbridge,AB,P4B4K5,West,ACC00274,Gold,0.032,15000,2021-03-06,Active
+CUST00275,Jennifer,Jones,F,1982-07-14,2020-08-12,Mastercard,Mid,0,jennifer.jones@hotmail.com,416-814-3422,141 Jackson Plain,Dartmouth,NS,B9T7S5,East,ACC00275,Standard,0.03,7500,2023-01-21,Active
+CUST00276,Hannah,Burton,NB,1971-02-21,2020-08-17,Mastercard,Low,0,hannah.burton@bell.net,647-360-5053,790 Gray Loaf,Brampton,ON,E4V6E8,East,ACC00276,Standard,0.031,20000,2020-02-03,Inactive
+CUST00277,Curtis,Barton,F,2000-12-24,2020-03-14,Mastercard,High,1,curtis.barton@gmail.com,905-759-7297,94563 Reid Turnpike Apt. 834,Edmonton,AB,B4M2R2,West,ACC00277,Platinum,0.034,10000,2024-01-18,Active
+CUST00278,Melissa,Burke,F,1979-06-20,2020-05-11,Mastercard,Low,1,melissa.burke@shaw.ca,905-630-4093,1987 Clark Underpass Apt. 484,Kelowna,BC,Y7N7J5,West,ACC00278,Platinum,0.034,10000,2022-08-11,Active
+CUST00279,David,Riggs,F,1987-08-20,2023-01-09,Visa,Low,0,david.riggs@icloud.com,403-808-5951,820 Barbara Forest Suite 489,Saskatoon,SK,B6X8J3,Central,ACC00279,N/A,0.0,0,2021-03-15,Active
+CUST00280,Kimberly,Reed,F,1972-03-03,2021-04-13,Debit,Mid,1,kimberly.reed@hotmail.com,204-700-6045,46651 Meghan Grove,Kelowna,BC,H7L4K2,West,ACC00280,N/A,0.0,0,2019-08-11,Active
+CUST00281,Ross,Wood,M,1983-10-09,2020-10-19,Mastercard,High,1,ross.wood@gmail.com,514-933-3338,03477 Henderson Camp,Montreal,QC,H1L 5G5,East,ACC00281,Gold,0.037,20000,2021-04-24,Active
+CUST00282,William,Peterson,M,1961-05-07,2024-02-14,Cash,High,0,william.peterson@bell.net,204-815-6047,070 Michele Corner,Ottawa,ON,M6C2S7,East,ACC00282,N/A,0.0,0,2020-03-20,Active
+CUST00283,Melissa,Short,F,1993-08-13,2023-06-02,Visa,High,0,melissa.short@icloud.com,416-199-2144,19818 Crawford Course,Ottawa,ON,E7N 4N7,East,ACC00283,N/A,0.0,0,2023-12-28,Active
+CUST00284,Daniel,Yu,M,1958-10-31,2020-09-03,Visa,High,1,daniel.yu@outlook.com,403-850-8060,12347 King Radial,Gatineau,QC,V2Y 6P9,East,ACC00284,N/A,0.0,0,2021-02-26,Inactive
+CUST00285,Cynthia,Poole,F,2002-04-24,2023-12-27,Cash,Mid,1,cynthia.poole@gmail.com,647-302-8970,3425 Baldwin View Suite 090,Mississauga,ON,K7L 5Y6,East,ACC00285,N/A,0.0,0,2021-06-03,Active
+CUST00286,Jasmine,Graham,M,1972-07-30,2023-02-06,Visa,Low,1,jasmine.graham@yahoo.com,604-290-4292,376 Renee Lock,Toronto,ON,M5C4K3,East,ACC00286,N/A,0.0,0,2021-06-26,Active
+CUST00287,Jessica,Sheppard,F,1975-05-01,2019-12-26,Visa,Mid,1,jessica.sheppard@icloud.com,604-365-7697,560 Delacruz View Suite 765,Ottawa,ON,E9H2L6,East,ACC00287,N/A,0.0,0,2020-02-27,Active
+CUST00288,Joseph,Morton,NB,1993-12-17,2022-10-02,Mastercard,Mid,0,joseph.morton@gmail.com,647-181-5802,857 Kathleen Row Apt. 720,Kelowna,BC,J2M2N3,West,ACC00288,Platinum,0.018,25000,2022-10-25,Active
+CUST00289,Amanda,Webb,M,1992-05-30,2020-04-27,Mastercard,Mid,1,amanda.webb@gmail.com,514-130-4846,296 Hayes Well,Toronto,ON,L5H 4N2,East,ACC00289,Standard,0.022,7500,2019-11-05,Active
+CUST00290,Ryan,Simon,M,1981-06-19,2022-08-31,Mastercard,Mid,1,ryan.simon@icloud.com,416-162-5359,2669 Andrew Brooks Apt. 173,Victoria,BC,H7B5R3,West,ACC00290,Gold,0.036,7500,2023-04-11,Inactive
+CUST00291,Joseph,Christian,F,1985-11-25,2022-11-14,Mastercard,Mid,1,joseph.christian@hotmail.com,416-199-4458,2910 Ayala Motorway,Montreal,QC,E4K5J5,East,ACC00291,Standard,0.038,20000,2021-12-22,Active
+CUST00292,Mariah,Miller,F,1969-12-25,2021-09-06,Mastercard,Mid,1,mariah.miller@yahoo.com,403-597-8753,2639 Wanda Haven Apt. 626,Vancouver,BC,A4M 8L4,West,ACC00292,Platinum,0.03,5000,2019-06-25,Active
+CUST00293,Nicole,Sanchez,F,2000-03-29,2023-04-01,Visa,Low,1,nicole.sanchez@yahoo.com,514-422-4925,710 Anderson Islands Suite 366,Gatineau,QC,C1E1Y6,East,ACC00293,N/A,0.0,0,2024-02-28,Inactive
+CUST00294,Steven,Bishop,F,1965-05-06,2021-12-12,Mastercard,Low,1,steven.bishop@yahoo.com,416-464-6410,5990 Jon River,Dartmouth,NS,M3R9P1,East,ACC00294,Standard,0.036,10000,2024-03-22,Inactive
+CUST00295,Nicholas,Johnson,M,1976-02-20,2022-03-18,Visa,High,1,nicholas.johnson@yahoo.com,204-842-3275,2875 Anderson Island,Montreal,QC,G6L1E3,East,ACC00295,N/A,0.0,0,2020-02-20,Active
+CUST00296,Melissa,White,M,2001-11-08,2019-07-06,Cash,Low,1,melissa.white@rogers.com,403-816-5072,5644 Black Mews Apt. 572,Toronto,ON,B1J4G3,East,ACC00296,N/A,0.0,0,2020-03-12,Active
+CUST00297,Jason,Salinas,F,1963-03-07,2022-02-18,Visa,High,1,jason.salinas@hotmail.com,306-627-7768,4276 Wanda Park,Hamilton,ON,T8P 8Y8,East,ACC00297,N/A,0.0,0,2019-05-16,Active
+CUST00298,Matthew,Beard,M,1977-07-20,2022-03-30,Mastercard,High,1,matthew.beard@shaw.ca,514-117-6901,215 James Haven,Calgary,AB,H4X 1L9,West,ACC00298,World Elite,0.028,15000,2021-08-30,Active
+CUST00299,Jacqueline,Hill,M,1964-03-11,2024-03-27,Visa,Low,1,jacqueline.hill@hotmail.com,604-721-8938,1371 Johnson Springs,Regina,SK,R6P 3E1,Central,ACC00299,N/A,0.0,0,2019-12-25,Active
+CUST00300,Alejandro,Vaughan,M,1995-09-18,2021-02-05,Gift Card,High,0,alejandro.vaughan@icloud.com,514-538-8800,7749 Mark Cape,Kelowna,BC,N1G5J6,West,ACC00300,N/A,0.0,0,2019-07-27,Inactive
+CUST00301,Christopher,Cortez,M,1969-12-06,2022-08-31,Cash,High,1,christopher.cortez@rogers.com,204-400-4196,189 Davis Glens,Saint John,NB,K1R 4C3,East,ACC00301,N/A,0.0,0,2019-11-24,Inactive
+CUST00302,Tracy,Chang,M,1977-12-24,2023-09-06,Mastercard,Mid,1,tracy.chang@gmail.com,905-408-9990,4214 Owen Street Suite 925,Montreal,QC,P8X 8J7,East,ACC00302,Standard,0.022,20000,2024-02-08,Active
+CUST00303,Hannah,Brewer,M,1992-01-11,2023-08-14,Mastercard,Low,1,hannah.brewer@gmail.com,306-218-8899,9961 Shepherd Ridges Apt. 661,Fredericton,NB,X4N 3T8,East,ACC00303,Standard,0.027,15000,2022-12-04,Suspended
+CUST00304,Travis,Mcguire,M,1968-02-15,2019-03-07,Debit,High,0,travis.mcguire@gmail.com,647-871-2465,7617 Hernandez Crossroad,Edmonton,AB,K5X1S9,West,ACC00304,N/A,0.0,0,2022-11-14,Inactive
+CUST00305,Christopher,Walker,M,1976-06-27,2019-05-18,Mastercard,Mid,1,christopher.walker@gmail.com,514-492-5593,81866 Steven Stravenue,London,ON,P9L1C2,East,ACC00305,Standard,0.013,7500,2024-02-06,Active
+CUST00306,Heather,Torres,F,1961-12-20,2021-04-03,Mastercard,High,1,heather.torres@hotmail.com,905-781-3224,26016 Edwards Stream Suite 794,Mississauga,ON,H2J5H2,East,ACC00306,Platinum,0.014,15000,2021-08-26,Active
+CUST00307,Bonnie,Kennedy,F,1983-12-14,2020-04-24,Debit,Mid,1,bonnie.kennedy@gmail.com,514-992-4666,006 Alexander Shoal Suite 769,Dartmouth,NS,M5P2R3,East,ACC00307,N/A,0.0,0,2019-12-16,Active
+CUST00308,Alyssa,Coleman,M,1986-10-08,2020-04-30,Mastercard,Mid,1,alyssa.coleman@hotmail.com,204-834-7252,31030 Timothy Drive,Halifax,NS,S2Y 5J8,East,ACC00308,Gold,0.04,10000,2024-03-21,Active
+CUST00309,Julie,Rivera,F,1963-06-21,2022-02-14,Cash,High,1,julie.rivera@icloud.com,604-365-2895,6012 Joanne Mills,Lethbridge,AB,V4A4T5,West,ACC00309,N/A,0.0,0,2022-03-17,Active
+CUST00310,Jacqueline,Nelson,NB,2002-06-19,2019-04-07,Gift Card,Mid,1,jacqueline.nelson@gmail.com,604-862-2902,50166 Mclaughlin Ranch Suite 076,Toronto,ON,X1V9K1,East,ACC00310,N/A,0.0,0,2024-01-05,Active
+CUST00311,John,Martinez,M,1995-05-09,2021-04-16,Mastercard,High,1,john.martinez@rogers.com,204-690-1027,581 Orozco Mall Suite 179,Edmonton,AB,T3S5A4,West,ACC00311,Gold,0.03,10000,2023-12-19,Active
+CUST00312,James,Wilson,F,1984-12-24,2023-10-23,Debit,High,1,james.wilson@outlook.com,204-533-6237,7383 Dorsey Walk Suite 246,Hamilton,ON,P4V5H2,East,ACC00312,N/A,0.0,0,2019-06-24,Inactive
+CUST00313,Amanda,Gill,M,1970-01-11,2021-03-06,Mastercard,Mid,0,amanda.gill@outlook.com,604-209-7476,23297 Laura Park Suite 338,Quebec City,QC,A6P 3L3,East,ACC00313,Standard,0.014,10000,2022-10-19,Active
+CUST00314,Jacob,Robinson,M,1966-04-18,2022-01-01,Debit,Mid,1,jacob.robinson@yahoo.com,647-935-5863,56193 Anna Oval,Markham,ON,N9P5B3,East,ACC00314,N/A,0.0,0,2019-11-03,Active
+CUST00315,Todd,Hardy,F,1964-07-12,2020-01-21,Debit,Mid,1,todd.hardy@hotmail.com,647-715-5643,077 Theresa Tunnel,Brandon,MB,Y2B 3X2,Central,ACC00315,N/A,0.0,0,2024-03-29,Active
+CUST00316,Tiffany,Warren,M,1987-11-15,2020-09-12,Gift Card,High,0,tiffany.warren@icloud.com,416-713-6245,2478 Oconnor Courts,London,ON,P2N 4G8,East,ACC00316,N/A,0.0,0,2022-10-01,Active
+CUST00317,Justin,Garcia,F,2000-12-19,2024-02-16,Mastercard,Low,0,justin.garcia@gmail.com,306-746-4534,37548 Christopher Landing Suite 532,London,ON,K7G7S8,East,ACC00317,Gold,0.019,5000,2020-12-27,Active
+CUST00318,James,Perez,F,1983-05-25,2021-02-18,Visa,Mid,1,james.perez@bell.net,416-929-6458,72081 Matthew Locks Apt. 606,Victoria,BC,G5B 7X7,West,ACC00318,N/A,0.0,0,2023-06-26,Active
+CUST00319,Harry,Smith,F,1999-10-23,2019-07-21,Debit,High,1,harry.smith@gmail.com,604-817-1861,550 Mccullough Ridge Apt. 673,London,ON,P5R2J1,East,ACC00319,N/A,0.0,0,2022-06-27,Inactive
+CUST00320,Amanda,Hill,F,1986-01-27,2021-04-27,Mastercard,High,1,amanda.hill@rogers.com,204-406-3608,2884 Christopher Plaza Suite 852,Halifax,NS,A4Y 5L7,East,ACC00320,Gold,0.015,10000,2020-01-29,Active
+CUST00321,Terri,Tran,M,1995-06-19,2020-08-27,Mastercard,Mid,0,terri.tran@yahoo.com,204-794-8756,054 Martinez Throughway,Saint John,NB,T8M 6A4,East,ACC00321,World Elite,0.037,5000,2021-09-29,Active
+CUST00322,Heidi,Martinez,F,1988-04-14,2020-06-11,Debit,High,1,heidi.martinez@yahoo.com,403-389-4196,4492 Stone Gateway,Fredericton,NB,N6X 8J2,East,ACC00322,N/A,0.0,0,2019-12-08,Active
+CUST00323,Miranda,Henry,F,1989-08-06,2019-12-13,Mastercard,Low,0,miranda.henry@gmail.com,514-870-1886,661 Bryan Curve,Gatineau,QC,J6T9C7,East,ACC00323,Standard,0.019,15000,2021-06-05,Active
+CUST00324,Monique,Andrews,F,1963-04-09,2021-12-09,Mastercard,High,1,monique.andrews@yahoo.com,647-691-3253,9767 Dennis Mall Apt. 282,Brandon,MB,T9G2X4,Central,ACC00324,Standard,0.04,25000,2021-07-27,Active
+CUST00325,Taylor,Alexander,M,1994-12-31,2019-10-09,Debit,High,1,taylor.alexander@gmail.com,647-314-4573,0285 Carolyn Lodge Apt. 159,Richmond,BC,B2X6G5,West,ACC00325,N/A,0.0,0,2020-11-12,Active
+CUST00326,Jack,Williams,F,1991-06-26,2019-05-04,Visa,Mid,1,jack.williams@hotmail.com,416-470-2670,4702 Kristen Manor Apt. 443,Quebec City,QC,V9A 6E2,East,ACC00326,N/A,0.0,0,2019-09-25,Inactive
+CUST00327,Shelley,Woods,M,1958-08-05,2021-12-25,Visa,Mid,1,shelley.woods@yahoo.com,204-795-3756,7949 Mccullough Tunnel,Quebec City,QC,V9G8G8,East,ACC00327,N/A,0.0,0,2024-03-12,Active
+CUST00328,Lynn,Morales,F,1959-07-16,2021-10-25,Debit,High,0,lynn.morales@yahoo.com,306-283-1859,51996 Hall Locks Suite 807,Halifax,NS,C5H9A2,East,ACC00328,N/A,0.0,0,2023-02-13,Active
+CUST00329,Charles,Soto,M,1966-08-23,2021-12-09,Mastercard,Mid,1,charles.soto@hotmail.com,204-252-7619,98909 Karen Parkway,Hamilton,ON,E1Y 5H4,East,ACC00329,Standard,0.016,15000,2021-02-17,Active
+CUST00330,Brian,Hernandez,M,1993-08-10,2019-06-11,Mastercard,Mid,0,brian.hernandez@gmail.com,306-409-3826,971 Morales Cape,Toronto,ON,A3N7S1,East,ACC00330,Platinum,0.018,15000,2020-11-18,Active
+CUST00331,Anna,Torres,F,1965-03-26,2022-08-31,Gift Card,Low,1,anna.torres@icloud.com,905-896-8596,4111 Justin Falls Suite 124,Lethbridge,AB,H3B1N1,West,ACC00331,N/A,0.0,0,2021-11-15,Inactive
+CUST00332,Victoria,Wilson,F,2000-09-14,2019-04-25,Visa,Low,0,victoria.wilson@gmail.com,306-476-1190,1526 Scott Views Apt. 033,Brandon,MB,V7X 2X5,Central,ACC00332,N/A,0.0,0,2023-05-25,Active
+CUST00333,Kathy,Obrien,NB,1987-09-21,2022-03-04,Gift Card,High,0,kathy.obrien@gmail.com,604-123-8856,7861 Johnson Roads,Toronto,ON,A2L 4Y9,East,ACC00333,N/A,0.0,0,2022-12-19,Active
+CUST00334,Krystal,Perez,M,2000-08-29,2020-07-09,Mastercard,High,0,krystal.perez@gmail.com,647-493-8932,9671 Krista Divide,London,ON,Y9H7K9,East,ACC00334,World Elite,0.032,20000,2020-01-31,Active
+CUST00335,Alexandra,Hayes,M,1960-12-14,2020-01-03,Cash,High,1,alexandra.hayes@yahoo.com,647-201-6328,07942 Brian Orchard Suite 946,Saint John,NB,J1X3M9,East,ACC00335,N/A,0.0,0,2020-06-30,Active
+CUST00336,Scott,Dalton,M,1993-09-25,2024-03-17,Mastercard,Low,0,scott.dalton@icloud.com,647-515-1323,1612 Johns Fords,Markham,ON,N5L4T6,East,ACC00336,Gold,0.03,25000,2024-02-14,Active
+CUST00337,Veronica,Torres,M,1987-10-06,2021-02-25,Debit,High,1,veronica.torres@icloud.com,306-165-9501,79502 Chelsea Avenue Apt. 268,Kelowna,BC,R2Y9C1,West,ACC00337,N/A,0.0,0,2021-11-08,Inactive
+CUST00338,Christine,Lynch,M,1989-01-11,2019-04-20,Mastercard,Low,1,christine.lynch@icloud.com,604-774-2922,156 Hughes Villages Apt. 175,Winnipeg,MB,T1A 5K6,Central,ACC00338,Standard,0.014,5000,2020-05-12,Active
+CUST00339,Jody,Meza,M,1993-08-04,2024-06-07,Debit,Mid,0,jody.meza@hotmail.com,416-668-8327,94337 Johnson Park,Hamilton,ON,A2J 5R9,East,ACC00339,N/A,0.0,0,2021-02-03,Active
+CUST00340,Jared,Clark,M,1989-12-03,2022-02-06,Cash,Mid,1,jared.clark@gmail.com,604-768-3641,83999 Cameron Crossroad Apt. 249,Montreal,QC,X1L 9J5,East,ACC00340,N/A,0.0,0,2022-03-17,Inactive
+CUST00341,Donna,Moore,M,1984-07-01,2023-06-23,Mastercard,Mid,1,donna.moore@rogers.com,416-186-3043,60566 Martinez Path Suite 758,Mississauga,ON,K7B 9L8,East,ACC00341,Platinum,0.036,5000,2023-01-20,Active
+CUST00342,Glenn,Jones,M,1971-11-04,2023-02-23,Mastercard,Low,0,glenn.jones@bell.net,647-533-1001,63519 Veronica Fork Suite 133,Burnaby,BC,N2M 1C8,West,ACC00342,Platinum,0.036,20000,2019-05-25,Active
+CUST00343,Aaron,Hayes,M,1982-03-15,2019-07-29,Mastercard,Mid,1,aaron.hayes@bell.net,403-774-9750,95431 Allen Junctions Apt. 583,Toronto,ON,T2E 2T1,East,ACC00343,Gold,0.036,15000,2022-07-16,Inactive
+CUST00344,Brittney,Carter,M,1960-05-10,2019-07-03,Mastercard,Mid,1,brittney.carter@outlook.com,514-635-6769,5120 Brown Ridge,Kelowna,BC,C9E1B5,West,ACC00344,Platinum,0.013,5000,2019-04-26,Active
+CUST00345,Jesse,Mann,M,1984-03-08,2021-04-27,Mastercard,High,0,jesse.mann@hotmail.com,416-342-1601,1963 Shawn Mountain Suite 991,Edmonton,AB,A6T4X2,West,ACC00345,Standard,0.032,5000,2020-01-16,Active
+CUST00346,Jacqueline,Gibson,M,1973-03-19,2022-11-04,Mastercard,Mid,1,jacqueline.gibson@rogers.com,604-237-4539,91939 Dana Glens,Mississauga,ON,S3V4T3,East,ACC00346,World Elite,0.01,25000,2020-04-22,Active
+CUST00347,Grace,Bradshaw,F,1996-12-30,2020-07-19,Mastercard,Low,1,grace.bradshaw@gmail.com,204-176-5177,24968 Collins Plains,Red Deer,AB,G6V 5M6,West,ACC00347,Platinum,0.022,25000,2021-12-20,Active
+CUST00348,Kristin,Weber,M,2002-06-25,2022-05-01,Visa,Low,1,kristin.weber@rogers.com,204-567-2364,920 William Village,London,ON,S4P 4J2,East,ACC00348,N/A,0.0,0,2023-08-02,Active
+CUST00349,Donna,Peck,M,1992-01-31,2023-07-05,Cash,Mid,0,donna.peck@bell.net,647-648-4338,77959 Jensen Manor Suite 217,Dartmouth,NS,V4K 4A8,East,ACC00349,N/A,0.0,0,2021-10-11,Active
+CUST00350,Ronald,Stephens,NB,1970-03-19,2020-09-07,Mastercard,Low,1,ronald.stephens@gmail.com,604-831-7097,75636 Margaret Avenue,London,ON,A1C9P2,East,ACC00350,Standard,0.019,25000,2022-04-27,Inactive
+CUST00351,Deborah,Kerr,F,1986-08-19,2020-08-19,Debit,High,1,deborah.kerr@yahoo.com,647-423-8104,7395 Theresa Flat,Edmonton,AB,M5H 3K6,West,ACC00351,N/A,0.0,0,2019-05-06,Active
+CUST00352,Margaret,Jones,M,1983-02-23,2023-07-31,Debit,High,1,margaret.jones@gmail.com,403-227-9707,30241 Marie Dam,Hamilton,ON,E5N8J4,East,ACC00352,N/A,0.0,0,2021-11-05,Active
+CUST00353,Gabriel,Parker,M,1974-02-21,2022-10-28,Debit,High,0,gabriel.parker@yahoo.com,514-755-2457,2896 David Curve Apt. 386,Hamilton,ON,N1S4K9,East,ACC00353,N/A,0.0,0,2019-12-27,Suspended
+CUST00354,Kaitlyn,Carroll,F,1984-02-20,2023-08-30,Debit,High,1,kaitlyn.carroll@icloud.com,647-989-4698,53042 Clark Common Suite 912,Mississauga,ON,X9P8V3,East,ACC00354,N/A,0.0,0,2020-06-23,Active
+CUST00355,Keith,Martinez,M,1985-03-03,2020-05-10,Mastercard,Mid,1,keith.martinez@yahoo.com,604-487-2720,587 Wells Prairie Suite 903,Toronto,ON,J7T 4K5,East,ACC00355,Gold,0.039,25000,2019-09-11,Active
+CUST00356,Haley,Lyons,F,2000-12-29,2022-04-07,Mastercard,High,1,haley.lyons@gmail.com,403-702-9021,9254 Dennis Corner Suite 785,Montreal,QC,B6T 7X8,East,ACC00356,Standard,0.016,10000,2023-03-29,Suspended
+CUST00357,Sherri,Mason,F,1990-04-04,2022-12-07,Cash,Mid,1,sherri.mason@hotmail.com,403-664-5440,6575 Reyes Fall Suite 341,Mississauga,ON,C9M9X2,East,ACC00357,N/A,0.0,0,2019-11-29,Active
+CUST00358,Troy,Miller,M,1989-11-06,2019-12-07,Visa,High,1,troy.miller@gmail.com,204-285-6655,11150 Matthew Spring Suite 444,Calgary,AB,G1Y 5L5,West,ACC00358,N/A,0.0,0,2023-09-09,Active
+CUST00359,Bill,Reynolds,M,1987-10-01,2024-05-31,Debit,Low,1,bill.reynolds@yahoo.com,647-365-1155,6907 Michelle Forks Apt. 373,Gatineau,QC,T6N4C7,East,ACC00359,N/A,0.0,0,2022-05-16,Active
+CUST00360,Marcus,Wright,M,1977-10-30,2021-07-01,Mastercard,Mid,1,marcus.wright@hotmail.com,647-487-5380,77805 Barbara Crossroad Suite 075,Quebec City,QC,K7S9S5,East,ACC00360,Gold,0.017,10000,2023-08-16,Active
+CUST00361,Christopher,Hayden,M,1960-03-15,2021-09-15,Mastercard,High,1,christopher.hayden@hotmail.com,514-824-5081,090 Eric Isle Suite 636,London,ON,Y8R 2J6,East,ACC00361,Standard,0.01,25000,2020-05-30,Active
+CUST00362,Mary,Johnston,M,1970-09-17,2020-12-14,Mastercard,Low,1,mary.johnston@hotmail.com,647-549-6799,412 Emily Fall Apt. 970,Gatineau,QC,J5C 4R4,East,ACC00362,Standard,0.012,15000,2020-12-05,Inactive
+CUST00363,Stephanie,Key,M,1997-04-23,2023-01-18,Debit,Mid,1,stephanie.key@gmail.com,204-633-4748,817 Miguel Branch Apt. 566,Laval,QC,E7G 8Y2,East,ACC00363,N/A,0.0,0,2019-05-04,Active
+CUST00364,Emily,Adams,F,1988-10-11,2022-08-20,Mastercard,High,1,emily.adams@gmail.com,403-516-6123,23467 Cassandra Inlet Apt. 874,Markham,ON,A2G 7T4,East,ACC00364,Platinum,0.012,25000,2021-07-02,Active
+CUST00365,Billy,Avila,NB,1972-05-14,2020-11-08,Visa,Low,1,billy.avila@gmail.com,604-195-3705,777 Jo Heights Suite 546,Winnipeg,MB,S7K 8H7,Central,ACC00365,N/A,0.0,0,2023-03-05,Active
+CUST00366,Thomas,Pearson,F,1996-10-08,2021-03-21,Mastercard,Low,1,thomas.pearson@hotmail.com,306-927-1175,916 John Ways,Calgary,AB,L2Y 4M8,West,ACC00366,Standard,0.033,10000,2022-11-30,Active
+CUST00367,Sabrina,White,F,1977-04-09,2020-02-26,Mastercard,High,1,sabrina.white@hotmail.com,647-591-9156,151 William Tunnel Suite 672,Fredericton,NB,J8X1B2,East,ACC00367,Platinum,0.012,10000,2023-01-29,Inactive
+CUST00368,Brenda,Walters,M,1974-10-10,2021-01-19,Mastercard,Mid,0,brenda.walters@rogers.com,905-515-1227,5636 Alex Crescent Apt. 577,Victoria,BC,C4C8Y3,West,ACC00368,Gold,0.032,15000,2021-01-28,Active
+CUST00369,Travis,Davis,M,1986-02-12,2022-05-07,Mastercard,Low,1,travis.davis@hotmail.com,514-350-9652,2209 Gregory Crossing Suite 210,Calgary,AB,G3T4P1,West,ACC00369,Platinum,0.019,25000,2020-01-25,Active
+CUST00370,Michael,Cook,F,1973-06-24,2023-07-25,Debit,High,1,michael.cook@outlook.com,647-790-9577,0816 Wallace Rapid,Montreal,QC,B4R 6J4,East,ACC00370,N/A,0.0,0,2019-12-16,Active
+CUST00371,Elizabeth,Hodge,M,1986-02-05,2019-08-30,Mastercard,Mid,1,elizabeth.hodge@gmail.com,647-626-6788,06005 Erin Circles,Saskatoon,SK,E1H 7H9,Central,ACC00371,Gold,0.024,15000,2020-10-26,Inactive
+CUST00372,Mark,Steele,M,1970-05-15,2022-03-23,Mastercard,Mid,1,mark.steele@outlook.com,647-482-2855,5839 Sarah Locks,Dartmouth,NS,E2K6J6,East,ACC00372,Platinum,0.039,15000,2023-11-15,Inactive
+CUST00373,Keith,Landry,M,1973-07-17,2022-02-10,Mastercard,Low,0,keith.landry@gmail.com,905-397-5901,65063 Robinson Shoals,London,ON,P4B7C5,East,ACC00373,Gold,0.014,15000,2021-05-09,Inactive
+CUST00374,Lisa,Pierce,M,1990-03-18,2024-05-03,Mastercard,High,0,lisa.pierce@gmail.com,204-322-5994,89241 Jarvis Square Suite 252,Burnaby,BC,V1C8N7,West,ACC00374,Platinum,0.034,15000,2023-11-18,Active
+CUST00375,Shawn,Edwards,M,2002-05-29,2021-04-17,Debit,High,1,shawn.edwards@bell.net,306-158-6828,903 Christina Crossing,Halifax,NS,K2S1K3,East,ACC00375,N/A,0.0,0,2021-03-29,Active
+CUST00376,Marcus,Cordova,M,1960-10-08,2023-06-18,Debit,Mid,1,marcus.cordova@yahoo.com,514-209-1084,4326 Dawn Freeway Suite 524,Brampton,ON,B5X1S4,East,ACC00376,N/A,0.0,0,2021-06-08,Active
+CUST00377,Richard,Robertson,F,1999-01-11,2022-03-04,Debit,Mid,1,richard.robertson@gmail.com,514-109-2660,3380 Laurie Square Apt. 968,London,ON,H2T8A2,East,ACC00377,N/A,0.0,0,2022-09-17,Inactive
+CUST00378,Vanessa,Sandoval,M,1990-11-30,2022-01-15,Debit,High,1,vanessa.sandoval@gmail.com,647-520-3029,23212 Joel Common,Surrey,BC,T4M4H7,West,ACC00378,N/A,0.0,0,2019-11-06,Active
+CUST00379,Amy,Gutierrez,F,1967-03-10,2023-02-16,Debit,Mid,0,amy.gutierrez@gmail.com,403-331-8711,344 Faulkner Flats,Saskatoon,SK,V7C7P3,Central,ACC00379,N/A,0.0,0,2020-01-12,Active
+CUST00380,Jacob,Cox,M,1989-04-10,2023-11-01,Debit,High,1,jacob.cox@yahoo.com,647-649-5415,6896 Lori Underpass Suite 066,Burnaby,BC,M9Y 3G5,West,ACC00380,N/A,0.0,0,2019-02-03,Active
+CUST00381,Katherine,Garrett,F,1989-06-16,2023-10-30,Debit,Low,1,katherine.garrett@hotmail.com,306-265-3291,4746 Jones Dale Suite 323,Brampton,ON,A8X 7P7,East,ACC00381,N/A,0.0,0,2019-11-03,Active
+CUST00382,Kathleen,Harris,M,1976-07-26,2023-07-08,Mastercard,Mid,1,kathleen.harris@gmail.com,604-213-4105,567 Davidson Radial Apt. 601,Brampton,ON,H5J6S9,East,ACC00382,Standard,0.025,7500,2020-09-13,Inactive
+CUST00383,Andrea,Pennington,NB,1984-04-03,2020-08-15,Visa,Mid,0,andrea.pennington@yahoo.com,514-132-3626,506 Fitzgerald Gardens Suite 050,Ottawa,ON,L5T 4G3,East,ACC00383,N/A,0.0,0,2023-10-15,Active
+CUST00384,Samuel,Wolfe,M,1970-03-01,2024-05-25,Debit,Low,1,samuel.wolfe@bell.net,403-221-7899,16691 Nancy Expressway,Lethbridge,AB,L9M7X5,West,ACC00384,N/A,0.0,0,2020-04-11,Active
+CUST00385,David,Dudley,M,1969-11-27,2020-05-26,Mastercard,Low,0,david.dudley@icloud.com,647-432-7551,119 Olsen Grove Apt. 640,Richmond,BC,V2A 7E9,West,ACC00385,Gold,0.025,15000,2023-10-11,Active
+CUST00386,Chelsea,Allen,F,1970-10-03,2022-03-28,Visa,Mid,1,chelsea.allen@icloud.com,204-234-2797,462 Nicholas Squares Apt. 372,Victoria,BC,T4J 1H3,West,ACC00386,N/A,0.0,0,2022-09-25,Active
+CUST00387,Eric,Pierce,M,1966-05-09,2021-04-05,Visa,High,1,eric.pierce@gmail.com,514-612-1223,6791 Christopher Corner,Halifax,NS,E6L1C4,East,ACC00387,N/A,0.0,0,2019-08-06,Active
+CUST00388,Andrea,Davis,F,1987-05-13,2022-04-06,Mastercard,High,1,andrea.davis@gmail.com,514-539-1131,1004 Elizabeth Turnpike Apt. 138,Quebec City,QC,R8X 8L6,East,ACC00388,Standard,0.024,10000,2019-10-17,Active
+CUST00389,Victoria,Durham,F,1990-02-20,2023-10-08,Mastercard,Low,1,victoria.durham@gmail.com,905-879-8027,5553 Ortega Lane Apt. 551,Burnaby,BC,T1R 2G9,West,ACC00389,World Elite,0.034,15000,2021-10-01,Active
+CUST00390,Steven,Wilson,M,1982-02-03,2020-10-23,Debit,Mid,1,steven.wilson@hotmail.com,647-355-5606,357 Robertson Shore Apt. 050,Ottawa,ON,B4N8T7,East,ACC00390,N/A,0.0,0,2020-09-22,Active
+CUST00391,Marilyn,Jimenez,M,1988-11-02,2024-01-06,Debit,Low,1,marilyn.jimenez@shaw.ca,604-782-8031,6716 Lawson Station,Laval,QC,X3X 8B2,East,ACC00391,N/A,0.0,0,2020-11-24,Active
+CUST00392,Jennifer,Hicks,M,1969-02-23,2024-03-18,Cash,Low,0,jennifer.hicks@icloud.com,905-817-9230,872 Friedman Orchard Apt. 332,London,ON,E3S 6A7,East,ACC00392,N/A,0.0,0,2022-11-01,Active
+CUST00393,Joshua,Davenport,M,1969-11-01,2023-12-12,Visa,High,1,joshua.davenport@shaw.ca,647-334-2973,47128 Davis Square Suite 399,Edmonton,AB,N9R 7R4,West,ACC00393,N/A,0.0,0,2022-06-06,Active
+CUST00394,Tina,Sanchez,F,1980-06-18,2019-06-18,Mastercard,Low,1,tina.sanchez@gmail.com,604-249-7984,1411 Matthew Ramp,Toronto,ON,E6P 7G1,East,ACC00394,Standard,0.018,25000,2021-02-03,Inactive
+CUST00395,Andrea,Reyes,F,1979-01-03,2021-05-29,Debit,Low,1,andrea.reyes@gmail.com,416-489-7673,98366 Wise Union Apt. 899,Ottawa,ON,E9R 8A6,East,ACC00395,N/A,0.0,0,2023-11-05,Active
+CUST00396,Sandra,Romero,M,1978-04-17,2021-11-29,Debit,Mid,1,sandra.romero@hotmail.com,604-327-6507,3772 Thomas Shores,Victoria,BC,N2M 5X8,West,ACC00396,N/A,0.0,0,2022-03-03,Suspended
+CUST00397,Natasha,Shields,M,1995-11-21,2022-11-22,Mastercard,Mid,1,natasha.shields@outlook.com,416-411-2803,4605 Maria Fords,Vancouver,BC,B7H 5V3,West,ACC00397,Standard,0.023,15000,2020-05-19,Active
+CUST00398,Joshua,Tyler,M,1986-02-10,2021-01-22,Cash,High,1,joshua.tyler@bell.net,204-352-6240,656 Mooney Throughway,Mississauga,ON,R5C5X4,East,ACC00398,N/A,0.0,0,2020-10-30,Active
+CUST00399,Robert,Villa,M,1970-10-26,2019-05-21,Visa,Mid,1,robert.villa@gmail.com,416-776-6269,25904 Pena Ports Apt. 774,Saskatoon,SK,J1J 6J2,Central,ACC00399,N/A,0.0,0,2024-02-07,Inactive
+CUST00400,William,Hoover,F,1971-08-01,2024-02-27,Mastercard,High,1,william.hoover@gmail.com,905-541-4028,6201 Mccann Fall,Brampton,ON,E7X 3N7,East,ACC00400,Standard,0.037,15000,2023-05-31,Active
+CUST00401,Justin,Evans,M,1969-01-18,2022-04-22,Debit,Mid,1,justin.evans@yahoo.com,403-214-2587,13674 Denise Lane,Brampton,ON,T8R 6L1,East,ACC00401,N/A,0.0,0,2020-11-28,Active
+CUST00402,Brenda,Duarte,F,1965-07-23,2020-05-23,Visa,Mid,1,brenda.duarte@yahoo.com,514-860-9664,11783 Brenda Ports,Edmonton,AB,L7E8H7,West,ACC00402,N/A,0.0,0,2020-11-09,Active
+CUST00403,Tracy,Hernandez,F,1985-01-23,2020-02-25,Visa,High,1,tracy.hernandez@hotmail.com,604-698-7292,215 Jennifer Wall Apt. 606,Edmonton,AB,C2X4Y2,West,ACC00403,N/A,0.0,0,2024-01-22,Active
+CUST00404,Amanda,Reed,M,1979-06-22,2021-10-10,Mastercard,Mid,1,amanda.reed@gmail.com,905-142-4120,208 Mcbride Crossing,Toronto,ON,G2J 9H5,East,ACC00404,Standard,0.029,7500,2022-12-21,Active
+CUST00405,Andrea,Daniels,M,1959-01-31,2021-01-09,Cash,High,1,andrea.daniels@bell.net,905-659-6618,18458 Rodney Shoals,Brampton,ON,K9M 5B9,East,ACC00405,N/A,0.0,0,2020-04-30,Inactive
+CUST00406,Stanley,Morris,NB,1973-07-02,2023-04-12,Visa,Low,1,stanley.morris@shaw.ca,604-646-3517,97585 Hailey Shore Apt. 303,Brampton,ON,M9J 4G6,East,ACC00406,N/A,0.0,0,2020-05-25,Active
+CUST00407,Jacob,Terry,NB,1977-05-10,2019-03-23,Cash,Mid,1,jacob.terry@yahoo.com,403-998-6690,96184 James Estates Suite 714,Ottawa,ON,G2Y5J4,East,ACC00407,N/A,0.0,0,2021-08-20,Inactive
+CUST00408,Ashley,Hall,M,1995-04-09,2021-05-17,Debit,Mid,1,ashley.hall@outlook.com,905-546-2109,892 Underwood Island Suite 609,Regina,SK,C9L 2E9,Central,ACC00408,N/A,0.0,0,2020-10-03,Active
+CUST00409,Kimberly,Williams,M,1985-10-21,2019-06-11,Visa,High,1,kimberly.williams@bell.net,416-270-5491,51554 Misty Fork Suite 016,Kelowna,BC,R3E 9E5,West,ACC00409,N/A,0.0,0,2019-07-15,Active
+CUST00410,Julie,Thornton,F,1963-12-07,2020-09-27,Debit,High,1,julie.thornton@gmail.com,416-913-4116,85948 Lawson Causeway Apt. 562,Quebec City,QC,Y8Y3R5,East,ACC00410,N/A,0.0,0,2019-10-31,Active
+CUST00411,Lisa,Hughes,F,1996-12-24,2019-08-26,Visa,Mid,1,lisa.hughes@outlook.com,905-269-8172,822 Nicholas Street,Gatineau,QC,B7P8K3,East,ACC00411,N/A,0.0,0,2019-06-16,Active
+CUST00412,Elizabeth,Hoover,F,1968-09-18,2019-01-26,Debit,Low,0,elizabeth.hoover@outlook.com,204-510-5448,7844 Meyer Stravenue Apt. 414,Gatineau,QC,N2C4C2,East,ACC00412,N/A,0.0,0,2021-08-05,Active
+CUST00413,Tina,Simpson,F,1981-04-05,2019-12-08,Mastercard,High,1,tina.simpson@gmail.com,604-706-1145,014 Stokes Branch,Toronto,ON,X8G9V9,East,ACC00413,Platinum,0.039,10000,2019-05-18,Active
+CUST00414,Benjamin,Shaw,M,1960-08-19,2020-11-17,Debit,Low,1,benjamin.shaw@outlook.com,403-410-4609,0930 Park Summit,Regina,SK,K8X3B9,Central,ACC00414,N/A,0.0,0,2023-05-12,Active
+CUST00415,Brittany,Kane,M,1964-11-30,2021-10-13,Visa,Mid,1,brittany.kane@outlook.com,647-329-1747,15285 Roberto Light,Mississauga,ON,P4E 9N2,East,ACC00415,N/A,0.0,0,2023-04-26,Active
+CUST00416,Morgan,Alexander,F,1980-11-20,2023-05-03,Mastercard,High,1,morgan.alexander@gmail.com,647-384-3178,7443 Joann Port Suite 348,Burnaby,BC,T6V 1B8,West,ACC00416,Standard,0.035,5000,2021-08-28,Active
+CUST00417,Alicia,Bryant,M,1961-12-14,2023-10-25,Cash,Mid,1,alicia.bryant@gmail.com,604-943-4440,5105 Richard Branch Apt. 673,Markham,ON,X7X 2G8,East,ACC00417,N/A,0.0,0,2022-07-20,Active
+CUST00418,Jennifer,Ortiz,F,1961-03-04,2022-02-06,Debit,Mid,1,jennifer.ortiz@hotmail.com,514-432-2363,43765 Diaz Falls,Vancouver,BC,E3T3T6,West,ACC00418,N/A,0.0,0,2020-12-30,Inactive
+CUST00419,Diana,Moore,F,1986-09-14,2020-07-09,Debit,Low,1,diana.moore@hotmail.com,204-726-5831,53134 Dennis Manor Suite 023,Dartmouth,NS,L8E9S8,East,ACC00419,N/A,0.0,0,2021-09-15,Active
+CUST00420,Terrance,Costa,M,1978-01-09,2023-07-06,Visa,Mid,0,terrance.costa@outlook.com,416-943-6824,6862 Susan Turnpike,Toronto,ON,G9G 1P4,East,ACC00420,N/A,0.0,0,2023-05-24,Active
+CUST00421,Matthew,Schwartz,M,1985-11-15,2020-11-01,Mastercard,Mid,1,matthew.schwartz@gmail.com,416-650-2743,569 Ryan Highway,Mississauga,ON,V4C3S9,East,ACC00421,Standard,0.04,20000,2023-12-14,Active
+CUST00422,Debra,Christian,NB,1979-10-06,2021-08-08,Mastercard,High,1,debra.christian@bell.net,403-990-4377,41436 Thomas Tunnel,Gatineau,QC,X3H 4J2,East,ACC00422,Platinum,0.029,20000,2022-05-24,Active
+CUST00423,Melissa,Villarreal,M,1979-12-29,2019-11-05,Mastercard,Low,1,melissa.villarreal@yahoo.com,604-695-7479,0432 Smith Flats,Quebec City,QC,B9R 5S4,East,ACC00423,Platinum,0.032,7500,2021-12-08,Active
+CUST00424,Norman,Stewart,F,1958-11-11,2024-05-01,Mastercard,Mid,1,norman.stewart@hotmail.com,204-477-3430,6708 Schneider Hollow,Ottawa,ON,L6P 7L4,East,ACC00424,Standard,0.034,15000,2022-12-05,Inactive
+CUST00425,Jennifer,Malone,M,1976-05-29,2021-12-21,Gift Card,High,0,jennifer.malone@outlook.com,306-289-3885,20005 Justin Harbors Apt. 624,Saskatoon,SK,P2N2M1,Central,ACC00425,N/A,0.0,0,2019-01-23,Active
+CUST00426,Monique,Johnson,M,1983-02-08,2019-07-10,Mastercard,High,1,monique.johnson@bell.net,647-763-5621,5598 Allen Harbor,Brampton,ON,R3C 2E1,East,ACC00426,Standard,0.019,5000,2022-08-27,Active
+CUST00427,Casey,Welch,F,1999-02-17,2024-06-18,Debit,Mid,1,casey.welch@rogers.com,204-803-4077,71189 Turner Mountains,Ottawa,ON,Y3G 4B7,East,ACC00427,N/A,0.0,0,2021-05-13,Active
+CUST00428,Samantha,Bright,M,1963-08-03,2021-06-09,Debit,Mid,0,samantha.bright@yahoo.com,306-760-7594,557 Rhonda Cliff Suite 688,Toronto,ON,H5L 1G1,East,ACC00428,N/A,0.0,0,2021-08-10,Active
+CUST00429,Julie,Hamilton,M,1993-04-03,2022-12-06,Debit,Mid,1,julie.hamilton@gmail.com,416-717-2633,678 Gabriel Terrace,Hamilton,ON,Y5R4R3,East,ACC00429,N/A,0.0,0,2019-10-30,Active
+CUST00430,Corey,Schultz,M,1970-03-19,2023-05-17,Debit,Low,1,corey.schultz@gmail.com,416-881-1716,93908 Gordon Stravenue,Toronto,ON,M5K9M2,East,ACC00430,N/A,0.0,0,2021-02-21,Active
+CUST00431,Monique,Wallace,F,1968-10-31,2022-01-02,Mastercard,Mid,1,monique.wallace@gmail.com,647-742-1221,08340 Sheri Harbors,Markham,ON,L4B 9K2,East,ACC00431,Gold,0.033,5000,2020-07-14,Active
+CUST00432,Heather,Berger,M,1966-02-10,2019-11-19,Debit,High,1,heather.berger@bell.net,905-655-6544,595 Miller Squares,Montreal,QC,G6S1M1,East,ACC00432,N/A,0.0,0,2020-02-10,Active
+CUST00433,Brandon,Flynn,M,1987-05-30,2019-10-31,Mastercard,Mid,1,brandon.flynn@gmail.com,306-877-8279,42408 Jennifer Spurs Suite 498,Winnipeg,MB,T5K 4N7,Central,ACC00433,Gold,0.015,7500,2020-10-23,Suspended
+CUST00434,Kelly,Brooks,M,1981-05-05,2023-08-07,Gift Card,Mid,1,kelly.brooks@yahoo.com,647-349-1915,3652 Davis Falls,Laval,QC,H8H3J5,East,ACC00434,N/A,0.0,0,2019-09-11,Active
+CUST00435,Dustin,Schmidt,F,1980-06-01,2019-07-13,Visa,Low,1,dustin.schmidt@outlook.com,905-121-1729,2269 Chad Cliffs,Red Deer,AB,K2T9R3,West,ACC00435,N/A,0.0,0,2020-10-30,Active
+CUST00436,Ashlee,Sparks,M,1977-12-10,2019-09-25,Mastercard,Mid,0,ashlee.sparks@gmail.com,204-245-1019,166 Daniel Bridge,Mississauga,ON,G5K 3C1,East,ACC00436,Gold,0.019,25000,2021-02-07,Active
+CUST00437,George,Miller,M,1981-03-22,2024-02-22,Debit,Low,0,george.miller@gmail.com,204-250-6788,85132 Malone Mills,Saskatoon,SK,M3N 4V1,Central,ACC00437,N/A,0.0,0,2022-07-11,Active
+CUST00438,Monica,Harvey,F,1969-07-22,2019-07-08,Cash,Mid,1,monica.harvey@bell.net,204-803-2841,810 Curtis Hill Apt. 862,Edmonton,AB,K7A 7K3,West,ACC00438,N/A,0.0,0,2020-10-25,Active
+CUST00439,John,Durham,F,1973-01-26,2024-03-07,Visa,Mid,1,john.durham@gmail.com,403-465-2249,436 Travis Creek Apt. 145,Vancouver,BC,N2E 1P3,West,ACC00439,N/A,0.0,0,2020-10-30,Active
+CUST00440,Douglas,Murray,M,1973-07-03,2020-12-25,Mastercard,Mid,0,douglas.murray@yahoo.com,905-144-3475,8592 Hernandez Shores,Calgary,AB,M5P8E6,West,ACC00440,Platinum,0.029,10000,2022-03-04,Active
+CUST00441,Jonathan,Scott,M,1980-01-19,2022-08-18,Mastercard,Mid,1,jonathan.scott@yahoo.com,647-795-7967,102 Luke Loaf Suite 711,Hamilton,ON,L6G3C3,East,ACC00441,Standard,0.025,25000,2023-01-08,Active
+CUST00442,Albert,Ballard,F,1970-04-24,2021-05-08,Mastercard,Mid,1,albert.ballard@hotmail.com,403-456-2702,5767 Guzman Roads Suite 236,London,ON,Y9V8Y9,East,ACC00442,Gold,0.038,7500,2019-11-07,Active
+CUST00443,Rachel,Byrd,M,1959-10-02,2021-02-22,Debit,Mid,1,rachel.byrd@hotmail.com,403-930-2251,1968 Jacqueline Freeway,Brampton,ON,A6J9A8,East,ACC00443,N/A,0.0,0,2019-12-01,Inactive
+CUST00444,Eric,Alexander,M,1986-11-08,2021-03-06,Mastercard,Mid,1,eric.alexander@icloud.com,647-427-3421,05524 Thomas Walk,Quebec City,QC,K1J3K2,East,ACC00444,Standard,0.033,10000,2020-11-23,Active
+CUST00445,Michael,Matthews,F,1983-03-16,2019-04-30,Debit,Mid,1,michael.matthews@icloud.com,306-934-2102,0650 Elizabeth Cliffs,Victoria,BC,H6A3G2,West,ACC00445,N/A,0.0,0,2020-12-04,Active
+CUST00446,Danielle,Coleman,M,1972-04-27,2019-07-25,Mastercard,Mid,1,danielle.coleman@bell.net,403-248-2481,09622 Manning Summit,Brampton,ON,V8S1N5,East,ACC00446,Gold,0.026,20000,2021-05-02,Active
+CUST00447,John,Bruce,F,1977-09-07,2022-03-25,Debit,Mid,0,john.bruce@gmail.com,204-461-6231,00928 Alex Village,Ottawa,ON,T9Y5L4,East,ACC00447,N/A,0.0,0,2021-03-21,Active
+CUST00448,James,Cruz,F,1973-10-19,2020-04-29,Visa,Mid,0,james.cruz@hotmail.com,204-716-6463,41862 Richard Centers Apt. 628,Richmond,BC,T7V 7N3,West,ACC00448,N/A,0.0,0,2022-01-27,Inactive
+CUST00449,Timothy,Young,M,1989-07-20,2024-04-24,Visa,High,0,timothy.young@bell.net,204-528-9144,6341 Christian Rapids,London,ON,A3K9M2,East,ACC00449,N/A,0.0,0,2023-07-26,Active
+CUST00450,Ashley,Andrews,F,2002-02-28,2022-01-15,Mastercard,Low,1,ashley.andrews@outlook.com,604-493-2369,90438 Danielle Bypass,Richmond,BC,L8C 1B1,West,ACC00450,Standard,0.033,10000,2020-04-10,Active
+CUST00451,Victoria,Phillips,F,2000-11-18,2019-01-02,Mastercard,High,1,victoria.phillips@outlook.com,604-819-2429,40546 Leonard Lock Suite 215,Lethbridge,AB,X3E1X7,West,ACC00451,Gold,0.027,5000,2022-08-09,Inactive
+CUST00452,Tiffany,Barrett,F,1987-01-12,2019-05-02,Mastercard,High,1,tiffany.barrett@gmail.com,416-471-8764,042 Faith Common Apt. 332,Toronto,ON,X6X 8X3,East,ACC00452,Standard,0.011,7500,2023-04-03,Active
+CUST00453,Joshua,Knight,F,1990-09-26,2024-05-21,Mastercard,Mid,1,joshua.knight@gmail.com,514-469-3283,5960 Allen Ridge Apt. 297,Halifax,NS,A9G 2M8,East,ACC00453,Standard,0.036,20000,2020-10-16,Active
+CUST00454,Gina,Garner,F,1986-12-11,2019-10-07,Gift Card,Mid,1,gina.garner@icloud.com,204-348-4452,5242 Joshua Lakes,Ottawa,ON,C8C5H8,East,ACC00454,N/A,0.0,0,2023-03-29,Active
+CUST00455,Brandon,Obrien,F,1986-06-19,2019-12-23,Debit,High,1,brandon.obrien@hotmail.com,905-812-3344,2197 Michael Heights Suite 692,Winnipeg,MB,P6X2N7,Central,ACC00455,N/A,0.0,0,2021-03-21,Active
+CUST00456,Tyler,Strong,F,1973-09-24,2021-02-13,Mastercard,Low,1,tyler.strong@hotmail.com,204-480-1886,0903 Eric Cove Suite 629,Toronto,ON,C8K2R6,East,ACC00456,Platinum,0.025,25000,2023-01-03,Active
+CUST00457,Justin,Lindsey,NB,1993-02-17,2023-10-09,Gift Card,Low,1,justin.lindsey@yahoo.com,647-130-3406,8711 Jessica Locks Suite 365,Montreal,QC,N4N 8V2,East,ACC00457,N/A,0.0,0,2022-01-31,Active
+CUST00458,Catherine,Gomez,F,1977-10-26,2022-08-02,Visa,Low,1,catherine.gomez@gmail.com,416-682-7823,0827 Danielle Island Apt. 960,Toronto,ON,S1V4J1,East,ACC00458,N/A,0.0,0,2020-02-14,Active
+CUST00459,Dana,Oliver,NB,1986-08-31,2019-12-10,Visa,High,1,dana.oliver@yahoo.com,647-866-9641,4212 Joshua Common Suite 768,Ottawa,ON,L2H 7B6,East,ACC00459,N/A,0.0,0,2020-03-03,Active
+CUST00460,Erica,Le,M,1988-02-14,2021-07-03,Mastercard,Mid,1,erica.le@yahoo.com,514-554-1216,35677 Tammy Mews Suite 960,Laval,QC,C6G 1N3,East,ACC00460,Gold,0.02,5000,2022-04-06,Inactive
+CUST00461,Donna,Massey,F,1958-02-11,2019-04-09,Mastercard,High,0,donna.massey@gmail.com,416-718-3843,75164 Vanessa Village Apt. 791,Ottawa,ON,J9J 3S7,East,ACC00461,Gold,0.035,15000,2020-03-11,Active
+CUST00462,Courtney,Berger,M,1991-12-23,2020-12-20,Visa,Mid,0,courtney.berger@yahoo.com,204-796-8443,3390 Cervantes Brook,Vancouver,BC,M8X8E7,West,ACC00462,N/A,0.0,0,2019-01-16,Inactive
+CUST00463,Debbie,Parker,F,1978-03-28,2019-11-30,Visa,Low,1,debbie.parker@rogers.com,403-826-4724,5868 Wilson Fall Suite 652,Red Deer,AB,Y5S 7R5,West,ACC00463,N/A,0.0,0,2023-03-05,Active
+CUST00464,Scott,Riley,F,1967-05-25,2019-06-01,Mastercard,Low,1,scott.riley@gmail.com,905-634-7185,11096 Tyler Terrace,Surrey,BC,T5X 7B4,West,ACC00464,Standard,0.021,15000,2019-11-24,Inactive
+CUST00465,Jessica,Davis,F,1966-05-09,2020-11-23,Visa,Mid,1,jessica.davis@hotmail.com,204-733-1917,8613 Sampson Keys,Moncton,NB,S6R4A9,East,ACC00465,N/A,0.0,0,2023-03-25,Active
+CUST00466,Kenneth,Burgess,M,1972-10-20,2022-05-28,Cash,Low,1,kenneth.burgess@icloud.com,905-936-8674,4463 Rachel Mall Apt. 002,Ottawa,ON,X3N7N4,East,ACC00466,N/A,0.0,0,2020-11-16,Active
+CUST00467,Gregory,Anderson,M,1981-10-19,2022-09-14,Mastercard,Low,1,gregory.anderson@hotmail.com,204-268-1895,96096 Sheila Loaf Apt. 658,Victoria,BC,S3K 9E2,West,ACC00467,Platinum,0.022,25000,2020-08-07,Active
+CUST00468,Amber,Mata,M,1971-10-12,2019-04-22,Mastercard,Mid,1,amber.mata@gmail.com,905-206-2274,482 Harris Course Apt. 609,Gatineau,QC,A7Y 1C3,East,ACC00468,Gold,0.039,25000,2021-11-14,Active
+CUST00469,Alyssa,Mcintyre,M,1975-11-30,2019-07-18,Mastercard,Mid,1,alyssa.mcintyre@icloud.com,416-345-5623,523 Kenneth Plain Apt. 640,Markham,ON,C2G2A8,East,ACC00469,Standard,0.013,15000,2023-07-06,Active
+CUST00470,Maria,Scott,F,1985-08-31,2023-05-27,Mastercard,Mid,1,maria.scott@gmail.com,416-874-6064,24421 Troy Lake,Toronto,ON,R1E 7V2,East,ACC00470,World Elite,0.016,20000,2023-02-15,Active
+CUST00471,Makayla,Olson,M,1974-08-03,2021-01-29,Cash,Mid,1,makayla.olson@hotmail.com,416-346-5410,136 Preston Roads Suite 224,Ottawa,ON,H6B 6E8,East,ACC00471,N/A,0.0,0,2023-09-02,Active
+CUST00472,Lindsay,Francis,M,1978-04-19,2023-09-11,Mastercard,High,1,lindsay.francis@outlook.com,306-146-1787,84139 Amanda Path,Hamilton,ON,J4P 1E6,East,ACC00472,Standard,0.028,10000,2021-01-09,Active
+CUST00473,Matthew,Wilson,NB,1988-11-04,2023-07-14,Visa,Mid,1,matthew.wilson@gmail.com,514-869-5626,12447 Stephanie Keys,Mississauga,ON,T9V7S4,East,ACC00473,N/A,0.0,0,2022-08-19,Active
+CUST00474,Sydney,Taylor,F,1995-07-23,2024-05-31,Visa,Mid,0,sydney.taylor@yahoo.com,204-843-6830,34619 Martin Ford Suite 676,Halifax,NS,N7E4R6,East,ACC00474,N/A,0.0,0,2022-03-06,Inactive
+CUST00475,Tammy,Dalton,F,1965-01-31,2021-03-19,Cash,Mid,0,tammy.dalton@hotmail.com,514-517-9250,172 Susan Glen Suite 498,Saint John,NB,R3A6E7,East,ACC00475,N/A,0.0,0,2023-09-24,Active
+CUST00476,Jennifer,Whitney,M,1971-03-25,2019-09-04,Cash,High,1,jennifer.whitney@icloud.com,416-701-7260,3135 Thomas Island,Markham,ON,A6N 4A8,East,ACC00476,N/A,0.0,0,2021-11-12,Active
+CUST00477,Tammy,Ballard,M,1975-04-17,2019-09-16,Mastercard,Mid,1,tammy.ballard@gmail.com,647-798-8587,81649 Alison Cove Suite 919,Vancouver,BC,S4N4N1,West,ACC00477,Standard,0.035,10000,2020-02-27,Active
+CUST00478,Michael,Gibbs,M,1971-04-08,2023-09-05,Visa,High,1,michael.gibbs@gmail.com,604-320-3307,0461 Shawn Rapid Suite 963,London,ON,M8A 5A3,East,ACC00478,N/A,0.0,0,2023-01-14,Active
+CUST00479,Alexander,Herrera,M,1993-08-25,2022-02-04,Mastercard,Mid,0,alexander.herrera@shaw.ca,514-558-3149,88050 Terry Village Suite 445,Quebec City,QC,R6C8Y1,East,ACC00479,Standard,0.04,20000,2023-03-24,Active
+CUST00480,Shawn,Chambers,M,1995-08-24,2019-08-19,Mastercard,Mid,1,shawn.chambers@outlook.com,204-140-7350,7715 Anthony Causeway Apt. 215,Mississauga,ON,K4H6C9,East,ACC00480,Gold,0.027,10000,2023-06-17,Suspended
+CUST00481,Emily,Richards,F,1967-06-24,2022-02-26,Debit,High,0,emily.richards@outlook.com,647-680-9151,040 Brandon Hollow,Hamilton,ON,L5N 3R3,East,ACC00481,N/A,0.0,0,2023-10-22,Inactive
+CUST00482,Lynn,Bentley,F,1981-09-12,2021-02-23,Debit,Mid,1,lynn.bentley@gmail.com,403-660-2428,25296 Barnett Pike Apt. 977,Toronto,ON,N2V5K5,East,ACC00482,N/A,0.0,0,2019-06-09,Active
+CUST00483,Daniel,Hall,F,1994-01-15,2019-03-21,Mastercard,Mid,1,daniel.hall@yahoo.com,403-265-2116,8331 Teresa Circle,Richmond,BC,A7J 4T8,West,ACC00483,Platinum,0.036,20000,2019-04-13,Inactive
+CUST00484,Angel,Henson,M,1982-02-04,2024-01-12,Mastercard,High,1,angel.henson@yahoo.com,905-283-8548,3988 Hodges Inlet,Mississauga,ON,G3X4E6,East,ACC00484,World Elite,0.038,10000,2021-06-30,Active
+CUST00485,Anna,Herman,M,1966-10-24,2024-06-14,Cash,High,1,anna.herman@shaw.ca,306-765-3301,9836 Casey Manors Apt. 491,Brampton,ON,T4E 1E8,East,ACC00485,N/A,0.0,0,2022-03-09,Suspended
+CUST00486,Jeffrey,Brown,F,1982-03-04,2023-02-01,Mastercard,Low,1,jeffrey.brown@gmail.com,403-510-7701,0787 Baker Plaza,Dartmouth,NS,P3S 7J9,East,ACC00486,Standard,0.021,25000,2020-01-26,Suspended
+CUST00487,Madison,Blankenship,M,2001-06-18,2023-04-05,Visa,Low,1,madison.blankenship@yahoo.com,514-482-2367,507 Wood Causeway Suite 634,Winnipeg,MB,R9H 8L9,Central,ACC00487,N/A,0.0,0,2023-02-28,Inactive
+CUST00488,Kevin,Ortiz,F,1994-03-11,2019-10-05,Debit,Mid,1,kevin.ortiz@gmail.com,416-735-1934,03131 Patty Ports Suite 318,Gatineau,QC,L7K 7R2,East,ACC00488,N/A,0.0,0,2019-06-05,Active
+CUST00489,Donald,Shah,M,1976-01-04,2023-09-11,Mastercard,Low,1,donald.shah@hotmail.com,416-258-2725,473 Kristi Key,Quebec City,QC,M3A9E8,East,ACC00489,Platinum,0.019,5000,2024-01-15,Active
+CUST00490,Kevin,Vasquez,M,1991-01-18,2023-08-14,Visa,High,1,kevin.vasquez@outlook.com,905-328-7360,325 Garrett Isle Suite 207,Ottawa,ON,N5A2H3,East,ACC00490,N/A,0.0,0,2019-10-18,Active
+CUST00491,Colton,Clay,NB,2001-11-07,2022-05-01,Mastercard,Mid,1,colton.clay@yahoo.com,306-757-9767,579 Tracy Gateway,Saskatoon,SK,E5B4A9,Central,ACC00491,World Elite,0.037,7500,2019-09-04,Inactive
+CUST00492,Derek,Chavez,M,1981-03-16,2023-03-14,Debit,Low,1,derek.chavez@gmail.com,647-849-2775,11457 Navarro Plains,Regina,SK,V8L1P6,Central,ACC00492,N/A,0.0,0,2023-03-05,Suspended
+CUST00493,Ellen,Paul,M,1977-03-24,2023-10-22,Mastercard,Low,1,ellen.paul@icloud.com,604-511-6385,589 Rodriguez Spur Apt. 263,Regina,SK,P4V 7A6,Central,ACC00493,Platinum,0.036,15000,2019-12-24,Active
+CUST00494,Sonya,Barnes,F,1958-10-19,2021-08-28,Cash,Mid,1,sonya.barnes@shaw.ca,306-317-8802,136 Tammy Wells,Mississauga,ON,X6H6L7,East,ACC00494,N/A,0.0,0,2019-06-26,Active
+CUST00495,Julia,Moore,F,1985-05-28,2022-12-30,Gift Card,Mid,1,julia.moore@gmail.com,647-581-3384,4309 Flowers Crossing Suite 795,Brampton,ON,E3A8V3,East,ACC00495,N/A,0.0,0,2021-07-21,Inactive
+CUST00496,Robert,Garcia,F,1980-08-10,2020-03-22,Visa,High,1,robert.garcia@outlook.com,204-163-6922,824 Roberts Union Suite 070,Red Deer,AB,M8E 5B1,West,ACC00496,N/A,0.0,0,2022-04-02,Active
+CUST00497,Tracy,Russell,F,1991-07-29,2022-02-23,Visa,Mid,1,tracy.russell@gmail.com,604-988-1375,0042 Koch Turnpike Apt. 142,Gatineau,QC,S4C 1M8,East,ACC00497,N/A,0.0,0,2020-07-13,Active
+CUST00498,Stephanie,Johnson,M,1982-10-21,2022-08-04,Mastercard,Mid,0,stephanie.johnson@gmail.com,647-185-3322,66614 Harper Extensions Suite 592,Dartmouth,NS,L9G 4S5,East,ACC00498,Platinum,0.024,25000,2022-11-17,Active
+CUST00499,Mitchell,Ramos,M,1974-11-25,2019-11-04,Visa,Low,0,mitchell.ramos@gmail.com,306-992-7876,49782 Patton Village Suite 128,Brampton,ON,N8X6P7,East,ACC00499,N/A,0.0,0,2019-05-14,Active
+CUST00500,Stephanie,Foley,M,1994-04-03,2022-09-14,Mastercard,Low,1,stephanie.foley@rogers.com,647-950-1880,6708 Susan Manor Apt. 294,Victoria,BC,X9P 5G1,West,ACC00500,Gold,0.011,15000,2023-08-28,Active
+CUST00501,Cory,Jennings,M,1995-07-21,2021-04-08,Mastercard,High,1,cory.jennings@yahoo.com,403-268-4253,60787 Christopher Groves Apt. 591,Brampton,ON,V2N9B1,East,ACC00501,Standard,0.01,5000,2022-09-06,Active
+CUST00502,Amy,Levine,F,1977-12-13,2022-11-06,Visa,High,1,amy.levine@outlook.com,647-813-8156,287 Jeffrey Spring,Brampton,ON,M8M 4A2,East,ACC00502,N/A,0.0,0,2023-04-26,Inactive
+CUST00503,Michael,Sanders,F,1973-04-02,2023-09-18,Debit,Mid,1,michael.sanders@outlook.com,416-674-4253,29181 James Mountains,London,ON,X1T 2R5,East,ACC00503,N/A,0.0,0,2022-12-24,Active
+CUST00504,James,Martinez,M,1974-06-04,2024-04-23,Debit,Low,1,james.martinez@outlook.com,647-431-6185,2384 Villarreal Ridges Apt. 620,London,ON,G9K 9H4,East,ACC00504,N/A,0.0,0,2021-09-08,Active
+CUST00505,Melanie,Gibson,M,1985-07-20,2021-05-11,Debit,Mid,1,melanie.gibson@bell.net,306-985-6184,4419 Richardson Harbor Suite 617,Brampton,ON,S5G8A2,East,ACC00505,N/A,0.0,0,2020-07-01,Active
+CUST00506,Elizabeth,May,F,2000-03-19,2019-04-20,Cash,High,1,elizabeth.may@yahoo.com,416-561-3059,94097 Rebecca Knoll Apt. 774,London,ON,H9P 4X6,East,ACC00506,N/A,0.0,0,2020-07-10,Suspended
+CUST00507,Carla,Smith,M,2002-11-25,2019-09-03,Cash,Mid,1,carla.smith@gmail.com,604-530-9947,122 Rios Port Suite 724,Calgary,AB,R7C8V3,West,ACC00507,N/A,0.0,0,2020-01-21,Active
+CUST00508,Kristin,Sanchez,NB,1970-04-29,2020-02-15,Mastercard,High,0,kristin.sanchez@gmail.com,604-295-1235,59959 Jones Burgs Apt. 311,Gatineau,QC,V4N2K3,East,ACC00508,Gold,0.01,25000,2019-04-01,Inactive
+CUST00509,David,Cunningham,M,1974-03-07,2023-05-15,Mastercard,High,1,david.cunningham@gmail.com,403-614-3043,1094 Benjamin Summit Apt. 759,Mississauga,ON,H8N 7E3,East,ACC00509,Platinum,0.023,25000,2021-09-27,Active
+CUST00510,Casey,Hubbard,F,1998-07-22,2020-07-14,Mastercard,Mid,1,casey.hubbard@yahoo.com,514-460-9887,47743 Judy Mews,Gatineau,QC,C4A 1E3,East,ACC00510,Platinum,0.032,10000,2021-01-15,Active
+CUST00511,Jamie,Robinson,F,1965-11-24,2019-09-23,Visa,Mid,0,jamie.robinson@gmail.com,647-569-8018,6981 Lopez Stream,Burnaby,BC,J9J6V6,West,ACC00511,N/A,0.0,0,2021-01-22,Active
+CUST00512,Molly,Murphy,M,1961-05-21,2021-12-29,Mastercard,Low,1,molly.murphy@outlook.com,204-490-5669,76619 David Path,Hamilton,ON,E4E1V9,East,ACC00512,Gold,0.015,25000,2024-01-21,Active
+CUST00513,Dylan,Lester,F,1975-02-05,2019-02-06,Debit,Low,1,dylan.lester@hotmail.com,905-189-2700,34465 Monique Estate Suite 189,Brandon,MB,X7X 1M9,Central,ACC00513,N/A,0.0,0,2022-02-02,Active
+CUST00514,Aaron,Garrison,F,1969-07-26,2019-07-30,Mastercard,Low,0,aaron.garrison@outlook.com,204-206-9133,740 Matthew Green,Toronto,ON,N4B 9G6,East,ACC00514,Standard,0.029,15000,2019-12-23,Active
+CUST00515,Duane,Anderson,F,1984-02-03,2021-07-22,Debit,Mid,0,duane.anderson@hotmail.com,416-783-5749,71990 Zavala Mall,Montreal,QC,Y5V 1G2,East,ACC00515,N/A,0.0,0,2021-02-01,Active
+CUST00516,John,Thompson,F,1988-09-30,2024-01-21,Visa,Low,0,john.thompson@gmail.com,306-664-7243,8356 Turner Vista,Winnipeg,MB,A4B 9A7,Central,ACC00516,N/A,0.0,0,2020-12-12,Active
+CUST00517,Donna,Johnson,NB,1959-09-19,2020-04-12,Mastercard,Low,1,donna.johnson@yahoo.com,905-459-8601,706 Dominguez Meadows,Markham,ON,Y8G2E6,East,ACC00517,Standard,0.03,15000,2022-10-15,Active
+CUST00518,Alexis,Tyler,F,1969-01-18,2021-01-20,Debit,Mid,1,alexis.tyler@hotmail.com,204-107-7138,56033 Brianna Forks Suite 890,Victoria,BC,K1B 3C8,West,ACC00518,N/A,0.0,0,2021-01-07,Suspended
+CUST00519,John,Morris,F,1962-05-12,2022-05-01,Gift Card,Mid,1,john.morris@gmail.com,403-414-7794,0559 Whitney Curve,Laval,QC,V2E5C9,East,ACC00519,N/A,0.0,0,2019-06-27,Active
+CUST00520,Grant,Williams,F,1995-05-23,2021-06-28,Mastercard,Mid,1,grant.williams@rogers.com,204-133-1254,5374 Deleon Highway,Montreal,QC,X9L 9N2,East,ACC00520,Platinum,0.02,10000,2022-08-14,Active
+CUST00521,Judy,Fox,M,1958-11-01,2020-09-08,Mastercard,Mid,1,judy.fox@yahoo.com,514-443-3792,6974 James Dam,Markham,ON,M2Y 6J3,East,ACC00521,Platinum,0.036,7500,2023-12-28,Active
+CUST00522,Julie,Alvarez,F,1995-07-30,2023-08-29,Cash,Mid,1,julie.alvarez@gmail.com,204-297-7444,77107 Joseph Radial,Dartmouth,NS,M5C7B8,East,ACC00522,N/A,0.0,0,2021-11-03,Inactive
+CUST00523,Kimberly,Palmer,F,2002-08-27,2020-02-11,Visa,High,0,kimberly.palmer@gmail.com,204-845-3846,6703 Nicolas Shoals,Brandon,MB,Y1B9M6,Central,ACC00523,N/A,0.0,0,2022-07-04,Active
+CUST00524,Daniel,Gordon,F,1994-10-05,2020-08-27,Mastercard,High,1,daniel.gordon@outlook.com,204-336-2631,549 Katherine Junctions,Burnaby,BC,S9B7E5,West,ACC00524,Standard,0.029,25000,2019-11-23,Inactive
+CUST00525,Sonia,Williams,M,1979-01-15,2019-01-06,Mastercard,Low,1,sonia.williams@outlook.com,204-963-5263,9984 Susan Mountain Apt. 204,Quebec City,QC,C5K6Y7,East,ACC00525,Gold,0.039,7500,2023-08-16,Active
+CUST00526,Krista,Camacho,F,1966-01-30,2023-05-16,Visa,Low,1,krista.camacho@bell.net,604-195-2528,454 Patton Valleys,Winnipeg,MB,E5M 3N8,Central,ACC00526,N/A,0.0,0,2019-06-17,Inactive
+CUST00527,Adrienne,Ellis,M,1984-07-23,2020-06-24,Visa,Low,1,adrienne.ellis@outlook.com,647-128-9907,70705 Little Point Apt. 609,Toronto,ON,L2Y 8N3,East,ACC00527,N/A,0.0,0,2023-12-09,Active
+CUST00528,Tamara,Brown,M,1986-01-20,2021-05-22,Debit,High,1,tamara.brown@outlook.com,416-860-3138,4723 Dylan River Apt. 310,Halifax,NS,X1T 9N4,East,ACC00528,N/A,0.0,0,2021-10-23,Active
+CUST00529,Timothy,Morales,M,1973-04-19,2020-11-04,Mastercard,Mid,0,timothy.morales@hotmail.com,514-291-4927,440 Fernandez Cape,Saint John,NB,P9E 8C2,East,ACC00529,Gold,0.027,10000,2024-03-28,Active
+CUST00530,Gina,Henry,M,1988-09-30,2020-01-10,Mastercard,Mid,0,gina.henry@gmail.com,604-843-7194,35956 Dawn Wells,Edmonton,AB,G6A6N7,West,ACC00530,World Elite,0.032,25000,2022-12-24,Active
+CUST00531,Renee,Jones,F,2000-11-27,2023-06-27,Mastercard,Low,1,renee.jones@gmail.com,647-742-1379,4902 Williams Drive Apt. 193,Montreal,QC,X4X7P1,East,ACC00531,Gold,0.02,10000,2022-01-28,Inactive
+CUST00532,Christopher,Franklin,F,1972-04-20,2019-08-01,Mastercard,High,1,christopher.franklin@gmail.com,905-209-3323,1139 Ryan Crossing,Calgary,AB,V8X 6X5,West,ACC00532,Gold,0.035,7500,2022-03-27,Active
+CUST00533,Cameron,Hill,M,1992-01-26,2023-05-15,Mastercard,Mid,0,cameron.hill@gmail.com,306-964-6921,435 Lauren Lake,Ottawa,ON,T4N 8E7,East,ACC00533,Gold,0.033,5000,2020-04-07,Active
+CUST00534,Cynthia,Kelley,M,1969-09-21,2021-09-16,Cash,Mid,1,cynthia.kelley@yahoo.com,306-914-1359,58815 Jacobs Mission Suite 392,Saskatoon,SK,S5G 6L6,Central,ACC00534,N/A,0.0,0,2021-07-18,Active
+CUST00535,Mark,Vang,F,1986-03-11,2019-01-26,Debit,High,1,mark.vang@bell.net,905-315-7879,66829 Chen Trail,Richmond,BC,H3T 2A7,West,ACC00535,N/A,0.0,0,2022-11-22,Inactive
+CUST00536,Alyssa,Chavez,F,1988-05-08,2021-11-29,Visa,Low,1,alyssa.chavez@hotmail.com,306-927-3639,712 Mary Burg Apt. 128,Mississauga,ON,S7P9G4,East,ACC00536,N/A,0.0,0,2020-01-21,Active
+CUST00537,Catherine,Garcia,M,1989-01-07,2022-09-21,Debit,High,1,catherine.garcia@rogers.com,416-220-6616,55999 Virginia Cape Apt. 576,Toronto,ON,S3M3V9,East,ACC00537,N/A,0.0,0,2024-01-04,Active
+CUST00538,Jacqueline,Farrell,M,1962-11-24,2019-01-24,Visa,High,0,jacqueline.farrell@shaw.ca,416-262-9548,09957 Flores Fall,Fredericton,NB,E8K6M1,East,ACC00538,N/A,0.0,0,2021-10-30,Active
+CUST00539,Debra,Mack,M,1964-09-19,2023-03-19,Visa,High,1,debra.mack@gmail.com,416-648-1377,5652 Bobby Street Apt. 684,Montreal,QC,E3P2M5,East,ACC00539,N/A,0.0,0,2021-10-11,Active
+CUST00540,Jennifer,Lewis,M,1991-12-21,2021-04-05,Debit,Mid,1,jennifer.lewis@gmail.com,514-217-4554,7324 Zhang Terrace Apt. 342,Surrey,BC,J3Y 1X1,West,ACC00540,N/A,0.0,0,2019-05-28,Active
+CUST00541,Shannon,Perez,NB,2002-09-20,2021-07-04,Mastercard,High,1,shannon.perez@gmail.com,647-374-5483,70534 Dennis Pike,Ottawa,ON,T2M 8E7,East,ACC00541,Standard,0.033,10000,2023-08-18,Active
+CUST00542,Matthew,Chavez,F,1961-03-20,2022-02-15,Visa,High,0,matthew.chavez@yahoo.com,403-578-9123,1241 Lara Summit Apt. 152,Vancouver,BC,L2T6X1,West,ACC00542,N/A,0.0,0,2022-07-31,Active
+CUST00543,Robert,Davis,NB,1976-07-23,2022-09-02,Debit,Mid,1,robert.davis@bell.net,403-277-4242,85380 John Radial Suite 334,Richmond,BC,G8V5H3,West,ACC00543,N/A,0.0,0,2023-07-27,Active
+CUST00544,Ronald,Ortega,F,1998-10-09,2020-11-10,Visa,Mid,1,ronald.ortega@bell.net,905-697-6105,183 Ryan Overpass,Laval,QC,H5B 7S4,East,ACC00544,N/A,0.0,0,2019-02-03,Active
+CUST00545,Nicholas,Hernandez,M,1968-03-25,2019-07-19,Debit,Mid,0,nicholas.hernandez@bell.net,306-543-8309,8243 Contreras Overpass Suite 958,Ottawa,ON,M2E5K7,East,ACC00545,N/A,0.0,0,2019-09-05,Active
+CUST00546,Sandra,Jones,F,1984-03-12,2022-01-26,Visa,Low,1,sandra.jones@gmail.com,514-737-2762,3612 Huber Shore Apt. 562,Victoria,BC,V1S5K5,West,ACC00546,N/A,0.0,0,2023-08-23,Active
+CUST00547,Marie,Davis,M,1994-09-18,2019-08-08,Mastercard,Low,0,marie.davis@gmail.com,514-482-2052,0854 Jenkins Valleys,Lethbridge,AB,S1R5L8,West,ACC00547,Standard,0.018,5000,2021-05-14,Inactive
+CUST00548,Colin,Rodgers,F,1975-02-05,2023-01-07,Mastercard,Low,1,colin.rodgers@bell.net,403-700-7714,0476 Ashley Expressway,Vancouver,BC,E9N 1G1,West,ACC00548,Platinum,0.01,20000,2020-09-06,Active
+CUST00549,Lisa,Hawkins,M,1969-01-20,2023-05-01,Cash,Mid,1,lisa.hawkins@rogers.com,514-507-1490,55810 Michael Flat Apt. 863,Markham,ON,H7P4N9,East,ACC00549,N/A,0.0,0,2021-02-06,Active
+CUST00550,Brenda,Hoffman,F,1958-05-23,2021-12-22,Debit,Mid,1,brenda.hoffman@yahoo.com,647-466-5019,00818 Moody Canyon,Markham,ON,M4M 4A1,East,ACC00550,N/A,0.0,0,2021-05-27,Active
+CUST00551,Mark,Martinez,F,1973-11-24,2022-11-17,Visa,Low,1,mark.martinez@yahoo.com,647-898-6151,166 Loretta Wells Suite 111,London,ON,A3A2Y7,East,ACC00551,N/A,0.0,0,2024-02-27,Active
+CUST00552,Michael,Ortega,M,1986-11-16,2021-10-29,Cash,Mid,1,michael.ortega@hotmail.com,514-318-8624,456 Kevin Mount,Mississauga,ON,E7L 5V7,East,ACC00552,N/A,0.0,0,2022-06-13,Active
+CUST00553,Karen,Parrish,M,1993-09-11,2024-05-27,Mastercard,High,1,karen.parrish@rogers.com,905-494-5646,68474 Patrick Parks,Red Deer,AB,P8Y4E1,West,ACC00553,Platinum,0.039,15000,2020-10-16,Active
+CUST00554,Jennifer,Schmitt,F,1984-10-25,2023-09-23,Debit,High,0,jennifer.schmitt@gmail.com,403-833-2225,75791 Cook Valleys Apt. 182,Edmonton,AB,V3K 7C8,West,ACC00554,N/A,0.0,0,2020-06-07,Active
+CUST00555,Caroline,Bell,M,1976-01-09,2020-03-05,Visa,Mid,1,caroline.bell@hotmail.com,204-425-6244,74645 Benjamin Spurs,Lethbridge,AB,A9L8J9,West,ACC00555,N/A,0.0,0,2023-10-30,Active
+CUST00556,Becky,Lewis,F,1973-12-14,2021-10-28,Visa,High,1,becky.lewis@icloud.com,306-147-5496,3577 Samantha Manors Apt. 620,Toronto,ON,X4E 8H2,East,ACC00556,N/A,0.0,0,2023-03-22,Active
+CUST00557,Diane,Walker,F,1995-06-15,2022-10-12,Debit,Mid,0,diane.walker@yahoo.com,514-705-7272,7287 Kaitlyn Plaza,Vancouver,BC,R2A7M5,West,ACC00557,N/A,0.0,0,2019-07-20,Active
+CUST00558,Daniel,Bruce,M,1967-07-21,2019-02-21,Mastercard,Low,1,daniel.bruce@gmail.com,416-572-5659,595 Donald Pike Apt. 958,Toronto,ON,V6T3J3,East,ACC00558,Gold,0.036,25000,2021-10-01,Suspended
+CUST00559,Michael,Farmer,F,1983-09-18,2022-10-31,Mastercard,Mid,1,michael.farmer@gmail.com,416-445-1266,56227 Victoria Avenue Suite 331,Brampton,ON,N8E3B2,East,ACC00559,Gold,0.039,5000,2021-08-30,Active
+CUST00560,Audrey,Aguirre,M,1960-11-24,2021-01-04,Debit,High,1,audrey.aguirre@icloud.com,204-840-5931,835 Sarah Harbor Suite 694,Toronto,ON,R9L4Y2,East,ACC00560,N/A,0.0,0,2019-07-08,Active
+CUST00561,Megan,Villegas,F,1992-11-21,2020-05-01,Visa,Mid,1,megan.villegas@yahoo.com,905-669-6131,34249 David Pike,Markham,ON,N4L3V1,East,ACC00561,N/A,0.0,0,2023-01-23,Inactive
+CUST00562,Loretta,Austin,F,1992-03-26,2021-03-04,Mastercard,Mid,0,loretta.austin@yahoo.com,306-605-2989,19222 Baxter Islands,Vancouver,BC,B8G 7X8,West,ACC00562,Gold,0.013,15000,2023-03-15,Active
+CUST00563,Dawn,Johnson,F,1980-07-19,2020-02-20,Visa,High,0,dawn.johnson@gmail.com,416-945-1170,8138 Bennett Lights Suite 548,Winnipeg,MB,X3C5J3,Central,ACC00563,N/A,0.0,0,2022-05-21,Suspended
+CUST00564,Sarah,Gallegos,F,1990-12-29,2023-03-27,Visa,Low,1,sarah.gallegos@rogers.com,204-331-3788,774 Angela Mews Suite 205,Mississauga,ON,P9S4J7,East,ACC00564,N/A,0.0,0,2019-03-12,Active
+CUST00565,Joseph,White,M,1998-04-07,2019-12-30,Gift Card,High,1,joseph.white@rogers.com,514-935-9807,03758 Adam Inlet Suite 154,London,ON,L8B 7L1,East,ACC00565,N/A,0.0,0,2022-02-05,Active
+CUST00566,Jacqueline,Parker,M,1961-08-24,2021-05-27,Mastercard,Low,0,jacqueline.parker@rogers.com,403-903-1705,0907 Henry Mountains Apt. 050,Saint John,NB,H7G 2C1,East,ACC00566,Platinum,0.016,15000,2019-07-14,Active
+CUST00567,Matthew,Smith,M,1999-11-02,2022-12-24,Cash,High,1,matthew.smith@gmail.com,514-804-7218,051 Lucero Fields Apt. 552,Mississauga,ON,X7A1R2,East,ACC00567,N/A,0.0,0,2019-09-20,Active
+CUST00568,Molly,Knight,F,1985-01-07,2021-10-01,Debit,Low,1,molly.knight@bell.net,306-222-3069,241 Scott Harbor,Ottawa,ON,X1S 5H5,East,ACC00568,N/A,0.0,0,2022-10-14,Active
+CUST00569,Richard,Thomas,F,1974-07-01,2021-12-02,Mastercard,Mid,1,richard.thomas@icloud.com,204-752-8320,57919 Davis Course Apt. 125,Ottawa,ON,H6A 8J2,East,ACC00569,World Elite,0.023,20000,2020-01-07,Active
+CUST00570,Cynthia,Johnson,M,1977-11-05,2023-12-15,Mastercard,Mid,1,cynthia.johnson@outlook.com,306-387-6274,3240 Mccarthy Fall,Edmonton,AB,G4N4S5,West,ACC00570,Platinum,0.022,20000,2022-08-31,Active
+CUST00571,Julie,Lewis,NB,2000-08-08,2022-02-23,Debit,Low,1,julie.lewis@gmail.com,403-884-5853,44741 Kelly Lakes,Gatineau,QC,X1T7H3,East,ACC00571,N/A,0.0,0,2020-06-02,Active
+CUST00572,Robert,Peterson,F,1979-11-16,2024-05-17,Mastercard,Mid,1,robert.peterson@outlook.com,604-775-4373,654 Matthew Parkway,Laval,QC,C5X4J8,East,ACC00572,Platinum,0.025,15000,2020-08-23,Inactive
+CUST00573,Mitchell,Griffith,M,1981-01-07,2022-01-11,Debit,Mid,1,mitchell.griffith@shaw.ca,416-317-1215,18272 Willis Landing Suite 905,Montreal,QC,P7A 8H6,East,ACC00573,N/A,0.0,0,2019-03-23,Active
+CUST00574,Kimberly,Bradley,F,1997-12-22,2021-09-23,Mastercard,Low,1,kimberly.bradley@icloud.com,604-599-2712,125 Martin Plains Apt. 079,Gatineau,QC,S4R5V6,East,ACC00574,Standard,0.013,7500,2023-09-11,Active
+CUST00575,Christopher,Williams,F,1973-01-07,2024-06-12,Gift Card,Low,1,christopher.williams@outlook.com,514-878-6108,6403 Robert Trail Suite 969,Markham,ON,H5X 9H4,East,ACC00575,N/A,0.0,0,2021-09-14,Active
+CUST00576,Eric,Williamson,F,1977-02-15,2023-11-07,Debit,Low,0,eric.williamson@icloud.com,905-233-4584,50142 Ellis Expressway,Quebec City,QC,A3G5J5,East,ACC00576,N/A,0.0,0,2019-01-12,Active
+CUST00577,Emily,Nelson,M,1997-01-17,2022-08-17,Debit,Mid,1,emily.nelson@shaw.ca,604-898-7556,33613 Gail Vista,Regina,SK,A6V2H8,Central,ACC00577,N/A,0.0,0,2023-03-05,Inactive
+CUST00578,Ebony,Tucker,M,1961-05-26,2019-06-29,Mastercard,Mid,1,ebony.tucker@yahoo.com,403-990-2672,376 Mccarthy Track Apt. 625,Mississauga,ON,R7N 7M9,East,ACC00578,World Elite,0.033,5000,2020-09-11,Active
+CUST00579,Scott,Nelson,F,1981-03-16,2021-04-14,Mastercard,Mid,1,scott.nelson@hotmail.com,604-116-8550,7903 Katrina Land,Toronto,ON,N7X2A4,East,ACC00579,Standard,0.03,15000,2020-04-13,Active
+CUST00580,Kari,Wilson,M,1958-07-13,2022-08-06,Debit,High,1,kari.wilson@yahoo.com,306-460-5351,3034 Davis Lights,Toronto,ON,S5G 7M8,East,ACC00580,N/A,0.0,0,2023-07-14,Active
+CUST00581,Russell,Campbell,M,1990-02-03,2024-03-15,Visa,Mid,1,russell.campbell@gmail.com,204-317-3467,6226 Steven Corner,Hamilton,ON,E3R6A3,East,ACC00581,N/A,0.0,0,2024-02-11,Active
+CUST00582,Erika,Tucker,F,1997-04-07,2021-02-20,Mastercard,Mid,1,erika.tucker@outlook.com,416-551-5466,707 Henderson Center Suite 641,Richmond,BC,X6P9V6,West,ACC00582,Standard,0.014,20000,2022-02-26,Active
+CUST00583,Elizabeth,Williams,F,1993-01-29,2023-06-20,Debit,High,1,elizabeth.williams@hotmail.com,204-298-5816,68612 Matthew Station,Toronto,ON,J7X1T8,East,ACC00583,N/A,0.0,0,2021-10-13,Active
+CUST00584,Randall,Greene,F,1991-06-23,2024-05-14,Cash,Mid,1,randall.greene@outlook.com,306-631-8103,17750 King Junction Suite 084,Ottawa,ON,M1P 8S6,East,ACC00584,N/A,0.0,0,2022-12-02,Active
+CUST00585,Adrian,Turner,M,1993-05-10,2022-01-05,Visa,Low,1,adrian.turner@hotmail.com,905-324-2887,091 Dennis Place Suite 321,Toronto,ON,G7G 5V6,East,ACC00585,N/A,0.0,0,2022-12-21,Active
+CUST00586,Jason,Taylor,F,1976-12-30,2021-04-25,Cash,Low,1,jason.taylor@outlook.com,604-167-9718,938 Williams Islands Suite 029,Toronto,ON,R6X 5C7,East,ACC00586,N/A,0.0,0,2022-11-21,Active
+CUST00587,Jonathan,Murphy,F,1980-09-03,2020-02-02,Mastercard,Mid,1,jonathan.murphy@rogers.com,204-501-7437,24161 Ashley Hollow Apt. 059,Ottawa,ON,J3S5L9,East,ACC00587,Gold,0.023,5000,2020-07-25,Active
+CUST00588,Adrian,Burgess,M,1999-05-20,2022-08-13,Visa,Low,1,adrian.burgess@icloud.com,403-607-4370,624 Smith Fords,London,ON,S5G 8L6,East,ACC00588,N/A,0.0,0,2022-12-08,Active
+CUST00589,Gregory,James,M,2001-09-16,2024-05-02,Mastercard,Mid,1,gregory.james@yahoo.com,403-822-5718,30531 Chandler Rest,Ottawa,ON,S7N8Y9,East,ACC00589,Standard,0.018,25000,2021-01-02,Active
+CUST00590,Jane,Mason,M,1975-05-12,2020-10-12,Visa,Mid,1,jane.mason@gmail.com,306-856-6002,5557 Steven Summit,Montreal,QC,J7Y5H7,East,ACC00590,N/A,0.0,0,2021-11-04,Inactive
+CUST00591,Martha,Drake,M,1990-09-13,2023-07-13,Mastercard,Low,1,martha.drake@gmail.com,905-270-4069,917 Miller Summit,Winnipeg,MB,M8M8N1,Central,ACC00591,World Elite,0.036,5000,2019-02-19,Active
+CUST00592,Charles,Hensley,M,1997-02-15,2020-07-20,Debit,High,0,charles.hensley@gmail.com,416-782-8775,929 Cunningham Mall,Brampton,ON,M4Y 7V9,East,ACC00592,N/A,0.0,0,2022-03-14,Active
+CUST00593,Bobby,Smith,F,1990-03-09,2023-05-06,Mastercard,Low,1,bobby.smith@gmail.com,403-178-3797,9116 Jason Creek,Vancouver,BC,H9H7R6,West,ACC00593,Standard,0.03,20000,2021-02-03,Active
+CUST00594,Samantha,Atkins,M,1970-07-24,2023-12-31,Visa,High,1,samantha.atkins@outlook.com,306-697-1016,9455 Elizabeth Spur,Montreal,QC,X7Y4Y7,East,ACC00594,N/A,0.0,0,2021-09-05,Active
+CUST00595,Barbara,Berry,M,1959-09-03,2023-10-06,Visa,Mid,1,barbara.berry@yahoo.com,416-938-1284,4722 Roberts Place Suite 721,Surrey,BC,S4S1S4,West,ACC00595,N/A,0.0,0,2023-06-06,Active
+CUST00596,Jenna,Butler,F,1961-04-16,2022-02-03,Mastercard,Mid,1,jenna.butler@icloud.com,647-873-3401,981 Dougherty Islands,Red Deer,AB,H6V 1C7,West,ACC00596,Gold,0.013,5000,2020-04-20,Active
+CUST00597,Darius,Smith,F,1993-03-19,2020-04-02,Cash,High,1,darius.smith@yahoo.com,514-563-9039,75327 Marcus Hill,Montreal,QC,A8J 4T8,East,ACC00597,N/A,0.0,0,2020-09-07,Active
+CUST00598,Mark,Solis,M,1966-02-15,2021-03-23,Mastercard,Low,0,mark.solis@hotmail.com,403-473-8516,78195 John Stravenue,Laval,QC,A9B 8S7,East,ACC00598,Platinum,0.01,5000,2021-11-10,Active
+CUST00599,Christine,Collier,M,1972-11-17,2023-03-31,Visa,Low,0,christine.collier@yahoo.com,514-630-8935,4819 Samuel Views,Mississauga,ON,M6R 7B9,East,ACC00599,N/A,0.0,0,2019-08-19,Active
+CUST00600,Samantha,Davis,F,1971-02-12,2023-02-16,Debit,Low,1,samantha.davis@outlook.com,416-251-7722,1124 Jennifer Lakes Suite 523,London,ON,J6L2E8,East,ACC00600,N/A,0.0,0,2020-06-28,Active
+CUST00601,Megan,Sanchez,F,1981-09-19,2021-01-26,Mastercard,Mid,1,megan.sanchez@yahoo.com,416-350-8056,45475 Lyons Port Suite 902,Winnipeg,MB,X4M 6A6,Central,ACC00601,Standard,0.036,7500,2020-10-16,Inactive
+CUST00602,Brianna,Warren,NB,1998-10-15,2023-12-11,Mastercard,Mid,1,brianna.warren@gmail.com,204-754-2768,2947 Nunez Drives Apt. 294,London,ON,L4K5A3,East,ACC00602,Platinum,0.034,7500,2022-09-21,Active
+CUST00603,Randy,Collins,F,1982-07-15,2023-09-06,Debit,Mid,1,randy.collins@hotmail.com,306-997-9632,5886 Montgomery Extension,Saint John,NB,G9X6N7,East,ACC00603,N/A,0.0,0,2021-09-07,Active
+CUST00604,Matthew,Cook,NB,1964-12-25,2021-11-24,Mastercard,Low,1,matthew.cook@yahoo.com,514-500-7836,287 Timothy Light Apt. 153,London,ON,J5K2G4,East,ACC00604,Standard,0.027,25000,2022-01-13,Inactive
+CUST00605,Gary,Dixon,F,1988-12-15,2021-09-24,Debit,Low,0,gary.dixon@yahoo.com,416-693-9520,7908 Judith Lakes Apt. 615,Dartmouth,NS,L9Y 2Y1,East,ACC00605,N/A,0.0,0,2019-05-26,Active
+CUST00606,Daniel,Hicks,M,1978-08-20,2019-06-07,Visa,Low,1,daniel.hicks@yahoo.com,306-680-6685,833 Robles Falls Apt. 372,Montreal,QC,L2Y 4L2,East,ACC00606,N/A,0.0,0,2019-09-18,Inactive
+CUST00607,Rebecca,Bailey,F,1968-08-13,2022-09-15,Mastercard,High,1,rebecca.bailey@outlook.com,647-577-3461,403 John Trace,Toronto,ON,T1E6Y2,East,ACC00607,Standard,0.033,15000,2021-11-17,Suspended
+CUST00608,Jessica,Fuentes,F,1976-11-26,2022-04-24,Mastercard,Low,1,jessica.fuentes@outlook.com,647-410-8976,1717 Cory Radial,Burnaby,BC,V7M 2A8,West,ACC00608,Standard,0.015,25000,2023-03-23,Active
+CUST00609,Lisa,Young,M,1972-06-15,2019-10-03,Visa,Mid,1,lisa.young@gmail.com,306-141-4560,970 Webster Rapid,Markham,ON,V9H8N9,East,ACC00609,N/A,0.0,0,2022-07-05,Active
+CUST00610,Dwayne,Gonzalez,F,1974-02-25,2021-11-24,Gift Card,Mid,1,dwayne.gonzalez@gmail.com,306-413-1083,448 Matthew Springs Suite 712,Hamilton,ON,A8N8X3,East,ACC00610,N/A,0.0,0,2020-04-06,Inactive
+CUST00611,Carrie,Wolf,M,1983-06-07,2024-04-23,Mastercard,High,0,carrie.wolf@icloud.com,416-357-3256,64175 James Coves,Victoria,BC,J5M 6X9,West,ACC00611,Gold,0.033,5000,2023-11-19,Active
+CUST00612,Diana,Thompson,F,1994-11-08,2022-05-15,Mastercard,High,1,diana.thompson@icloud.com,647-188-5434,49392 Moore Trafficway Suite 229,Mississauga,ON,N7X 5V4,East,ACC00612,Gold,0.016,25000,2024-03-21,Active
+CUST00613,Kendra,Snyder,F,1973-01-17,2023-01-23,Debit,Mid,1,kendra.snyder@gmail.com,905-397-4585,4524 Acosta Village Suite 746,London,ON,S1A7R6,East,ACC00613,N/A,0.0,0,2021-07-10,Active
+CUST00614,Karen,Wolf,F,1969-11-11,2019-08-11,Mastercard,High,1,karen.wolf@gmail.com,204-532-7539,4033 Phillips Landing,Mississauga,ON,N6S 9R9,East,ACC00614,Platinum,0.032,7500,2021-09-08,Active
+CUST00615,Shane,Glass,F,1966-08-22,2019-12-30,Visa,Low,1,shane.glass@rogers.com,403-711-6091,98741 John Islands,Moncton,NB,V8B4R5,East,ACC00615,N/A,0.0,0,2023-06-07,Active
+CUST00616,Anne,Reid,M,1968-07-17,2019-07-10,Visa,Mid,0,anne.reid@hotmail.com,514-923-3280,10548 Kim Haven Apt. 721,Brampton,ON,S5G4G9,East,ACC00616,N/A,0.0,0,2021-04-12,Active
+CUST00617,Claudia,Lin,F,1996-09-17,2021-12-05,Mastercard,Mid,1,claudia.lin@gmail.com,204-667-4268,3598 Hawkins Viaduct,Quebec City,QC,A6G6C8,East,ACC00617,Platinum,0.015,20000,2021-12-03,Active
+CUST00618,Courtney,Hernandez,M,2001-04-03,2023-06-06,Debit,High,0,courtney.hernandez@gmail.com,306-658-4004,57375 Gonzalez Squares,Toronto,ON,L2A7G7,East,ACC00618,N/A,0.0,0,2023-05-03,Active
+CUST00619,Carlos,Ramos,F,1966-10-07,2021-05-21,Mastercard,Low,0,carlos.ramos@yahoo.com,647-639-8240,0808 Smith Mews Apt. 858,Markham,ON,M2N2C9,East,ACC00619,Gold,0.023,20000,2019-06-23,Active
+CUST00620,Kevin,Hill,F,1994-08-30,2020-06-11,Mastercard,High,1,kevin.hill@yahoo.com,204-577-7889,281 Bishop Field,Laval,QC,S8L 3T6,East,ACC00620,Platinum,0.033,5000,2021-01-26,Active
+CUST00621,Brian,Romero,F,1958-08-24,2021-02-07,Debit,Mid,1,brian.romero@gmail.com,416-885-7896,95786 Richard Hill,Fredericton,NB,R4A 6A7,East,ACC00621,N/A,0.0,0,2020-07-29,Active
+CUST00622,Lance,Hayes,M,1980-10-03,2020-06-19,Cash,Mid,1,lance.hayes@outlook.com,403-905-4975,3958 Valdez Flats,Ottawa,ON,G4J5G3,East,ACC00622,N/A,0.0,0,2023-07-11,Suspended
+CUST00623,Brian,Decker,F,1976-04-10,2021-04-26,Visa,Low,1,brian.decker@gmail.com,403-154-7433,89028 Blevins Islands,Red Deer,AB,K5J3J7,West,ACC00623,N/A,0.0,0,2020-11-30,Active
+CUST00624,Chase,Lin,F,1985-07-06,2022-03-29,Mastercard,High,0,chase.lin@gmail.com,306-959-1890,35027 Mary Lane Apt. 736,London,ON,T4T 4R7,East,ACC00624,Gold,0.02,10000,2023-10-18,Inactive
+CUST00625,Melissa,Gilbert,NB,1978-08-13,2021-07-03,Debit,Low,1,melissa.gilbert@icloud.com,905-441-2595,28981 Katherine Crest,Mississauga,ON,P4N4S2,East,ACC00625,N/A,0.0,0,2021-11-13,Active
+CUST00626,William,Ford,F,1962-09-02,2019-11-26,Mastercard,High,0,william.ford@hotmail.com,416-224-9369,4817 Adrian Unions Suite 615,Brandon,MB,M5C4S2,Central,ACC00626,Platinum,0.035,20000,2022-11-24,Active
+CUST00627,Angela,Conner,M,1997-01-22,2019-06-30,Mastercard,Low,1,angela.conner@hotmail.com,647-675-9115,0450 Melanie Fall Apt. 282,Montreal,QC,V4B 5B6,East,ACC00627,Platinum,0.028,20000,2019-10-09,Active
+CUST00628,Paula,Cole,M,1993-12-11,2022-06-11,Debit,High,1,paula.cole@hotmail.com,647-408-6093,62282 Michael Creek Apt. 073,London,ON,R6P1L1,East,ACC00628,N/A,0.0,0,2019-07-06,Active
+CUST00629,Lisa,Pearson,M,1973-09-22,2022-08-04,Visa,High,0,lisa.pearson@icloud.com,604-217-2100,70260 Farmer Stravenue Apt. 210,Montreal,QC,K2C2S8,East,ACC00629,N/A,0.0,0,2020-12-02,Active
+CUST00630,Marc,Alvarez,F,1975-06-22,2019-03-10,Debit,Mid,1,marc.alvarez@rogers.com,905-353-4347,8729 Larry Mountains Suite 258,Hamilton,ON,E4V3V4,East,ACC00630,N/A,0.0,0,2022-06-16,Active
+CUST00631,Edward,Brown,NB,1990-04-10,2020-05-04,Debit,Low,1,edward.brown@icloud.com,306-500-1911,31164 John Glen,Toronto,ON,M9N 9T5,East,ACC00631,N/A,0.0,0,2020-05-30,Active
+CUST00632,Dale,Nolan,F,1993-06-14,2021-04-10,Visa,High,1,dale.nolan@yahoo.com,647-939-4849,6529 Julie Union,Dartmouth,NS,B1J3H1,East,ACC00632,N/A,0.0,0,2024-03-28,Active
+CUST00633,Matthew,Klein,F,1983-07-11,2023-01-27,Debit,Mid,0,matthew.klein@icloud.com,306-979-3018,65097 Mathews Field,Brandon,MB,T5J9T8,Central,ACC00633,N/A,0.0,0,2020-08-14,Active
+CUST00634,William,Thompson,F,1975-06-15,2021-07-20,Cash,Mid,1,william.thompson@gmail.com,647-938-4943,485 Barajas Ferry,Victoria,BC,N8V2Y6,West,ACC00634,N/A,0.0,0,2020-04-11,Active
+CUST00635,John,Kim,NB,1964-06-29,2021-10-27,Mastercard,High,0,john.kim@hotmail.com,604-587-8871,56082 Jeremy Mount Apt. 184,London,ON,P7M 9T2,East,ACC00635,World Elite,0.037,20000,2020-01-27,Active
+CUST00636,Scott,Mills,M,1980-06-10,2022-11-22,Mastercard,Mid,1,scott.mills@gmail.com,306-476-5508,8323 James Summit,London,ON,X9G1X9,East,ACC00636,Standard,0.035,20000,2022-10-16,Active
+CUST00637,Erik,Watson,F,1999-03-02,2022-10-27,Visa,Low,1,erik.watson@icloud.com,306-526-7960,382 Moore Springs Apt. 932,Victoria,BC,J7L5B7,West,ACC00637,N/A,0.0,0,2020-06-24,Active
+CUST00638,Justin,Ortiz,F,1977-10-09,2022-10-18,Debit,Mid,1,justin.ortiz@yahoo.com,204-111-5960,7524 Charles Station Suite 399,Mississauga,ON,B3S 8G3,East,ACC00638,N/A,0.0,0,2022-10-03,Active
+CUST00639,Matthew,Harper,M,1981-08-17,2020-05-23,Mastercard,High,1,matthew.harper@rogers.com,306-143-6811,2669 John Keys,London,ON,K7L 2G3,East,ACC00639,Platinum,0.037,7500,2023-07-01,Active
+CUST00640,Kristina,Holland,M,1974-01-05,2021-09-02,Mastercard,Mid,1,kristina.holland@rogers.com,306-383-1149,2450 Abigail Pine,Fredericton,NB,V5K 2T9,East,ACC00640,Standard,0.031,10000,2022-12-30,Active
+CUST00641,Cameron,Davis,M,1975-01-23,2021-10-18,Debit,Low,1,cameron.davis@outlook.com,604-457-9602,15406 Rodriguez Mountain Suite 927,Fredericton,NB,K2X6E4,East,ACC00641,N/A,0.0,0,2020-10-19,Active
+CUST00642,Erika,Mitchell,M,1980-05-27,2023-09-09,Visa,Low,0,erika.mitchell@gmail.com,647-460-6558,660 Michelle Harbors Suite 485,Vancouver,BC,L1P2C8,West,ACC00642,N/A,0.0,0,2021-08-05,Active
+CUST00643,Jennifer,Douglas,F,2002-03-14,2022-06-11,Mastercard,High,0,jennifer.douglas@gmail.com,403-503-2117,739 Wade Cove,Surrey,BC,Y7R1X2,West,ACC00643,Standard,0.032,10000,2022-07-31,Active
+CUST00644,Rebecca,Marks,F,1986-04-19,2021-10-05,Cash,Mid,1,rebecca.marks@yahoo.com,306-720-3955,113 Carpenter Station,Regina,SK,R8B8P9,Central,ACC00644,N/A,0.0,0,2022-05-09,Active
+CUST00645,Mathew,Aguilar,F,1983-02-22,2021-03-25,Mastercard,Low,1,mathew.aguilar@gmail.com,514-702-6703,6039 Andrew Isle,Red Deer,AB,M8S 5A6,West,ACC00645,Platinum,0.015,25000,2023-07-17,Active
+CUST00646,Donald,Bailey,F,1960-12-03,2021-10-26,Mastercard,High,1,donald.bailey@gmail.com,416-972-3607,3470 Ellis Roads Suite 238,Lethbridge,AB,R8P2H6,West,ACC00646,Standard,0.025,10000,2024-03-24,Active
+CUST00647,Tammy,Hale,M,1999-04-11,2020-10-08,Debit,Low,1,tammy.hale@gmail.com,306-431-4793,835 Garcia Stravenue Apt. 659,London,ON,H5R8J6,East,ACC00647,N/A,0.0,0,2022-01-05,Active
+CUST00648,Philip,Larson,M,1981-04-19,2020-01-19,Visa,Mid,1,philip.larson@icloud.com,905-278-7292,5225 Daniel Prairie Suite 884,Saint John,NB,R2C 2J7,East,ACC00648,N/A,0.0,0,2020-06-05,Active
+CUST00649,Sharon,Collins,F,2002-09-30,2021-05-18,Mastercard,Mid,0,sharon.collins@bell.net,416-726-5103,58562 Garcia Street Suite 991,Gatineau,QC,K4T9B3,East,ACC00649,Standard,0.039,20000,2021-03-16,Active
+CUST00650,Nicholas,Conner,F,1974-02-20,2022-03-16,Mastercard,Low,1,nicholas.conner@hotmail.com,306-881-7132,73333 Wong Forge Apt. 043,Markham,ON,V9T 9S4,East,ACC00650,Standard,0.038,15000,2021-07-20,Inactive
+CUST00651,Lisa,Santiago,M,1979-02-26,2022-02-11,Mastercard,Low,0,lisa.santiago@bell.net,514-210-8364,89696 Mann Lakes Suite 655,Calgary,AB,N2Y 3P6,West,ACC00651,Gold,0.035,20000,2022-03-08,Active
+CUST00652,Maria,Rodgers,M,1958-11-16,2019-12-28,Mastercard,High,1,maria.rodgers@outlook.com,604-300-5136,921 Nichols Cove,London,ON,P8Y 5K1,East,ACC00652,Standard,0.039,25000,2021-09-29,Active
+CUST00653,Gina,Fox,M,1986-04-29,2023-05-28,Visa,High,1,gina.fox@gmail.com,604-859-3655,779 Brown Extension Apt. 878,Victoria,BC,P2V 6G2,West,ACC00653,N/A,0.0,0,2021-09-02,Active
+CUST00654,Debbie,Henderson,M,1972-08-27,2019-05-03,Mastercard,High,1,debbie.henderson@icloud.com,604-188-1397,409 Jordan Track Apt. 637,Kelowna,BC,Y4M9N7,West,ACC00654,Standard,0.014,5000,2021-01-10,Active
+CUST00655,Michael,Cox,F,1981-04-22,2021-01-09,Mastercard,High,1,michael.cox@gmail.com,647-105-6891,950 Jennifer Knolls,Calgary,AB,C7C 3X4,West,ACC00655,World Elite,0.011,5000,2020-07-22,Active
+CUST00656,Henry,Lewis,F,1989-07-01,2023-11-12,Debit,Mid,1,henry.lewis@yahoo.com,306-294-4399,220 Chandler Isle,Montreal,QC,E7R 7R8,East,ACC00656,N/A,0.0,0,2022-01-01,Active
+CUST00657,Stacey,Tucker,F,1983-07-15,2020-12-28,Mastercard,High,1,stacey.tucker@outlook.com,514-733-3258,2145 Jasmine Glen,Lethbridge,AB,C7H4L4,West,ACC00657,Platinum,0.038,25000,2021-05-16,Active
+CUST00658,Jeremy,Taylor,M,1983-09-15,2021-08-07,Visa,Low,1,jeremy.taylor@yahoo.com,204-994-2161,157 Alexandria Brooks Apt. 805,Gatineau,QC,H1A 1X6,East,ACC00658,N/A,0.0,0,2023-12-31,Active
+CUST00659,Chris,Richard,M,1994-04-25,2023-10-05,Cash,Mid,1,chris.richard@icloud.com,403-203-2932,0995 Stephanie Field Suite 283,Edmonton,AB,E3G8P3,West,ACC00659,N/A,0.0,0,2019-05-03,Active
+CUST00660,Craig,Wise,M,1981-12-30,2022-05-24,Visa,Mid,0,craig.wise@outlook.com,514-123-4670,0908 Lindsay Inlet,Vancouver,BC,E9P3H2,West,ACC00660,N/A,0.0,0,2020-11-22,Suspended
+CUST00661,Mary,Stephenson,F,1998-05-26,2021-04-27,Mastercard,Low,1,mary.stephenson@bell.net,403-499-6863,92957 Bowers Crescent Apt. 535,Brandon,MB,K7V 1J6,Central,ACC00661,Platinum,0.019,7500,2020-04-17,Active
+CUST00662,Benjamin,Rogers,M,1965-03-08,2020-03-07,Mastercard,Low,0,benjamin.rogers@gmail.com,403-176-9755,9181 Buck Port,Markham,ON,Y6J3M8,East,ACC00662,Gold,0.033,20000,2020-12-25,Inactive
+CUST00663,Katie,Anderson,F,1960-05-13,2023-04-28,Mastercard,Low,1,katie.anderson@yahoo.com,416-659-2816,6666 Tracy Overpass,Red Deer,AB,N7Y 5V8,West,ACC00663,Standard,0.027,10000,2023-04-11,Active
+CUST00664,Nicholas,Martin,F,1992-12-22,2020-09-25,Mastercard,Mid,1,nicholas.martin@hotmail.com,416-446-7904,080 Stacey Inlet Apt. 508,Red Deer,AB,B4M 6R9,West,ACC00664,Platinum,0.035,7500,2022-01-14,Active
+CUST00665,Marie,Wise,M,1973-04-22,2019-02-28,Mastercard,High,0,marie.wise@rogers.com,416-242-4346,688 William Springs,Mississauga,ON,J3E 4T6,East,ACC00665,World Elite,0.013,25000,2022-06-11,Suspended
+CUST00666,Lisa,Martin,NB,1982-06-10,2022-01-28,Mastercard,Mid,1,lisa.martin@bell.net,416-341-9086,373 Brandon Light,Red Deer,AB,E4M 6A3,West,ACC00666,Standard,0.025,5000,2020-05-19,Inactive
+CUST00667,Samuel,Jenkins,F,1997-01-09,2021-12-08,Visa,High,1,samuel.jenkins@rogers.com,416-454-2159,56022 Christy Green Suite 943,Hamilton,ON,S7A7S5,East,ACC00667,N/A,0.0,0,2020-03-28,Active
+CUST00668,Erica,Young,M,1966-01-13,2021-06-23,Mastercard,Low,1,erica.young@rogers.com,306-232-5432,4906 Heather Mission,Halifax,NS,K2C 3E8,East,ACC00668,Gold,0.037,7500,2020-07-26,Active
+CUST00669,Sean,Mitchell,F,1970-03-25,2020-12-05,Mastercard,Mid,1,sean.mitchell@gmail.com,604-765-6738,85246 Herrera Haven,Montreal,QC,E4E2R9,East,ACC00669,Standard,0.019,20000,2023-10-30,Active
+CUST00670,Kaitlyn,Cole,F,1984-11-17,2019-01-19,Debit,Mid,1,kaitlyn.cole@icloud.com,604-121-1906,28077 Daniel Camp Suite 211,Burnaby,BC,S3P 8T1,West,ACC00670,N/A,0.0,0,2021-03-02,Active
+CUST00671,Amanda,Collins,M,1974-12-02,2021-04-23,Cash,Low,1,amanda.collins@icloud.com,204-798-1296,50902 Villarreal Glen,Markham,ON,P1T 7J7,East,ACC00671,N/A,0.0,0,2020-04-20,Active
+CUST00672,Lindsey,Harrison,M,1991-12-12,2020-03-27,Mastercard,Low,1,lindsey.harrison@yahoo.com,204-812-3051,8132 Matthew Stravenue,Calgary,AB,A4T9C5,West,ACC00672,Standard,0.031,15000,2019-11-04,Active
+CUST00673,Mary,Richardson,F,1982-05-23,2020-08-06,Visa,Mid,1,mary.richardson@outlook.com,905-548-2933,85011 Holmes Brook,Richmond,BC,N3P 2B4,West,ACC00673,N/A,0.0,0,2021-02-26,Inactive
+CUST00674,Stacey,Joyce,M,1970-04-04,2020-08-16,Mastercard,Mid,1,stacey.joyce@yahoo.com,514-547-1949,0906 Melody Track,Regina,SK,Y8C 7A5,Central,ACC00674,Platinum,0.011,10000,2020-02-25,Inactive
+CUST00675,Steven,Campbell,NB,1986-10-07,2019-02-09,Mastercard,Low,0,steven.campbell@outlook.com,604-522-9785,3794 Baird Roads Suite 727,Toronto,ON,K3G7M5,East,ACC00675,Gold,0.034,20000,2020-12-02,Active
+CUST00676,Patrick,Rose,M,1969-03-21,2023-01-04,Mastercard,Low,1,patrick.rose@rogers.com,604-932-1931,0642 Steve Station,Calgary,AB,R4G 7P7,West,ACC00676,Gold,0.028,15000,2022-05-27,Active
+CUST00677,Tammy,Montoya,F,1995-09-14,2020-09-30,Debit,Mid,1,tammy.montoya@yahoo.com,403-144-6146,7767 Morgan Shores Suite 283,Ottawa,ON,J6J 8J9,East,ACC00677,N/A,0.0,0,2019-10-23,Active
+CUST00678,Laurie,Taylor,M,1965-03-13,2023-09-24,Debit,Mid,1,laurie.taylor@rogers.com,403-232-7517,4362 Rodriguez Run Suite 496,London,ON,J9J 3N7,East,ACC00678,N/A,0.0,0,2022-05-15,Inactive
+CUST00679,John,Davidson,M,1974-04-17,2020-01-29,Cash,Mid,1,john.davidson@hotmail.com,905-356-9907,70369 Joshua Summit Apt. 693,Vancouver,BC,S4N 3T8,West,ACC00679,N/A,0.0,0,2022-10-31,Active
+CUST00680,Morgan,Spencer,M,1980-05-02,2021-02-27,Debit,High,1,morgan.spencer@hotmail.com,514-979-4609,980 Kristin Corner Apt. 005,London,ON,N3P 4J5,East,ACC00680,N/A,0.0,0,2023-06-02,Active
+CUST00681,Curtis,Singleton,M,1966-06-06,2021-12-03,Debit,Mid,0,curtis.singleton@bell.net,403-989-5001,9597 Morgan Extensions,Burnaby,BC,M3E3Y3,West,ACC00681,N/A,0.0,0,2020-03-22,Active
+CUST00682,Melissa,Mitchell,F,1972-03-25,2022-07-12,Debit,Mid,1,melissa.mitchell@yahoo.com,905-155-6679,89628 Graves Harbors Apt. 127,Burnaby,BC,B8G 7R8,West,ACC00682,N/A,0.0,0,2021-04-09,Active
+CUST00683,Kathryn,Nelson,M,1984-10-22,2020-02-11,Mastercard,Mid,0,kathryn.nelson@gmail.com,604-240-9535,95799 Seth Brooks,Regina,SK,P6N2C3,Central,ACC00683,Platinum,0.037,15000,2022-05-14,Inactive
+CUST00684,Rebecca,Hernandez,F,1996-12-13,2020-10-26,Mastercard,Mid,1,rebecca.hernandez@outlook.com,905-481-3325,462 Victoria Turnpike,London,ON,N6M 8C1,East,ACC00684,World Elite,0.031,20000,2020-05-14,Active
+CUST00685,Samuel,Potts,F,1961-10-08,2022-04-05,Debit,Mid,1,samuel.potts@hotmail.com,306-216-1348,54384 Tracy Expressway Apt. 344,Ottawa,ON,S5N8B2,East,ACC00685,N/A,0.0,0,2019-05-13,Active
+CUST00686,Jeffrey,Hayes,F,1972-02-24,2021-10-20,Mastercard,High,0,jeffrey.hayes@gmail.com,204-407-2384,029 Jessica Brook Suite 637,Vancouver,BC,R7B6L6,West,ACC00686,Platinum,0.022,10000,2021-01-06,Active
+CUST00687,Michael,Johnson,F,1963-05-13,2020-12-29,Visa,High,1,michael.johnson@outlook.com,306-119-7268,5254 Tracy Grove Apt. 715,Markham,ON,A4G 2E3,East,ACC00687,N/A,0.0,0,2021-10-02,Active
+CUST00688,Brian,Shaw,F,1989-02-27,2023-07-08,Cash,Low,1,brian.shaw@gmail.com,204-288-8062,29311 Jennifer Street Suite 912,Vancouver,BC,N1E3E4,West,ACC00688,N/A,0.0,0,2021-07-01,Inactive
+CUST00689,Joe,Vang,F,1980-06-28,2024-01-15,Mastercard,Mid,1,joe.vang@yahoo.com,514-126-6508,11063 Brendan Common,Victoria,BC,N8X4J8,West,ACC00689,Standard,0.018,7500,2020-07-05,Active
+CUST00690,Nicholas,Johnson,F,1974-09-29,2022-01-18,Mastercard,Mid,0,nicholas.johnson@icloud.com,604-875-1448,4907 William Common,Dartmouth,NS,J9L 4G2,East,ACC00690,World Elite,0.024,7500,2020-03-24,Inactive
+CUST00691,Sarah,Combs,M,1972-05-21,2019-05-22,Visa,High,1,sarah.combs@outlook.com,204-901-1935,25326 Guzman Parkways,Markham,ON,J6S4L9,East,ACC00691,N/A,0.0,0,2022-08-13,Active
+CUST00692,Debra,Moody,M,1992-01-03,2023-02-11,Mastercard,High,1,debra.moody@bell.net,403-979-9761,442 Bryan Park,Gatineau,QC,B8S1C2,East,ACC00692,Gold,0.016,5000,2021-02-20,Active
+CUST00693,Devin,Mitchell,F,1963-09-07,2022-09-10,Gift Card,Low,1,devin.mitchell@hotmail.com,403-266-7247,591 Acosta Island Suite 575,Kelowna,BC,M9V4N4,West,ACC00693,N/A,0.0,0,2023-04-07,Active
+CUST00694,Maria,Horton,M,1971-10-30,2022-06-09,Mastercard,Mid,1,maria.horton@gmail.com,416-387-5495,56775 Ford Mountain,Surrey,BC,G7G1R3,West,ACC00694,Platinum,0.015,20000,2022-11-25,Active
+CUST00695,Dominic,Thornton,M,1961-12-05,2023-09-07,Cash,Low,1,dominic.thornton@icloud.com,403-445-7465,2650 Moody Shore Apt. 292,Ottawa,ON,E8A 3R5,East,ACC00695,N/A,0.0,0,2020-05-27,Active
+CUST00696,Shane,Smith,M,1960-11-08,2022-03-15,Visa,Mid,1,shane.smith@yahoo.com,403-901-1202,07624 Perez Oval Suite 662,Mississauga,ON,B2P6E8,East,ACC00696,N/A,0.0,0,2024-03-23,Active
+CUST00697,Christian,Scott,F,1962-05-28,2021-01-20,Mastercard,Low,0,christian.scott@hotmail.com,403-967-3929,38736 Smith Inlet Apt. 549,Hamilton,ON,E5G6X6,East,ACC00697,Standard,0.014,15000,2020-07-24,Inactive
+CUST00698,Mary,Dunn,M,1965-03-05,2021-08-16,Debit,Mid,0,mary.dunn@yahoo.com,306-137-6877,9710 Wood Gateway,Vancouver,BC,N8K 5N9,West,ACC00698,N/A,0.0,0,2020-01-16,Active
+CUST00699,Jessica,Rose,F,1991-02-10,2023-06-15,Debit,Mid,1,jessica.rose@gmail.com,416-693-2303,532 Harrington Ports Apt. 993,Kelowna,BC,V6V 9A2,West,ACC00699,N/A,0.0,0,2020-09-30,Active
+CUST00700,Daniel,Roberts,NB,1985-04-07,2019-06-09,Cash,Low,1,daniel.roberts@outlook.com,905-551-3945,95187 Morrison Stream Suite 176,Hamilton,ON,L1G 8P4,East,ACC00700,N/A,0.0,0,2019-05-17,Active
+CUST00701,Kevin,Williams,M,1974-12-31,2020-01-31,Visa,Mid,1,kevin.williams@gmail.com,306-230-4726,055 Hoffman Tunnel,Markham,ON,N9V4N4,East,ACC00701,N/A,0.0,0,2019-07-08,Active
+CUST00702,Robert,Bauer,F,1995-04-01,2023-03-09,Mastercard,Mid,1,robert.bauer@rogers.com,416-338-2875,0388 Wright Lane,Edmonton,AB,A4M3L5,West,ACC00702,Gold,0.033,25000,2019-12-27,Active
+CUST00703,Stephen,Rodriguez,F,1967-05-05,2019-12-08,Debit,Mid,1,stephen.rodriguez@hotmail.com,306-693-6199,61572 Garrett Point,Edmonton,AB,T5N 8E5,West,ACC00703,N/A,0.0,0,2021-08-21,Inactive
+CUST00704,Rebecca,Carlson,M,1997-09-29,2024-03-26,Mastercard,High,1,rebecca.carlson@gmail.com,403-363-1264,974 Brenda Islands,London,ON,E9B 8N6,East,ACC00704,Platinum,0.017,7500,2022-05-19,Active
+CUST00705,Allen,Robertson,F,1996-08-18,2023-08-19,Debit,Mid,1,allen.robertson@outlook.com,416-714-4845,6806 Foster Islands,Laval,QC,M9N 1B3,East,ACC00705,N/A,0.0,0,2019-05-18,Active
+CUST00706,John,Thomas,M,1980-10-17,2021-01-07,Gift Card,Mid,1,john.thomas@outlook.com,905-623-2268,12218 Shelby Freeway Apt. 555,Toronto,ON,S8N 7C9,East,ACC00706,N/A,0.0,0,2020-07-05,Inactive
+CUST00707,Ruben,Mendez,F,1959-06-19,2021-11-26,Mastercard,Low,0,ruben.mendez@outlook.com,204-173-7987,662 Lisa Mission,Mississauga,ON,E4L 1K9,East,ACC00707,Standard,0.014,15000,2022-02-07,Active
+CUST00708,John,Butler,NB,1986-04-02,2019-02-14,Debit,High,0,john.butler@gmail.com,514-443-7686,37003 Stephanie Ways,Saskatoon,SK,X7N 7N1,Central,ACC00708,N/A,0.0,0,2023-01-21,Active
+CUST00709,Elizabeth,Miller,M,1971-11-18,2019-07-13,Mastercard,Low,1,elizabeth.miller@yahoo.com,403-736-1510,0681 James Camp Apt. 397,Regina,SK,P9C 3P7,Central,ACC00709,Gold,0.016,5000,2020-10-28,Inactive
+CUST00710,Theresa,Jones,M,1978-11-26,2020-06-08,Debit,Mid,0,theresa.jones@gmail.com,647-705-1418,80944 Dixon Estate,Toronto,ON,L6N 5J7,East,ACC00710,N/A,0.0,0,2023-04-19,Active
+CUST00711,Alicia,Romero,F,1987-02-17,2023-06-12,Visa,High,1,alicia.romero@icloud.com,514-320-7206,470 Morrison Run,Ottawa,ON,J1H7E2,East,ACC00711,N/A,0.0,0,2023-07-24,Active
+CUST00712,Vanessa,Spencer,M,1966-07-22,2022-05-04,Visa,High,1,vanessa.spencer@hotmail.com,647-490-2285,94394 Ford Rue,Winnipeg,MB,L1J 5X1,Central,ACC00712,N/A,0.0,0,2021-10-30,Inactive
+CUST00713,Peter,Harrison,M,1988-01-01,2020-12-13,Cash,High,1,peter.harrison@outlook.com,204-651-2986,53765 Joyce Rapids,Halifax,NS,V5V 4Y2,East,ACC00713,N/A,0.0,0,2021-03-17,Active
+CUST00714,Cynthia,Zavala,M,1959-01-10,2022-07-22,Debit,Mid,1,cynthia.zavala@outlook.com,306-424-5410,09004 Kevin Light,Winnipeg,MB,E4B 4P7,Central,ACC00714,N/A,0.0,0,2019-04-10,Active
+CUST00715,Jon,Smith,M,1971-06-03,2020-10-31,Visa,Low,1,jon.smith@gmail.com,604-436-4982,46040 Kevin Greens Suite 310,Hamilton,ON,H2A4E8,East,ACC00715,N/A,0.0,0,2023-09-30,Active
+CUST00716,Kristina,Cooper,F,1997-12-23,2023-03-22,Visa,Low,1,kristina.cooper@gmail.com,514-866-2890,0971 Jason Locks Suite 007,Laval,QC,T1S1H2,East,ACC00716,N/A,0.0,0,2023-10-31,Active
+CUST00717,Jessica,Fuller,F,1969-11-10,2020-11-19,Mastercard,Low,1,jessica.fuller@hotmail.com,204-470-2305,473 Johnson Groves Apt. 370,Gatineau,QC,S4Y 1V5,East,ACC00717,Gold,0.033,15000,2020-05-18,Active
+CUST00718,Kelsey,Moss,F,1996-12-24,2023-05-04,Debit,Mid,1,kelsey.moss@gmail.com,514-769-8932,95778 Nathaniel Landing Apt. 556,Hamilton,ON,R6P 5T3,East,ACC00718,N/A,0.0,0,2022-12-25,Active
+CUST00719,Marvin,Williams,F,1975-08-05,2022-02-23,Visa,Low,1,marvin.williams@icloud.com,604-683-3052,865 Miller Glen Apt. 557,Lethbridge,AB,Y6H9B3,West,ACC00719,N/A,0.0,0,2020-05-23,Active
+CUST00720,Amy,Li,M,1987-01-06,2022-11-03,Cash,Mid,1,amy.li@icloud.com,204-790-3263,292 Makayla Locks Apt. 618,Halifax,NS,X5E 9A3,East,ACC00720,N/A,0.0,0,2022-05-26,Active
+CUST00721,Gregory,Maxwell,M,1986-10-10,2020-12-06,Visa,Mid,0,gregory.maxwell@yahoo.com,905-183-7692,571 Dennis Union,Red Deer,AB,Y7R4X6,West,ACC00721,N/A,0.0,0,2019-05-18,Suspended
+CUST00722,Steven,Dominguez,M,1997-09-03,2022-06-30,Mastercard,High,1,steven.dominguez@outlook.com,604-284-8439,137 Mary Terrace Apt. 081,Surrey,BC,G4C7M5,West,ACC00722,Standard,0.019,20000,2023-06-25,Active
+CUST00723,Crystal,Cain,M,1965-09-12,2019-08-19,Debit,Mid,1,crystal.cain@yahoo.com,306-860-2654,130 Anthony Crest,Toronto,ON,H5C 8C2,East,ACC00723,N/A,0.0,0,2023-03-25,Active
+CUST00724,Bryan,Parsons,F,1983-10-23,2019-01-29,Mastercard,Mid,1,bryan.parsons@icloud.com,416-806-3735,6094 Hughes Fords Suite 699,Toronto,ON,B8V6B6,East,ACC00724,Gold,0.022,20000,2021-08-13,Suspended
+CUST00725,Stephen,Carter,F,1977-01-03,2020-02-22,Visa,Mid,1,stephen.carter@outlook.com,204-532-6805,7681 Barker River,Moncton,NB,V1A8R2,East,ACC00725,N/A,0.0,0,2021-11-30,Active
+CUST00726,Bradley,Gonzalez,F,1959-08-26,2021-02-10,Visa,Low,1,bradley.gonzalez@outlook.com,403-221-6518,8113 Shawn Summit Suite 397,London,ON,N8M 4Y7,East,ACC00726,N/A,0.0,0,2022-05-25,Active
+CUST00727,Bobby,Mahoney,NB,1982-05-04,2019-04-19,Visa,Low,1,bobby.mahoney@outlook.com,905-839-1741,29087 Wayne Mountain,Regina,SK,R5Y2B9,Central,ACC00727,N/A,0.0,0,2023-09-12,Active
+CUST00728,Zachary,Hays,M,1990-04-26,2023-11-06,Mastercard,High,1,zachary.hays@bell.net,204-745-8368,74204 Simmons Spur Apt. 137,Mississauga,ON,K3A7R1,East,ACC00728,Platinum,0.026,15000,2019-12-08,Active
+CUST00729,Amy,King,F,1966-12-08,2024-01-26,Mastercard,Mid,1,amy.king@gmail.com,306-816-3205,35973 Stokes Crescent Apt. 222,Gatineau,QC,T7V 1P9,East,ACC00729,Gold,0.034,7500,2019-05-31,Active
+CUST00730,Karen,Lee,M,1999-02-02,2022-02-22,Cash,Low,1,karen.lee@gmail.com,416-707-7060,816 Johnson Mews Suite 111,Montreal,QC,P9V4R3,East,ACC00730,N/A,0.0,0,2021-01-22,Inactive
+CUST00731,Michael,Norman,M,1993-04-17,2023-03-05,Mastercard,Mid,1,michael.norman@yahoo.com,306-280-9334,21923 Keller Plains,Gatineau,QC,Y2L3V7,East,ACC00731,Standard,0.037,15000,2021-02-08,Active
+CUST00732,Michelle,Rivera,F,2002-12-21,2020-07-18,Debit,High,0,michelle.rivera@bell.net,905-337-5871,033 Kevin Summit,Laval,QC,A9P1B2,East,ACC00732,N/A,0.0,0,2019-02-18,Active
+CUST00733,David,Richardson,M,1960-08-23,2024-04-17,Visa,Low,0,david.richardson@outlook.com,204-392-6288,804 Luis Gardens Suite 337,Vancouver,BC,V3J7E9,West,ACC00733,N/A,0.0,0,2020-02-11,Active
+CUST00734,Pamela,Paul,NB,1965-11-16,2023-02-03,Mastercard,Mid,1,pamela.paul@bell.net,416-933-4451,28217 Ashlee Gateway,Surrey,BC,P7K1L7,West,ACC00734,Standard,0.033,7500,2021-07-10,Inactive
+CUST00735,Patricia,Hughes,NB,1979-07-26,2022-03-19,Mastercard,High,1,patricia.hughes@outlook.com,514-201-6690,6035 Cole Villages,Burnaby,BC,G7V 3X4,West,ACC00735,Platinum,0.032,25000,2023-06-14,Active
+CUST00736,Terri,Crawford,F,1976-07-20,2022-08-29,Mastercard,High,0,terri.crawford@gmail.com,306-549-4664,1690 Jones Corner Apt. 054,Toronto,ON,L5T9N6,East,ACC00736,Standard,0.01,7500,2024-01-25,Active
+CUST00737,Tyler,Glass,NB,1970-02-18,2021-05-30,Gift Card,Low,0,tyler.glass@bell.net,403-720-2738,8769 Taylor Course Suite 588,Regina,SK,L5L 9L4,Central,ACC00737,N/A,0.0,0,2021-09-23,Active
+CUST00738,April,Owen,NB,1986-06-26,2019-05-19,Visa,Low,1,april.owen@gmail.com,604-665-9334,3935 Lee Isle Suite 449,Dartmouth,NS,J4G6M9,East,ACC00738,N/A,0.0,0,2022-12-30,Active
+CUST00739,Jessica,Miller,NB,1960-08-24,2023-04-17,Mastercard,High,1,jessica.miller@outlook.com,416-652-9813,79821 Little Ford Suite 275,Montreal,QC,R8V 9L6,East,ACC00739,Platinum,0.024,15000,2019-04-16,Active
+CUST00740,Carrie,Short,M,1982-07-25,2019-11-08,Debit,Low,1,carrie.short@outlook.com,416-478-4328,9141 Li Lock,Montreal,QC,C8J 8L9,East,ACC00740,N/A,0.0,0,2019-10-26,Inactive
+CUST00741,Amy,Morris,M,1981-12-10,2022-05-25,Visa,Low,1,amy.morris@yahoo.com,306-633-3067,963 Williams Meadow Suite 917,Hamilton,ON,R3N3E2,East,ACC00741,N/A,0.0,0,2024-03-04,Active
+CUST00742,Christopher,Guerrero,F,2000-10-04,2019-10-02,Visa,High,1,christopher.guerrero@rogers.com,905-555-8082,01418 Anderson Court Suite 309,Brandon,MB,A5E 5N7,Central,ACC00742,N/A,0.0,0,2021-02-05,Active
+CUST00743,Kirk,Morrison,M,2002-02-02,2021-08-28,Mastercard,Low,1,kirk.morrison@rogers.com,403-849-2908,39994 Randall Drive,Vancouver,BC,Y3N 7K4,West,ACC00743,Gold,0.022,25000,2023-11-22,Active
+CUST00744,Ronald,Norris,F,1982-03-18,2024-04-30,Mastercard,High,1,ronald.norris@hotmail.com,604-844-2218,19947 Cody Vista,Moncton,NB,K3K3T4,East,ACC00744,Gold,0.021,20000,2022-02-03,Active
+CUST00745,Michael,Williams,F,1997-05-30,2023-11-11,Visa,High,0,michael.williams@yahoo.com,306-745-9402,03469 Griffin Fort Apt. 167,Hamilton,ON,G1R9R5,East,ACC00745,N/A,0.0,0,2024-03-27,Suspended
+CUST00746,Molly,Gomez,M,1961-10-02,2022-05-30,Debit,Mid,1,molly.gomez@hotmail.com,514-139-8100,768 Morris Parks,Montreal,QC,T3J2P7,East,ACC00746,N/A,0.0,0,2023-10-02,Active
+CUST00747,Whitney,Hill,M,1961-06-15,2021-12-02,Mastercard,High,0,whitney.hill@icloud.com,514-294-1583,3355 Hill Stravenue,London,ON,K1R4V2,East,ACC00747,Gold,0.016,20000,2019-12-06,Active
+CUST00748,Tina,Gould,M,1993-06-29,2023-02-14,Mastercard,High,0,tina.gould@gmail.com,204-993-4607,069 Ward Brooks Suite 676,Halifax,NS,S4L 5P6,East,ACC00748,Standard,0.032,20000,2020-07-06,Active
+CUST00749,Charles,Walsh,F,1997-06-08,2021-03-26,Cash,Mid,1,charles.walsh@yahoo.com,306-933-4065,2239 Meghan Light Suite 031,Laval,QC,C5Y 2B9,East,ACC00749,N/A,0.0,0,2021-11-09,Active
+CUST00750,Michael,Owen,M,1962-11-23,2022-11-14,Visa,High,1,michael.owen@gmail.com,905-628-4509,2426 Pitts Ferry Apt. 642,Laval,QC,K3C 5B9,East,ACC00750,N/A,0.0,0,2021-12-03,Active
+CUST00751,Erin,Cisneros,F,1968-02-26,2020-01-04,Debit,Mid,1,erin.cisneros@outlook.com,604-827-3918,2303 Carlos Courts Suite 281,Toronto,ON,Y3P9H3,East,ACC00751,N/A,0.0,0,2021-07-07,Active
+CUST00752,Douglas,Lawson,F,1998-06-14,2019-02-21,Mastercard,High,1,douglas.lawson@gmail.com,204-746-4845,52480 Phillip Expressway,London,ON,V4G 6G5,East,ACC00752,Platinum,0.024,20000,2020-10-30,Active
+CUST00753,Kimberly,Johnson,F,1980-06-08,2020-10-25,Debit,High,1,kimberly.johnson@outlook.com,647-998-5916,72132 Carlos Lane Apt. 047,Lethbridge,AB,R7Y9Y8,West,ACC00753,N/A,0.0,0,2019-04-15,Inactive
+CUST00754,Carlos,Osborne,M,1968-03-29,2022-12-17,Mastercard,Mid,1,carlos.osborne@hotmail.com,306-915-7425,964 Jackson Walks Suite 203,Brandon,MB,P7M 7E7,Central,ACC00754,Gold,0.037,15000,2021-06-06,Active
+CUST00755,Michael,Reyes,M,1972-05-06,2021-02-14,Visa,Low,1,michael.reyes@gmail.com,604-215-5706,0573 Jason Trail Apt. 792,Lethbridge,AB,R1K4G8,West,ACC00755,N/A,0.0,0,2019-03-16,Active
+CUST00756,Ashley,Jacobs,M,1971-06-20,2019-11-29,Cash,High,1,ashley.jacobs@yahoo.com,204-218-3886,6775 Steven Mall Apt. 321,Richmond,BC,P8B7P7,West,ACC00756,N/A,0.0,0,2022-01-27,Active
+CUST00757,Erika,Rush,M,1998-01-13,2020-08-14,Visa,Low,1,erika.rush@hotmail.com,514-813-7522,458 Williams Ways,Burnaby,BC,C4P5N9,West,ACC00757,N/A,0.0,0,2022-03-05,Active
+CUST00758,Nathan,Hines,F,1980-09-15,2019-01-26,Visa,Mid,1,nathan.hines@icloud.com,306-715-7750,12840 William Roads,Gatineau,QC,A6T8R6,East,ACC00758,N/A,0.0,0,2019-11-11,Inactive
+CUST00759,Audrey,Moreno,F,1979-05-05,2020-03-20,Visa,Mid,1,audrey.moreno@gmail.com,604-971-7701,5089 Nicole Trace Suite 680,Montreal,QC,G8R 5N3,East,ACC00759,N/A,0.0,0,2021-02-12,Active
+CUST00760,Raymond,Banks,F,1979-12-15,2023-12-12,Visa,Mid,0,raymond.banks@yahoo.com,514-521-7412,19646 Bobby Hollow,Markham,ON,G4J 7S3,East,ACC00760,N/A,0.0,0,2023-01-02,Active
+CUST00761,John,Wilson,M,1971-04-21,2019-04-23,Debit,High,1,john.wilson@yahoo.com,416-374-8954,943 Vickie Estates Apt. 471,Gatineau,QC,T2H 2V8,East,ACC00761,N/A,0.0,0,2023-01-19,Active
+CUST00762,Jill,Porter,M,1984-10-10,2020-11-09,Cash,Mid,1,jill.porter@hotmail.com,416-415-8334,574 Welch Islands Apt. 984,Laval,QC,K8A 5S6,East,ACC00762,N/A,0.0,0,2019-10-22,Active
+CUST00763,Paul,Hoffman,F,1973-12-01,2024-06-01,Visa,High,1,paul.hoffman@rogers.com,604-898-2807,6094 Rodriguez Drive Apt. 337,Kelowna,BC,E6Y 7X7,West,ACC00763,N/A,0.0,0,2024-02-17,Active
+CUST00764,Jose,Green,M,1991-01-25,2024-01-13,Mastercard,Mid,1,jose.green@gmail.com,416-839-1345,541 Francisco Orchard Apt. 506,Dartmouth,NS,S8G1S6,East,ACC00764,Gold,0.018,7500,2019-03-27,Active
+CUST00765,Sean,Davies,M,1970-01-26,2019-09-07,Debit,Mid,1,sean.davies@icloud.com,514-461-2039,43776 Richard Vista Apt. 439,Montreal,QC,N7H 2N2,East,ACC00765,N/A,0.0,0,2019-01-25,Suspended
+CUST00766,Justin,Hendricks,NB,1963-03-22,2019-08-12,Visa,Mid,1,justin.hendricks@yahoo.com,604-260-9776,02867 Sarah Underpass,Edmonton,AB,B3A 1V3,West,ACC00766,N/A,0.0,0,2020-02-03,Active
+CUST00767,Travis,Martinez,M,1983-10-07,2021-05-24,Visa,Mid,0,travis.martinez@gmail.com,647-482-6431,5910 Patricia Isle Apt. 091,Victoria,BC,A7J 8H2,West,ACC00767,N/A,0.0,0,2020-02-01,Active
+CUST00768,Melissa,Hayes,F,1969-08-21,2022-06-12,Visa,Mid,1,melissa.hayes@hotmail.com,416-136-1328,498 Marie Haven Apt. 179,Kelowna,BC,H8X4E5,West,ACC00768,N/A,0.0,0,2023-08-19,Inactive
+CUST00769,Rachel,Wallace,M,1978-11-17,2022-12-22,Mastercard,Low,1,rachel.wallace@outlook.com,306-143-3571,5277 Lynn Inlet,Montreal,QC,R5S6K4,East,ACC00769,Gold,0.027,7500,2019-01-02,Suspended
+CUST00770,Christopher,Fleming,M,1976-08-07,2023-06-26,Visa,Low,1,christopher.fleming@gmail.com,604-134-5463,2201 Briana Crest,Toronto,ON,E3T 2G5,East,ACC00770,N/A,0.0,0,2019-12-01,Inactive
+CUST00771,Megan,Flores,F,1977-01-18,2019-01-24,Visa,Mid,1,megan.flores@hotmail.com,647-937-5423,593 Graham Crossing Suite 370,Gatineau,QC,H6R2J1,East,ACC00771,N/A,0.0,0,2020-06-27,Active
+CUST00772,Michael,Brown,F,1987-01-23,2023-04-20,Mastercard,Mid,1,michael.brown@gmail.com,204-120-1241,6277 Bowers Wall,Winnipeg,MB,T7G6N3,Central,ACC00772,Platinum,0.017,7500,2024-03-09,Active
+CUST00773,Amber,Vance,M,1960-08-12,2023-09-01,Mastercard,Mid,1,amber.vance@gmail.com,204-298-6114,46175 Bobby Dam,Quebec City,QC,X4V 3L7,East,ACC00773,Standard,0.03,10000,2022-06-17,Active
+CUST00774,Melissa,Joseph,M,1961-03-11,2022-08-15,Mastercard,Mid,0,melissa.joseph@outlook.com,416-409-5490,55955 Daniel Trail,Gatineau,QC,J9G 5N9,East,ACC00774,Gold,0.024,10000,2022-03-27,Active
+CUST00775,Sara,Little,F,1999-06-29,2023-05-25,Debit,Low,1,sara.little@gmail.com,306-485-5771,999 Ryan Street Apt. 798,Vancouver,BC,Y5T6B1,West,ACC00775,N/A,0.0,0,2023-12-27,Inactive
+CUST00776,Laura,Hicks,M,1986-04-22,2022-02-11,Visa,Mid,1,laura.hicks@bell.net,403-594-5659,176 Sloan Rest Apt. 593,Surrey,BC,L4M5B7,West,ACC00776,N/A,0.0,0,2023-02-28,Active
+CUST00777,David,Harris,M,1989-09-21,2019-05-16,Gift Card,Low,0,david.harris@yahoo.com,306-845-7449,83037 Randy Meadows Apt. 148,Saskatoon,SK,A1X8M4,Central,ACC00777,N/A,0.0,0,2022-09-23,Active
+CUST00778,Dominic,Tyler,M,1972-11-21,2022-03-15,Visa,Low,1,dominic.tyler@yahoo.com,416-506-4802,36852 Alexis Meadow Apt. 537,Halifax,NS,E3G 5L5,East,ACC00778,N/A,0.0,0,2019-11-15,Active
+CUST00779,Anthony,Spencer,M,1986-03-20,2022-12-24,Mastercard,Mid,1,anthony.spencer@outlook.com,403-440-3355,63251 Collins Plains Apt. 121,Richmond,BC,K3C 2L8,West,ACC00779,Platinum,0.028,25000,2020-07-25,Inactive
+CUST00780,Miguel,Lara,M,1985-02-24,2020-03-18,Visa,Mid,1,miguel.lara@gmail.com,647-312-9025,88781 Contreras Harbors Apt. 515,Montreal,QC,R5J 1Y2,East,ACC00780,N/A,0.0,0,2023-05-13,Inactive
+CUST00781,Andrea,Salazar,F,1966-04-23,2021-06-27,Visa,High,1,andrea.salazar@gmail.com,306-635-4808,25288 Timothy Throughway,Calgary,AB,A7N2R9,West,ACC00781,N/A,0.0,0,2020-04-08,Inactive
+CUST00782,Christopher,Parker,M,2001-05-17,2023-02-09,Cash,Mid,1,christopher.parker@gmail.com,403-858-6535,23979 Theresa Summit Apt. 787,Brampton,ON,N1P1J8,East,ACC00782,N/A,0.0,0,2021-06-07,Active
+CUST00783,Yvonne,Higgins,M,1969-11-27,2020-02-25,Debit,High,1,yvonne.higgins@yahoo.com,204-992-1091,95055 Brady Avenue,Winnipeg,MB,T2C9G9,Central,ACC00783,N/A,0.0,0,2020-11-03,Inactive
+CUST00784,Alicia,Hammond,F,1961-12-13,2022-11-08,Debit,Mid,0,alicia.hammond@icloud.com,306-658-9188,277 Wilson Valleys,Ottawa,ON,N9K 7M5,East,ACC00784,N/A,0.0,0,2020-09-07,Active
+CUST00785,Madeline,Jones,M,1986-01-13,2019-02-16,Visa,High,1,madeline.jones@gmail.com,306-825-8913,04246 Juan Vista,London,ON,C2X8P5,East,ACC00785,N/A,0.0,0,2023-01-23,Suspended
+CUST00786,Teresa,Day,M,1982-10-27,2021-12-26,Mastercard,Low,1,teresa.day@shaw.ca,905-207-7974,0045 Jennifer Ways Apt. 899,Victoria,BC,P5E 6E6,West,ACC00786,Standard,0.028,10000,2019-08-07,Inactive
+CUST00787,Shannon,Frazier,F,1959-05-15,2024-05-16,Visa,Low,1,shannon.frazier@gmail.com,416-265-9518,93913 Joshua Ville,Gatineau,QC,Y9Y 5M2,East,ACC00787,N/A,0.0,0,2022-02-10,Active
+CUST00788,Melvin,Humphrey,M,1970-09-13,2024-04-15,Debit,Low,1,melvin.humphrey@gmail.com,905-139-7949,46154 Derrick Court Apt. 170,Quebec City,QC,P2R5Y3,East,ACC00788,N/A,0.0,0,2023-05-24,Active
+CUST00789,Kimberly,Bowman,M,1988-05-22,2022-01-12,Mastercard,Mid,1,kimberly.bowman@icloud.com,306-243-9963,52291 Thomas Stream,Victoria,BC,H7X 1K9,West,ACC00789,World Elite,0.024,7500,2024-03-11,Active
+CUST00790,Hunter,Burch,M,1962-10-29,2019-06-26,Mastercard,Mid,1,hunter.burch@gmail.com,204-401-5441,378 Brian Forest Suite 384,Vancouver,BC,G5R5S4,West,ACC00790,Gold,0.021,25000,2021-03-29,Active
+CUST00791,Ryan,Bartlett,M,1997-12-31,2022-06-16,Mastercard,Low,1,ryan.bartlett@rogers.com,647-244-5754,649 Smith Crescent,Kelowna,BC,J3L2G4,West,ACC00791,Standard,0.012,7500,2022-06-30,Active
+CUST00792,Brian,Martinez,F,1965-01-17,2024-06-17,Cash,Mid,1,brian.martinez@icloud.com,514-631-5116,033 Jessica Spur,Surrey,BC,G2J1L4,West,ACC00792,N/A,0.0,0,2024-03-16,Active
+CUST00793,Eric,Martin,F,2000-01-05,2019-07-19,Visa,High,1,eric.martin@bell.net,647-268-9591,061 Clark Divide,Surrey,BC,E7P 7N9,West,ACC00793,N/A,0.0,0,2023-05-07,Active
+CUST00794,Marcus,Fletcher,F,1978-01-29,2019-10-22,Cash,High,1,marcus.fletcher@gmail.com,204-283-3463,3236 Lopez Shores Apt. 774,Gatineau,QC,B7L8A3,East,ACC00794,N/A,0.0,0,2023-12-27,Active
+CUST00795,Michael,Everett,M,1987-08-21,2023-06-04,Cash,Mid,1,michael.everett@yahoo.com,604-304-2537,78436 Nicole Divide,Vancouver,BC,L1H8S9,West,ACC00795,N/A,0.0,0,2021-04-11,Inactive
+CUST00796,Patty,Singleton,M,2000-12-10,2021-08-02,Debit,Mid,1,patty.singleton@gmail.com,306-708-3563,754 Shannon Spurs,Burnaby,BC,V3R8L4,West,ACC00796,N/A,0.0,0,2019-11-12,Active
+CUST00797,John,Reid,M,1994-05-25,2023-08-02,Debit,Mid,1,john.reid@outlook.com,604-453-1231,03763 Daniel Stravenue Suite 841,London,ON,X1M2R2,East,ACC00797,N/A,0.0,0,2019-03-04,Active
+CUST00798,Andrea,Martinez,M,1999-05-11,2021-03-31,Visa,Low,1,andrea.martinez@gmail.com,204-698-6009,4389 Courtney Pines,Dartmouth,NS,G9A 7N6,East,ACC00798,N/A,0.0,0,2021-01-28,Active
+CUST00799,Kevin,Ferguson,F,1963-12-05,2020-11-28,Mastercard,Mid,0,kevin.ferguson@yahoo.com,403-674-9864,3214 King Unions,Markham,ON,J2R7P8,East,ACC00799,Standard,0.036,15000,2024-03-15,Suspended
+CUST00800,Wayne,Jackson,M,1988-09-13,2022-01-20,Debit,Mid,1,wayne.jackson@gmail.com,647-205-4546,50557 Amanda Park,Edmonton,AB,S2Y 2A3,West,ACC00800,N/A,0.0,0,2022-04-20,Active
+CUST00801,Shelly,Moore,M,2001-08-28,2019-08-23,Visa,Mid,0,shelly.moore@outlook.com,647-916-9557,0376 Curtis Plaza,Mississauga,ON,G4K6J2,East,ACC00801,N/A,0.0,0,2021-05-30,Inactive
+CUST00802,Donna,Le,F,1994-05-29,2019-05-23,Visa,Mid,1,donna.le@yahoo.com,403-926-8756,0961 Day Mission,Lethbridge,AB,C2N 2K5,West,ACC00802,N/A,0.0,0,2020-08-09,Active
+CUST00803,Cassie,Kirby,M,1963-07-08,2019-07-05,Mastercard,Mid,1,cassie.kirby@icloud.com,604-193-3400,74820 Montoya Forge,Toronto,ON,N9E4C5,East,ACC00803,Platinum,0.02,20000,2020-10-31,Active
+CUST00804,Anne,Bryan,F,1971-03-01,2022-09-15,Mastercard,Mid,1,anne.bryan@rogers.com,514-179-1855,5578 Anthony Court,Brampton,ON,L3J 4H1,East,ACC00804,Platinum,0.013,5000,2023-06-19,Active
+CUST00805,Anthony,Williams,F,1986-05-28,2020-09-05,Visa,Mid,0,anthony.williams@yahoo.com,306-434-5957,33247 Dorothy Fork,Markham,ON,B6E 5J7,East,ACC00805,N/A,0.0,0,2019-11-04,Active
+CUST00806,Darlene,Ray,F,1988-11-19,2019-07-02,Visa,Mid,0,darlene.ray@gmail.com,204-486-7316,127 Smith Landing,Vancouver,BC,Y2H 2S3,West,ACC00806,N/A,0.0,0,2021-10-05,Inactive
+CUST00807,Debra,Wang,NB,1963-08-08,2021-01-26,Cash,Low,1,debra.wang@yahoo.com,514-643-2281,26163 Joseph Pike,Laval,QC,T4H8Y7,East,ACC00807,N/A,0.0,0,2024-03-28,Suspended
+CUST00808,Robert,Fowler,M,1967-11-04,2023-10-30,Mastercard,Mid,1,robert.fowler@bell.net,403-828-3341,745 Obrien Street,Saskatoon,SK,J7R 9M8,Central,ACC00808,Platinum,0.029,5000,2019-01-05,Active
+CUST00809,Tyler,Burton,F,1992-05-05,2021-04-11,Mastercard,Mid,1,tyler.burton@outlook.com,403-801-2970,120 Jillian Place,Brandon,MB,Y3V 1R9,Central,ACC00809,Standard,0.019,10000,2022-10-22,Active
+CUST00810,Keith,Frye,F,1992-07-03,2023-09-24,Cash,Low,0,keith.frye@hotmail.com,647-125-6991,323 William Rest,Lethbridge,AB,K2Y 6Y9,West,ACC00810,N/A,0.0,0,2023-08-21,Active
+CUST00811,Timothy,Ballard,M,1970-01-18,2019-01-24,Mastercard,High,1,timothy.ballard@hotmail.com,604-731-4129,4582 Bradley Overpass,Brandon,MB,G9K 3C8,Central,ACC00811,Platinum,0.013,7500,2024-01-03,Active
+CUST00812,Gail,Evans,F,1970-03-08,2019-06-23,Mastercard,High,0,gail.evans@bell.net,416-300-8243,8157 Erin Vista,Surrey,BC,A1B1A1,West,ACC00812,Standard,0.04,5000,2019-03-22,Active
+CUST00813,Charles,Brown,F,1996-03-11,2022-06-30,Mastercard,Mid,1,charles.brown@gmail.com,403-436-2541,2911 Timothy Valley,Ottawa,ON,T1Y 1P3,East,ACC00813,Platinum,0.016,7500,2024-01-12,Active
+CUST00814,Scott,Washington,F,1974-09-02,2021-05-19,Visa,High,1,scott.washington@outlook.com,416-721-5473,6184 Green Corner Apt. 998,Regina,SK,M2V3X3,Central,ACC00814,N/A,0.0,0,2021-10-01,Active
+CUST00815,James,Lawson,M,1994-11-10,2024-03-12,Visa,High,1,james.lawson@hotmail.com,204-144-5145,905 Harrison Parkways Suite 700,Mississauga,ON,A7L 6K6,East,ACC00815,N/A,0.0,0,2022-04-30,Active
+CUST00816,Larry,Higgins,F,1968-02-26,2022-04-03,Visa,Low,1,larry.higgins@shaw.ca,416-983-8713,8482 Gray Crossing,Toronto,ON,S9G 4L6,East,ACC00816,N/A,0.0,0,2023-09-10,Active
+CUST00817,Jessica,Valencia,F,1983-01-26,2021-08-10,Visa,Mid,1,jessica.valencia@yahoo.com,647-584-9938,054 Kristen Lane Apt. 807,Saint John,NB,S7J 9K8,East,ACC00817,N/A,0.0,0,2023-08-31,Active
+CUST00818,Theresa,Anderson,F,1965-01-02,2022-11-01,Visa,Mid,1,theresa.anderson@yahoo.com,647-822-3898,98221 Joseph Causeway Apt. 648,Montreal,QC,Y5X 5A3,East,ACC00818,N/A,0.0,0,2019-10-11,Active
+CUST00819,Mitchell,Hoffman,F,1958-12-20,2021-08-18,Visa,Mid,1,mitchell.hoffman@gmail.com,905-157-8264,3836 Allison Circles Suite 432,Saskatoon,SK,G3R 9M5,Central,ACC00819,N/A,0.0,0,2022-05-26,Inactive
+CUST00820,Luis,Owens,F,1984-06-07,2020-08-15,Mastercard,Mid,1,luis.owens@yahoo.com,403-973-4181,2036 Micheal Stream Suite 314,Calgary,AB,C7T5B7,West,ACC00820,Standard,0.033,20000,2019-07-16,Active
+CUST00821,Joseph,Wright,F,1981-05-14,2019-05-06,Visa,Mid,1,joseph.wright@yahoo.com,514-826-3772,5402 Kramer Stravenue,Calgary,AB,N5Y4H1,West,ACC00821,N/A,0.0,0,2020-04-03,Active
+CUST00822,Colin,Roberts,M,1960-06-13,2020-08-10,Visa,Low,1,colin.roberts@outlook.com,204-526-2007,6464 Palmer Via,Regina,SK,K4E 9P9,Central,ACC00822,N/A,0.0,0,2019-03-07,Active
+CUST00823,Patrick,Gilbert,M,1983-03-17,2020-07-17,Cash,Low,1,patrick.gilbert@icloud.com,647-846-5368,5279 Emily Junctions,Markham,ON,M4B 4M4,East,ACC00823,N/A,0.0,0,2020-11-24,Active
+CUST00824,John,Grimes,F,1971-07-24,2022-09-11,Mastercard,Mid,1,john.grimes@gmail.com,604-805-9281,3849 Stephenson Crossing,Brampton,ON,K2G2E8,East,ACC00824,Platinum,0.034,10000,2021-11-08,Active
+CUST00825,Erik,Murphy,NB,1960-12-20,2020-12-03,Gift Card,Mid,0,erik.murphy@hotmail.com,416-418-5485,180 John Course Apt. 732,Victoria,BC,N7K1B2,West,ACC00825,N/A,0.0,0,2022-08-31,Active
+CUST00826,Becky,Edwards,F,1995-01-18,2023-04-27,Mastercard,High,1,becky.edwards@yahoo.com,905-679-8585,875 Davis Parkway,Calgary,AB,Y1X3A4,West,ACC00826,Gold,0.034,7500,2023-06-15,Suspended
+CUST00827,Kathryn,Jimenez,F,1988-12-16,2019-04-22,Visa,Low,1,kathryn.jimenez@gmail.com,905-290-6201,91561 Mary Pine,Toronto,ON,K8R 8N5,East,ACC00827,N/A,0.0,0,2020-09-25,Active
+CUST00828,Xavier,Jimenez,F,1985-01-14,2021-09-02,Debit,Mid,1,xavier.jimenez@icloud.com,416-322-7136,160 Peter Ridge Suite 201,Calgary,AB,C5E2X9,West,ACC00828,N/A,0.0,0,2020-03-07,Active
+CUST00829,Kyle,Johnson,F,2000-07-30,2020-06-21,Mastercard,Low,0,kyle.johnson@bell.net,403-957-4130,36875 Brenda Throughway Suite 322,Victoria,BC,X4G 8C5,West,ACC00829,Standard,0.015,5000,2019-05-01,Active
+CUST00830,Sierra,Wagner,NB,1986-04-28,2024-05-23,Visa,Low,1,sierra.wagner@yahoo.com,204-822-5703,6114 Heather Walks Suite 288,Quebec City,QC,B6P4A8,East,ACC00830,N/A,0.0,0,2019-08-30,Active
+CUST00831,Tammy,Lewis,F,1996-09-26,2022-06-04,Cash,Mid,1,tammy.lewis@outlook.com,204-331-4084,6081 Julie Meadow Apt. 030,Ottawa,ON,P2R 1R7,East,ACC00831,N/A,0.0,0,2021-07-08,Active
+CUST00832,Michael,Williams,F,1993-02-03,2021-08-02,Debit,High,1,michael.williams@gmail.com,403-365-8202,715 Cory Extensions,Ottawa,ON,L1N 7P9,East,ACC00832,N/A,0.0,0,2023-01-20,Active
+CUST00833,Troy,Khan,M,1988-04-09,2022-10-19,Debit,Mid,1,troy.khan@yahoo.com,514-457-9569,9177 Hines Row,Brampton,ON,J5X 1L2,East,ACC00833,N/A,0.0,0,2023-04-27,Active
+CUST00834,Destiny,Ruiz,M,1959-01-27,2021-04-22,Mastercard,Mid,1,destiny.ruiz@hotmail.com,647-137-7318,8087 Matthew Freeway,Victoria,BC,Y7X1G4,West,ACC00834,Standard,0.017,15000,2021-06-10,Active
+CUST00835,Amanda,Boone,M,1975-04-28,2019-03-11,Mastercard,High,1,amanda.boone@gmail.com,204-455-5729,591 Curtis Land,Hamilton,ON,A6B2X5,East,ACC00835,World Elite,0.03,25000,2022-02-04,Active
+CUST00836,Ryan,Khan,M,1968-12-04,2022-12-21,Gift Card,Mid,1,ryan.khan@bell.net,403-192-9409,207 Aguilar Expressway Suite 999,London,ON,R8M2Y9,East,ACC00836,N/A,0.0,0,2020-09-11,Inactive
+CUST00837,Jessica,Gallagher,M,1974-07-30,2024-01-10,Mastercard,Mid,1,jessica.gallagher@gmail.com,403-132-2889,85969 Dylan Port Apt. 408,Laval,QC,J2H3J4,East,ACC00837,Standard,0.024,5000,2021-01-15,Active
+CUST00838,Michael,Morales,F,1998-09-06,2024-03-04,Gift Card,Mid,1,michael.morales@gmail.com,647-578-6291,66980 Dean Brooks Suite 261,Victoria,BC,S3A4T5,West,ACC00838,N/A,0.0,0,2020-01-28,Active
+CUST00839,Ashley,Lee,M,1981-02-01,2019-11-28,Debit,Low,1,ashley.lee@hotmail.com,416-430-2713,935 Santos Pike,Brampton,ON,Y1A 6M7,East,ACC00839,N/A,0.0,0,2019-04-11,Active
+CUST00840,Angela,Jones,M,1981-03-02,2024-05-11,Debit,Low,0,angela.jones@gmail.com,306-442-6516,99650 Richard Track,Calgary,AB,Y5G2S9,West,ACC00840,N/A,0.0,0,2023-10-14,Inactive
+CUST00841,William,Duran,M,1993-03-23,2020-01-01,Visa,Mid,1,william.duran@gmail.com,514-413-3666,656 Sandra Forge Apt. 876,Calgary,AB,G6J 6X2,West,ACC00841,N/A,0.0,0,2021-03-08,Active
+CUST00842,Joshua,Hays,M,1967-07-14,2024-02-13,Mastercard,Low,1,joshua.hays@icloud.com,306-928-8478,46823 Atkinson Groves Apt. 027,Surrey,BC,A7A 7X7,West,ACC00842,Gold,0.03,15000,2023-05-25,Active
+CUST00843,Erin,Wilson,M,1998-01-01,2019-02-08,Cash,Mid,0,erin.wilson@hotmail.com,306-954-4990,16831 Elizabeth Via,Lethbridge,AB,A7B9C1,West,ACC00843,N/A,0.0,0,2020-10-24,Active
+CUST00844,Theresa,Long,F,1981-11-26,2019-11-07,Debit,Mid,1,theresa.long@outlook.com,306-794-7572,49150 Russell Fall Apt. 976,Mississauga,ON,B5P 5K1,East,ACC00844,N/A,0.0,0,2023-07-29,Active
+CUST00845,Laura,Morgan,F,2002-01-08,2021-09-06,Mastercard,High,1,laura.morgan@icloud.com,905-531-7977,7946 Brian Mission Apt. 662,Ottawa,ON,P2A 8Y8,East,ACC00845,World Elite,0.023,10000,2024-02-18,Active
+CUST00846,Sheila,Fischer,F,1958-04-19,2021-02-26,Gift Card,Mid,1,sheila.fischer@outlook.com,647-624-3726,29914 Ray Pine Suite 133,Gatineau,QC,T3K 6C6,East,ACC00846,N/A,0.0,0,2023-11-13,Active
+CUST00847,James,Hicks,M,1990-03-15,2020-11-13,Debit,Mid,0,james.hicks@bell.net,647-233-6458,56178 Steven Ford,Halifax,NS,E1C 7H2,East,ACC00847,N/A,0.0,0,2019-01-16,Inactive
+CUST00848,Vincent,Williams,F,1988-07-05,2019-06-14,Debit,Mid,1,vincent.williams@shaw.ca,403-911-3317,3852 Simpson Ports,Montreal,QC,R4E8J2,East,ACC00848,N/A,0.0,0,2019-12-03,Suspended
+CUST00849,Derrick,Cook,F,1992-06-19,2022-09-15,Mastercard,High,1,derrick.cook@yahoo.com,306-100-3416,4902 Williams Way Suite 480,Gatineau,QC,S1L 4M8,East,ACC00849,Gold,0.025,10000,2019-10-31,Active
+CUST00850,Thomas,Bryant,F,1965-08-12,2023-12-18,Visa,Low,1,thomas.bryant@yahoo.com,905-289-4869,416 Ferguson Divide,Ottawa,ON,V3X2H1,East,ACC00850,N/A,0.0,0,2019-10-15,Active
+CUST00851,Catherine,Robertson,F,1979-05-25,2021-09-28,Mastercard,Mid,1,catherine.robertson@gmail.com,604-257-7131,179 Curtis Fields,Brandon,MB,X9S6H8,Central,ACC00851,Gold,0.039,7500,2023-01-16,Active
+CUST00852,Mark,Austin,M,1998-04-23,2024-06-02,Gift Card,Low,1,mark.austin@yahoo.com,306-663-7456,63831 Amy Island Suite 053,Ottawa,ON,A7V7Y2,East,ACC00852,N/A,0.0,0,2019-03-20,Active
+CUST00853,Francisco,Ewing,F,1968-08-08,2020-03-09,Debit,Mid,1,francisco.ewing@hotmail.com,306-823-4977,0673 Holmes Valley Apt. 050,Gatineau,QC,Y3G3C4,East,ACC00853,N/A,0.0,0,2022-07-17,Active
+CUST00854,Jodi,Evans,F,1971-05-13,2023-02-26,Visa,Low,1,jodi.evans@yahoo.com,514-881-3187,2165 Kimberly Plains Suite 146,Montreal,QC,C2X 3H6,East,ACC00854,N/A,0.0,0,2020-12-03,Inactive
+CUST00855,Matthew,Clayton,M,2000-04-10,2024-02-01,Cash,High,1,matthew.clayton@rogers.com,204-711-7452,9089 Young Road Suite 802,Burnaby,BC,B4N 9B7,West,ACC00855,N/A,0.0,0,2021-02-02,Active
+CUST00856,Amanda,Erickson,F,1962-06-26,2024-01-27,Mastercard,Mid,1,amanda.erickson@outlook.com,416-327-3918,424 Mathis Ridge Apt. 145,Burnaby,BC,Y1X8T2,West,ACC00856,Standard,0.033,20000,2020-02-18,Active
+CUST00857,Kevin,Cabrera,F,1967-07-17,2019-08-22,Visa,Low,1,kevin.cabrera@yahoo.com,416-725-7523,38676 Gonzalez Trafficway Apt. 097,Laval,QC,R8C8C9,East,ACC00857,N/A,0.0,0,2020-11-11,Active
+CUST00858,Micheal,Nunez,F,1994-01-25,2020-10-26,Mastercard,Mid,1,micheal.nunez@gmail.com,604-145-4460,8299 Wagner Stravenue Apt. 258,Saskatoon,SK,V6B 9Y1,Central,ACC00858,Platinum,0.032,10000,2021-12-23,Active
+CUST00859,Tina,Silva,M,1977-02-17,2023-04-15,Mastercard,Low,1,tina.silva@yahoo.com,647-535-3469,235 Heather Burgs Suite 669,Toronto,ON,T2B3A5,East,ACC00859,Gold,0.028,20000,2020-02-07,Active
+CUST00860,Laura,Swanson,M,1973-01-28,2022-11-27,Mastercard,Low,1,laura.swanson@hotmail.com,306-135-5276,554 White Pine,Brampton,ON,T3R6J5,East,ACC00860,World Elite,0.034,15000,2023-01-12,Active
+CUST00861,Hailey,Johnson,F,1991-09-30,2023-05-12,Mastercard,Low,1,hailey.johnson@gmail.com,204-798-9476,328 Clarke Village,Dartmouth,NS,J6Y 7E3,East,ACC00861,Standard,0.04,15000,2019-04-02,Active
+CUST00862,Thomas,Coffey,F,1983-06-16,2021-05-02,Debit,Mid,1,thomas.coffey@icloud.com,514-802-2661,52857 Robin Junctions Suite 292,Brandon,MB,K9K6N2,Central,ACC00862,N/A,0.0,0,2019-02-06,Active
+CUST00863,Krista,Parsons,M,1982-04-23,2021-12-07,Visa,Low,1,krista.parsons@icloud.com,416-264-6226,186 Diaz Rue,Lethbridge,AB,X9L6R1,West,ACC00863,N/A,0.0,0,2022-07-08,Suspended
+CUST00864,Becky,Griffith,F,2002-11-06,2022-06-07,Gift Card,High,1,becky.griffith@yahoo.com,306-111-8964,4430 Kristopher Road Apt. 891,Hamilton,ON,V1V 4H9,East,ACC00864,N/A,0.0,0,2019-05-09,Active
+CUST00865,Brandy,Jackson,F,1979-02-21,2020-01-29,Mastercard,Low,1,brandy.jackson@yahoo.com,416-410-7962,340 Mary Fords Suite 415,Lethbridge,AB,T6E4N2,West,ACC00865,Platinum,0.038,20000,2022-03-17,Active
+CUST00866,Cristina,Harvey,F,1977-09-03,2021-08-08,Debit,Mid,1,cristina.harvey@gmail.com,306-614-7108,259 Lisa Mountains,London,ON,K6S 1T1,East,ACC00866,N/A,0.0,0,2020-10-07,Inactive
+CUST00867,Maureen,Hernandez,F,2000-07-24,2021-10-15,Mastercard,Low,1,maureen.hernandez@icloud.com,514-214-3930,14105 Stephen Ridges Apt. 987,Laval,QC,G5V 6A3,East,ACC00867,Standard,0.018,25000,2023-10-12,Active
+CUST00868,Erin,Johnson,F,1996-12-30,2020-05-29,Mastercard,High,1,erin.johnson@icloud.com,905-253-1113,885 Martin Dam,Saint John,NB,Y1S6S9,East,ACC00868,Standard,0.037,10000,2021-03-19,Active
+CUST00869,Stacy,Rodriguez,F,1973-10-12,2019-11-20,Debit,Low,0,stacy.rodriguez@outlook.com,604-627-8454,8744 Devon Squares Suite 854,London,ON,S5P3N9,East,ACC00869,N/A,0.0,0,2021-12-22,Active
+CUST00870,Andrew,Edwards,F,1987-03-31,2021-05-08,Mastercard,Mid,1,andrew.edwards@gmail.com,905-988-9021,9116 Johnson Vista,Richmond,BC,B5B 6G4,West,ACC00870,Standard,0.035,7500,2021-03-24,Active
+CUST00871,Edward,Vaughn,F,1966-10-19,2020-04-30,Debit,Mid,1,edward.vaughn@rogers.com,514-358-7974,32155 Jared Islands,Vancouver,BC,V4B7X9,West,ACC00871,N/A,0.0,0,2019-04-08,Suspended
+CUST00872,Robert,Hampton,M,2001-06-17,2019-04-22,Cash,High,1,robert.hampton@icloud.com,416-655-5378,144 Rosales Pine,Mississauga,ON,R8V4G7,East,ACC00872,N/A,0.0,0,2023-07-02,Inactive
+CUST00873,Samantha,Salas,F,1970-03-28,2021-07-26,Debit,High,1,samantha.salas@yahoo.com,306-432-5877,746 Julie Curve Suite 825,Mississauga,ON,J4C3X9,East,ACC00873,N/A,0.0,0,2022-01-01,Inactive
+CUST00874,Jill,Brown,F,1963-05-09,2020-07-28,Mastercard,Mid,1,jill.brown@yahoo.com,416-644-7491,231 James Divide,Calgary,AB,M7C 1B2,West,ACC00874,Gold,0.023,20000,2023-11-14,Suspended
+CUST00875,Devin,Clark,F,1984-06-24,2022-05-21,Mastercard,High,0,devin.clark@outlook.com,647-844-3369,4723 Cooper Place,Toronto,ON,V2R 8X3,East,ACC00875,Platinum,0.029,10000,2023-04-24,Active
+CUST00876,Mark,Bates,F,1978-08-10,2019-06-27,Mastercard,High,1,mark.bates@rogers.com,514-569-4999,7754 Hart Grove,Lethbridge,AB,G1R6G3,West,ACC00876,Standard,0.04,7500,2021-12-29,Active
+CUST00877,Alicia,Edwards,M,1999-07-08,2020-07-25,Mastercard,High,1,alicia.edwards@gmail.com,514-481-1627,768 Jessica Lock,Regina,SK,Y2H 8T3,Central,ACC00877,Standard,0.013,7500,2024-03-10,Suspended
+CUST00878,Glen,Barr,NB,1977-12-14,2024-01-01,Cash,High,0,glen.barr@hotmail.com,905-491-9398,3373 Sue Burgs,London,ON,H4H7G3,East,ACC00878,N/A,0.0,0,2022-02-22,Active
+CUST00879,Matthew,Gomez,F,1961-12-20,2019-03-24,Gift Card,Mid,1,matthew.gomez@yahoo.com,403-532-7565,659 Danielle Freeway,Moncton,NB,K6H 4N9,East,ACC00879,N/A,0.0,0,2019-12-29,Active
+CUST00880,Kelsey,Le,M,1966-10-17,2021-07-15,Visa,High,1,kelsey.le@gmail.com,905-956-8101,8446 Tracy Rue,London,ON,V7K5H4,East,ACC00880,N/A,0.0,0,2020-02-15,Active
+CUST00881,Dawn,Steele,M,1977-07-23,2019-09-29,Mastercard,High,1,dawn.steele@outlook.com,403-730-9422,544 Carr Stream,Moncton,NB,H1T 3T3,East,ACC00881,Gold,0.02,7500,2021-09-09,Active
+CUST00882,Chelsea,Lee,F,1972-07-07,2022-12-11,Visa,Mid,0,chelsea.lee@hotmail.com,416-483-8748,20539 Wolf Parks Apt. 375,Surrey,BC,Y3X 3K1,West,ACC00882,N/A,0.0,0,2019-09-23,Inactive
+CUST00883,John,Grant,M,1970-06-09,2023-11-26,Debit,High,1,john.grant@gmail.com,647-383-9217,56083 Benjamin Cape,Brampton,ON,Y9V9T9,East,ACC00883,N/A,0.0,0,2023-02-06,Active
+CUST00884,Jeffrey,Dudley,M,1958-02-14,2023-10-29,Visa,Mid,1,jeffrey.dudley@rogers.com,403-379-1082,3585 Joel Place Suite 003,Gatineau,QC,L7M 2K6,East,ACC00884,N/A,0.0,0,2022-09-08,Active
+CUST00885,Kenneth,Roberts,F,1982-03-16,2022-11-30,Cash,High,1,kenneth.roberts@icloud.com,647-381-5375,1523 Andrew Drive,Vancouver,BC,P5A 4C8,West,ACC00885,N/A,0.0,0,2020-06-10,Active
+CUST00886,Jared,Bush,F,1988-02-13,2023-02-15,Cash,High,1,jared.bush@yahoo.com,604-330-1296,830 Rhonda Ports Suite 713,Victoria,BC,C7E1G3,West,ACC00886,N/A,0.0,0,2024-01-30,Active
+CUST00887,Logan,Bailey,M,1992-05-10,2021-01-18,Visa,Mid,1,logan.bailey@gmail.com,403-845-8547,32176 Goodwin Dam,Quebec City,QC,E2C 7E7,East,ACC00887,N/A,0.0,0,2023-02-02,Active
+CUST00888,Sarah,Pope,M,1976-05-14,2019-10-11,Gift Card,Low,1,sarah.pope@outlook.com,306-671-1205,20190 Taylor Junctions,Red Deer,AB,K1J5J4,West,ACC00888,N/A,0.0,0,2019-07-19,Active
+CUST00889,Joshua,Martinez,M,1976-10-27,2023-03-23,Debit,Mid,1,joshua.martinez@yahoo.com,306-255-8568,5380 Stanley Wells Suite 812,Mississauga,ON,H5E1C9,East,ACC00889,N/A,0.0,0,2020-08-14,Active
+CUST00890,Erica,James,M,1982-11-12,2019-04-22,Mastercard,Mid,1,erica.james@gmail.com,647-789-7390,825 Barbara Islands Apt. 294,Brandon,MB,G6A6J7,Central,ACC00890,Gold,0.026,5000,2019-06-06,Suspended
+CUST00891,Tina,Cardenas,F,1984-03-21,2021-07-14,Visa,High,1,tina.cardenas@hotmail.com,905-746-8971,039 Anderson Square,Toronto,ON,A8E2K3,East,ACC00891,N/A,0.0,0,2023-11-24,Active
+CUST00892,Stephanie,Ballard,M,1963-11-21,2020-01-21,Cash,Low,0,stephanie.ballard@gmail.com,514-411-5781,65858 Hughes Track Apt. 304,Red Deer,AB,G8A 1G7,West,ACC00892,N/A,0.0,0,2019-01-07,Suspended
+CUST00893,Kelly,Roberts,M,1964-11-26,2019-08-12,Mastercard,Low,1,kelly.roberts@hotmail.com,416-259-3731,9273 Ramirez Expressway,Gatineau,QC,T7C 1S7,East,ACC00893,Standard,0.033,10000,2020-01-02,Active
+CUST00894,Jennifer,Reed,F,1960-01-14,2020-08-23,Mastercard,High,1,jennifer.reed@yahoo.com,416-869-5651,24815 Green Way,Lethbridge,AB,A1K 4M1,West,ACC00894,Gold,0.014,20000,2021-08-10,Active
+CUST00895,Scott,Scott,M,1959-12-05,2020-08-20,Mastercard,High,0,scott.scott@shaw.ca,204-650-3157,95679 Richardson Turnpike,Lethbridge,AB,C6P6T5,West,ACC00895,Gold,0.028,5000,2020-12-30,Active
+CUST00896,Timothy,Harris,F,1988-02-19,2021-04-23,Visa,High,1,timothy.harris@gmail.com,204-323-4462,34712 Murray Alley Apt. 080,Markham,ON,X4E 1B7,East,ACC00896,N/A,0.0,0,2020-12-24,Active
+CUST00897,Amanda,Fitzpatrick,M,1997-12-12,2021-07-26,Mastercard,High,1,amanda.fitzpatrick@gmail.com,647-885-7571,76417 Rodney Canyon,Saint John,NB,X8E 2P3,East,ACC00897,Platinum,0.026,10000,2023-01-25,Active
+CUST00898,Heather,Taylor,F,2001-06-11,2021-01-31,Gift Card,Low,1,heather.taylor@icloud.com,204-713-5569,150 Miller Pass,Red Deer,AB,S4T 1E8,West,ACC00898,N/A,0.0,0,2024-02-15,Active
+CUST00899,Christina,Matthews,F,1972-12-04,2022-06-20,Cash,Mid,0,christina.matthews@hotmail.com,514-614-9775,1045 Vasquez Flats,Mississauga,ON,H1E1J7,East,ACC00899,N/A,0.0,0,2023-06-13,Active
+CUST00900,John,Santiago,M,1971-10-09,2019-11-27,Mastercard,Mid,1,john.santiago@rogers.com,306-874-8600,8857 Warner Ranch,Surrey,BC,V2A9J1,West,ACC00900,World Elite,0.015,10000,2019-11-25,Active
+CUST00901,Amanda,Little,M,1974-07-21,2020-02-25,Visa,Mid,1,amanda.little@gmail.com,647-509-5725,39627 Massey Lock Suite 215,Brampton,ON,X8K 1G1,East,ACC00901,N/A,0.0,0,2022-11-13,Active
+CUST00902,Brian,Gutierrez,F,1972-08-02,2021-12-28,Mastercard,Mid,1,brian.gutierrez@yahoo.com,306-771-3822,6661 Hanna Road,Markham,ON,C8E 8B8,East,ACC00902,Gold,0.038,25000,2020-12-20,Active
+CUST00903,Jennifer,Garcia,M,1999-02-04,2024-03-15,Mastercard,High,0,jennifer.garcia@yahoo.com,204-528-7722,0049 Amy Plaza,Montreal,QC,L4A 2N6,East,ACC00903,Platinum,0.034,15000,2019-08-01,Inactive
+CUST00904,Kelli,Smith,NB,1984-07-07,2021-08-28,Cash,High,0,kelli.smith@outlook.com,647-724-9247,49980 Lucas Rapid,Toronto,ON,R4X2V4,East,ACC00904,N/A,0.0,0,2023-05-08,Inactive
+CUST00905,Andrea,Hickman,F,1997-08-30,2020-11-24,Debit,High,1,andrea.hickman@outlook.com,204-123-6325,716 Morrison Summit Suite 166,Saint John,NB,G5J 1V8,East,ACC00905,N/A,0.0,0,2020-03-10,Active
+CUST00906,Richard,Donovan,F,1985-08-22,2019-02-20,Mastercard,Mid,1,richard.donovan@outlook.com,306-800-2490,433 Kathleen Mews Apt. 389,Edmonton,AB,E2T5A3,West,ACC00906,Gold,0.025,20000,2023-03-12,Active
+CUST00907,Natalie,Woods,F,1975-07-05,2022-04-09,Visa,High,1,natalie.woods@hotmail.com,204-665-9377,203 Williams Mount Apt. 116,Halifax,NS,H2A 9L2,East,ACC00907,N/A,0.0,0,2023-03-06,Active
+CUST00908,James,Maynard,M,1997-12-18,2022-10-18,Debit,Mid,1,james.maynard@yahoo.com,604-279-8736,9989 Lester Creek,Winnipeg,MB,T9A 5Y9,Central,ACC00908,N/A,0.0,0,2022-09-07,Inactive
+CUST00909,Manuel,Brewer,M,1963-01-11,2024-02-04,Debit,High,1,manuel.brewer@yahoo.com,403-166-1506,86448 Eugene Crest,Halifax,NS,P4X8X9,East,ACC00909,N/A,0.0,0,2023-05-19,Active
+CUST00910,Rebecca,Davis,M,1959-02-04,2020-08-05,Mastercard,Mid,1,rebecca.davis@yahoo.com,306-347-3897,0820 Jordan Cape Suite 757,Brampton,ON,H2J 5R7,East,ACC00910,Platinum,0.022,25000,2021-01-25,Active
+CUST00911,Audrey,Nichols,F,1997-11-08,2023-02-27,Gift Card,Mid,1,audrey.nichols@hotmail.com,514-993-3609,128 Craig Ramp,Saint John,NB,H9S3Y8,East,ACC00911,N/A,0.0,0,2019-03-27,Active
+CUST00912,Jennifer,Zuniga,M,1996-01-10,2023-02-01,Cash,Mid,1,jennifer.zuniga@bell.net,416-866-1529,704 Brianna Forks Apt. 419,London,ON,E1P8S9,East,ACC00912,N/A,0.0,0,2020-01-21,Active
+CUST00913,Robin,Thompson,M,2000-07-31,2023-11-12,Visa,High,1,robin.thompson@rogers.com,306-982-7313,74883 Sharp Knoll,Gatineau,QC,T5R 1H7,East,ACC00913,N/A,0.0,0,2020-12-28,Active
+CUST00914,Nicole,Thompson,M,1958-08-05,2021-04-18,Visa,Low,1,nicole.thompson@bell.net,905-832-9751,668 Jennifer Ridge Suite 047,Brampton,ON,G1C3T9,East,ACC00914,N/A,0.0,0,2022-09-23,Inactive
+CUST00915,Samantha,Osborn,M,1970-04-14,2020-02-13,Mastercard,Mid,1,samantha.osborn@outlook.com,416-399-7527,62259 Margaret Lodge Suite 882,Gatineau,QC,X9K 7L9,East,ACC00915,Gold,0.022,5000,2020-10-07,Inactive
+CUST00916,Randy,Simpson,M,1985-04-07,2021-10-08,Visa,Low,1,randy.simpson@yahoo.com,306-538-3032,062 Foster Drive,Winnipeg,MB,C2S2A5,Central,ACC00916,N/A,0.0,0,2019-06-24,Active
+CUST00917,Sharon,Hayden,F,2000-05-24,2019-09-12,Debit,Mid,1,sharon.hayden@gmail.com,905-839-3768,19359 Yolanda Well,Markham,ON,S4E 8K7,East,ACC00917,N/A,0.0,0,2019-07-16,Active
+CUST00918,Sara,Mcdowell,M,1979-12-16,2019-02-28,Mastercard,High,1,sara.mcdowell@yahoo.com,604-914-8906,2304 Hawkins Court,London,ON,N6A5H5,East,ACC00918,Gold,0.013,7500,2021-08-27,Active
+CUST00919,Albert,Bradley,M,2001-02-08,2022-03-04,Mastercard,Mid,0,albert.bradley@yahoo.com,905-569-9053,41916 Santos Well Apt. 440,Toronto,ON,R8C2V9,East,ACC00919,World Elite,0.032,10000,2019-09-03,Active
+CUST00920,Daniel,Bird,M,1991-06-26,2021-11-15,Debit,Mid,1,daniel.bird@yahoo.com,306-438-8378,498 Amy Stream,Laval,QC,R3T 2Y5,East,ACC00920,N/A,0.0,0,2019-03-08,Active
+CUST00921,Justin,Hays,M,1999-05-13,2023-12-04,Debit,Low,1,justin.hays@outlook.com,647-251-9548,4681 Mary Road,Laval,QC,R9R 7L9,East,ACC00921,N/A,0.0,0,2022-07-30,Active
+CUST00922,Amy,Snyder,F,1989-12-08,2019-04-10,Mastercard,High,1,amy.snyder@rogers.com,514-830-5771,969 Collins Parkways,Ottawa,ON,M6C5N6,East,ACC00922,Standard,0.035,10000,2019-03-21,Inactive
+CUST00923,Sheena,Rosales,F,1974-06-10,2023-04-16,Mastercard,Mid,0,sheena.rosales@gmail.com,403-586-8206,19292 Megan Tunnel,London,ON,P1K6R2,East,ACC00923,Standard,0.019,7500,2022-11-26,Active
+CUST00924,Taylor,Lee,F,1985-01-04,2020-07-09,Debit,Low,1,taylor.lee@hotmail.com,647-250-5789,1603 Clark Island,Quebec City,QC,S9G 5E6,East,ACC00924,N/A,0.0,0,2021-02-16,Suspended
+CUST00925,Daniel,Martin,M,1959-02-27,2019-10-08,Visa,Mid,1,daniel.martin@hotmail.com,416-971-4467,067 Brandon Ranch Suite 248,Brandon,MB,H7B7M5,Central,ACC00925,N/A,0.0,0,2020-07-28,Active
+CUST00926,Stephen,Scott,M,1967-03-11,2020-03-22,Mastercard,Low,0,stephen.scott@outlook.com,403-472-9332,7605 Baker Bridge Suite 565,Edmonton,AB,T1N8Y5,West,ACC00926,Gold,0.012,20000,2021-01-15,Active
+CUST00927,Jacob,Doyle,M,1968-03-23,2021-05-04,Visa,High,0,jacob.doyle@yahoo.com,647-452-3553,38906 John Tunnel Suite 466,Gatineau,QC,H5S 1N2,East,ACC00927,N/A,0.0,0,2020-09-23,Active
+CUST00928,Krystal,Bradley,F,1985-12-14,2022-11-16,Mastercard,High,1,krystal.bradley@outlook.com,204-986-8950,599 Perez Center Apt. 622,Red Deer,AB,H3G 8M7,West,ACC00928,Gold,0.011,10000,2020-11-02,Active
+CUST00929,Katherine,Thompson,M,1988-09-08,2019-12-19,Debit,High,1,katherine.thompson@gmail.com,204-114-2060,746 Kathryn Ridge Apt. 601,Lethbridge,AB,H2L 6E9,West,ACC00929,N/A,0.0,0,2019-07-10,Inactive
+CUST00930,Melissa,Prince,M,1970-10-09,2022-11-10,Mastercard,Low,1,melissa.prince@gmail.com,647-384-2959,860 Kathleen Plain Apt. 179,Mississauga,ON,V3V4Y2,East,ACC00930,World Elite,0.028,5000,2021-01-12,Active
+CUST00931,Margaret,Robertson,F,1968-01-09,2019-06-09,Mastercard,Mid,1,margaret.robertson@outlook.com,416-960-9587,957 Sarah Groves,Red Deer,AB,G3S7L2,West,ACC00931,World Elite,0.033,10000,2023-12-25,Active
+CUST00932,Christopher,Caldwell,M,1963-04-27,2021-08-18,Mastercard,Low,1,christopher.caldwell@yahoo.com,416-508-2619,120 Allison Forks,Saskatoon,SK,N6K7S9,Central,ACC00932,Gold,0.027,5000,2020-04-19,Active
+CUST00933,Jack,Taylor,F,1969-02-08,2024-02-28,Visa,Low,1,jack.taylor@gmail.com,905-917-1917,8525 Gould Extensions,Halifax,NS,G4E9Y6,East,ACC00933,N/A,0.0,0,2020-09-29,Inactive
+CUST00934,Marcus,Wright,M,1971-01-22,2023-09-29,Debit,Mid,1,marcus.wright@gmail.com,403-916-3993,4006 Torres Land Suite 752,Kelowna,BC,C4E 3G8,West,ACC00934,N/A,0.0,0,2022-01-31,Active
+CUST00935,Jose,Young,M,1979-09-12,2021-10-31,Visa,Mid,1,jose.young@gmail.com,306-281-1659,979 Shannon Trail Suite 334,Quebec City,QC,V4H 9A9,East,ACC00935,N/A,0.0,0,2024-02-13,Inactive
+CUST00936,Karen,Finley,F,1975-03-09,2024-05-28,Mastercard,Mid,0,karen.finley@outlook.com,905-860-4113,217 Klein Shoal Apt. 196,Fredericton,NB,B4L 1N7,East,ACC00936,Platinum,0.026,20000,2023-11-18,Active
+CUST00937,Kevin,Sharp,F,1977-03-14,2024-02-29,Visa,Mid,1,kevin.sharp@rogers.com,647-635-5960,8824 Mark Forks,Montreal,QC,A9B2E7,East,ACC00937,N/A,0.0,0,2020-08-31,Inactive
+CUST00938,Alexander,Valdez,NB,1967-08-18,2020-01-06,Debit,Mid,1,alexander.valdez@gmail.com,306-575-2610,8481 Reed Extensions Suite 445,Ottawa,ON,L9S4B9,East,ACC00938,N/A,0.0,0,2022-09-09,Active
+CUST00939,Heather,Brown,F,1986-03-13,2019-09-11,Visa,Mid,1,heather.brown@yahoo.com,905-301-8836,179 Shannon Tunnel Apt. 053,Vancouver,BC,G9Y 9T5,West,ACC00939,N/A,0.0,0,2024-01-08,Active
+CUST00940,David,Parker,M,1961-08-23,2019-06-18,Mastercard,Mid,1,david.parker@yahoo.com,905-655-4522,996 Nicole Track Apt. 457,Toronto,ON,V8E 3L5,East,ACC00940,World Elite,0.019,15000,2019-07-10,Active
+CUST00941,Richard,Shaw,M,1997-10-30,2020-04-07,Visa,High,1,richard.shaw@outlook.com,204-981-2827,01986 Thompson Curve Apt. 839,Red Deer,AB,H4X2K3,West,ACC00941,N/A,0.0,0,2020-07-05,Active
+CUST00942,Paula,Padilla,M,2000-09-03,2024-04-07,Debit,High,1,paula.padilla@icloud.com,604-703-8475,870 Mora Estate,Gatineau,QC,H1X 9X4,East,ACC00942,N/A,0.0,0,2019-10-08,Active
+CUST00943,Larry,Wilson,M,1997-04-20,2021-12-06,Debit,Low,1,larry.wilson@icloud.com,403-604-3892,10102 Gregory Alley,Fredericton,NB,C8X 7R7,East,ACC00943,N/A,0.0,0,2022-04-19,Active
+CUST00944,Sabrina,Phillips,NB,1967-02-16,2023-02-27,Cash,Low,0,sabrina.phillips@outlook.com,403-370-9719,08987 Martinez Plaza,Brampton,ON,M7J 2P5,East,ACC00944,N/A,0.0,0,2023-12-31,Active
+CUST00945,Christina,Robinson,M,1994-04-09,2019-09-09,Mastercard,Mid,1,christina.robinson@hotmail.com,403-740-8209,384 Santos Row,Mississauga,ON,X5B 7V9,East,ACC00945,Gold,0.021,20000,2019-08-07,Active
+CUST00946,Dennis,Hernandez,F,1982-06-28,2023-03-29,Debit,Mid,1,dennis.hernandez@bell.net,306-106-6229,54695 Austin Flat,Markham,ON,T1R 6H5,East,ACC00946,N/A,0.0,0,2022-04-25,Inactive
+CUST00947,Julie,Obrien,M,1994-04-14,2021-09-19,Visa,Mid,1,julie.obrien@outlook.com,647-167-8078,967 Mark Spurs Apt. 666,Regina,SK,L1C7C6,Central,ACC00947,N/A,0.0,0,2024-01-08,Active
+CUST00948,Robert,Dunn,M,1978-09-16,2022-07-10,Cash,High,0,robert.dunn@bell.net,306-450-9824,13407 Garcia Ridges Suite 970,Montreal,QC,P7Y 7J9,East,ACC00948,N/A,0.0,0,2019-06-17,Active
+CUST00949,Thomas,Medina,F,1960-05-26,2024-06-13,Mastercard,Mid,1,thomas.medina@icloud.com,604-318-6033,8268 Moore Rest,Winnipeg,MB,A9X7K9,Central,ACC00949,Standard,0.038,25000,2023-11-10,Active
+CUST00950,Elizabeth,Robinson,F,1964-11-12,2022-09-15,Debit,High,1,elizabeth.robinson@icloud.com,306-205-5916,8791 Johnson Unions,Burnaby,BC,H2P8T7,West,ACC00950,N/A,0.0,0,2023-07-22,Active
+CUST00951,John,Fischer,M,2001-12-25,2021-10-30,Mastercard,High,1,john.fischer@outlook.com,647-431-3562,932 Sherry Curve,Halifax,NS,P9T3X7,East,ACC00951,Standard,0.031,7500,2023-02-20,Suspended
+CUST00952,Morgan,Miller,M,1960-11-01,2021-05-31,Cash,Mid,0,morgan.miller@icloud.com,647-724-3574,1809 Michael Cliffs,Brampton,ON,P6N2X8,East,ACC00952,N/A,0.0,0,2023-11-05,Active
+CUST00953,Sean,Padilla,F,1961-03-25,2019-03-09,Mastercard,High,0,sean.padilla@shaw.ca,204-898-5413,4127 Cruz Ferry Apt. 188,Hamilton,ON,L3C 7R5,East,ACC00953,Standard,0.022,25000,2021-12-07,Inactive
+CUST00954,Christian,Elliott,M,1996-08-21,2019-10-03,Mastercard,High,1,christian.elliott@yahoo.com,403-479-3375,29758 Shannon Valleys,Mississauga,ON,P2L9G6,East,ACC00954,Gold,0.032,7500,2021-10-05,Active
+CUST00955,Bryan,Kelley,M,2000-02-25,2021-09-01,Visa,Low,1,bryan.kelley@yahoo.com,514-560-6046,7056 Aaron Ports Apt. 257,London,ON,A7B 4C6,East,ACC00955,N/A,0.0,0,2019-05-02,Active
+CUST00956,William,Armstrong,F,1991-11-23,2022-06-17,Debit,Mid,1,william.armstrong@icloud.com,416-880-7620,0723 Joshua Way Suite 282,Richmond,BC,L2A8B9,West,ACC00956,N/A,0.0,0,2022-06-09,Active
+CUST00957,Edward,Murphy,F,1969-07-02,2023-09-11,Mastercard,Mid,1,edward.murphy@yahoo.com,647-567-5492,47312 Jones Plains,Brampton,ON,A1V6C9,East,ACC00957,Standard,0.026,10000,2019-10-06,Active
+CUST00958,Abigail,Wilson,NB,1992-02-22,2019-07-19,Mastercard,Mid,1,abigail.wilson@gmail.com,403-401-7119,19509 Megan Valley,London,ON,C7N 2H1,East,ACC00958,Gold,0.037,10000,2020-07-05,Active
+CUST00959,Jamie,Aguilar,M,1979-01-19,2022-08-20,Mastercard,Mid,0,jamie.aguilar@icloud.com,514-671-4267,70923 Antonio Cliffs Suite 950,Brampton,ON,V9L 5C9,East,ACC00959,Platinum,0.014,15000,2020-06-06,Active
+CUST00960,Christopher,Dixon,M,1973-03-26,2019-02-10,Visa,Mid,1,christopher.dixon@rogers.com,905-176-4983,432 Gutierrez Point Apt. 652,Gatineau,QC,L7V2E9,East,ACC00960,N/A,0.0,0,2021-10-16,Active
+CUST00961,Lindsey,Chavez,M,1995-10-14,2020-06-30,Mastercard,Low,1,lindsey.chavez@yahoo.com,306-147-7390,3481 Rachel Stream,London,ON,B1L 3N6,East,ACC00961,Standard,0.028,25000,2020-06-02,Active
+CUST00962,William,Bryant,F,1986-12-05,2022-03-18,Mastercard,Mid,1,william.bryant@gmail.com,204-160-2661,21743 Kim Pine Apt. 526,Gatineau,QC,R7L 1Y7,East,ACC00962,Gold,0.034,20000,2019-09-03,Suspended
+CUST00963,Brian,Ford,M,1988-06-18,2019-12-08,Visa,Mid,1,brian.ford@gmail.com,514-548-5656,98344 Amy Fall Suite 364,Mississauga,ON,G6Y6B1,East,ACC00963,N/A,0.0,0,2020-05-24,Active
+CUST00964,Lindsay,Cummings,M,1964-10-04,2023-09-18,Cash,Mid,1,lindsay.cummings@rogers.com,905-432-7779,4065 Harvey Knoll Apt. 562,Ottawa,ON,H9A 6B6,East,ACC00964,N/A,0.0,0,2019-03-24,Active
+CUST00965,Randy,Velasquez,M,1978-04-07,2022-07-03,Debit,High,1,randy.velasquez@outlook.com,604-675-2441,74091 Cory Corner,Winnipeg,MB,T2X 1R3,Central,ACC00965,N/A,0.0,0,2020-05-26,Active
+CUST00966,Julie,Lane,F,1964-01-14,2022-03-06,Debit,Low,1,julie.lane@outlook.com,403-670-9700,7602 Cynthia Lodge Suite 354,Burnaby,BC,H3A 3C8,West,ACC00966,N/A,0.0,0,2023-02-06,Active
+CUST00967,Brandon,Cooper,M,1985-01-29,2021-10-30,Debit,Mid,1,brandon.cooper@gmail.com,905-991-6143,500 Michelle Trace Apt. 151,Montreal,QC,J5H8P6,East,ACC00967,N/A,0.0,0,2021-03-19,Active
+CUST00968,Bryce,Mcknight,M,1998-08-30,2022-10-07,Debit,Low,1,bryce.mcknight@rogers.com,306-865-4519,4071 Padilla Vista,Dartmouth,NS,T6Y 6B1,East,ACC00968,N/A,0.0,0,2020-03-22,Active
+CUST00969,Sarah,Jones,F,2002-10-14,2020-03-12,Debit,High,1,sarah.jones@gmail.com,514-441-4260,100 Roberts Springs,Brampton,ON,M2A 1J5,East,ACC00969,N/A,0.0,0,2019-08-19,Active
+CUST00970,Sarah,Johnson,F,1996-11-29,2024-03-29,Visa,Mid,1,sarah.johnson@gmail.com,416-243-2952,03608 Brown Plains Suite 913,Laval,QC,H6Y4P6,East,ACC00970,N/A,0.0,0,2022-08-27,Active
+CUST00971,Robert,Mack,M,1971-07-02,2023-03-09,Debit,Mid,1,robert.mack@yahoo.com,306-917-1786,05610 Rick Oval Apt. 069,Lethbridge,AB,Y9B7C8,West,ACC00971,N/A,0.0,0,2019-08-15,Inactive
+CUST00972,Katie,Good,M,1963-10-13,2022-07-22,Mastercard,High,1,katie.good@rogers.com,514-116-8163,0378 Benson Crossroad Apt. 394,Winnipeg,MB,P1K7A8,Central,ACC00972,Standard,0.013,7500,2021-07-04,Active
+CUST00973,Debbie,Fisher,M,1979-03-09,2021-04-11,Mastercard,Low,1,debbie.fisher@rogers.com,514-909-9827,2550 Ethan Keys Apt. 173,Saint John,NB,N7L3G5,East,ACC00973,Platinum,0.034,10000,2020-10-27,Suspended
+CUST00974,Victoria,Reyes,M,2001-07-19,2022-02-20,Gift Card,High,1,victoria.reyes@yahoo.com,905-852-2237,8429 Courtney Shore,Kelowna,BC,K6K 2M2,West,ACC00974,N/A,0.0,0,2021-02-14,Active
+CUST00975,Molly,Knox,M,1960-08-12,2020-06-13,Debit,Mid,1,molly.knox@outlook.com,905-687-8675,090 Combs Cape,Calgary,AB,K9A7Y9,West,ACC00975,N/A,0.0,0,2022-10-25,Active
+CUST00976,Nicholas,Vega,F,2001-08-03,2023-05-22,Mastercard,Low,1,nicholas.vega@icloud.com,204-937-5536,02116 Wallace Underpass Apt. 904,Edmonton,AB,T9N8Y6,West,ACC00976,Platinum,0.036,7500,2020-02-28,Active
+CUST00977,Dorothy,Ryan,F,1994-07-07,2024-01-11,Mastercard,Low,0,dorothy.ryan@gmail.com,514-174-3976,29964 Randall Fort,Victoria,BC,S3H 8A6,West,ACC00977,Standard,0.03,25000,2020-05-12,Active
+CUST00978,Desiree,Bailey,F,1970-08-11,2020-04-28,Mastercard,High,1,desiree.bailey@yahoo.com,204-121-7577,214 Lucero Burg Apt. 071,Red Deer,AB,P9H 1K3,West,ACC00978,World Elite,0.023,10000,2019-01-07,Active
+CUST00979,Gregory,Medina,M,1980-08-04,2021-10-13,Cash,Low,1,gregory.medina@outlook.com,204-119-1139,2192 Michael Pine,Calgary,AB,X6V 2A7,West,ACC00979,N/A,0.0,0,2019-11-21,Active
+CUST00980,Allison,Luna,M,1992-12-25,2023-07-09,Debit,Mid,1,allison.luna@gmail.com,604-698-6351,86385 Pierce Common,Brampton,ON,T2V7H9,East,ACC00980,N/A,0.0,0,2023-12-26,Inactive
+CUST00981,Jeffrey,Smith,F,1982-08-19,2021-06-19,Mastercard,Low,1,jeffrey.smith@hotmail.com,514-832-3500,053 Nichols Valley,Victoria,BC,C3Y 9R8,West,ACC00981,Platinum,0.026,7500,2021-04-26,Active
+CUST00982,Andrew,Evans,F,1968-02-19,2020-10-10,Visa,Low,1,andrew.evans@gmail.com,647-203-1429,454 Diane Passage,Ottawa,ON,H1V 1H3,East,ACC00982,N/A,0.0,0,2020-08-11,Active
+CUST00983,Emily,Stephens,M,1971-01-01,2021-01-13,Visa,Mid,1,emily.stephens@icloud.com,514-170-6365,482 Derek Drives,Vancouver,BC,L5C 8L5,West,ACC00983,N/A,0.0,0,2020-07-26,Active
+CUST00984,Amanda,Morrow,F,1961-02-14,2023-09-20,Debit,Low,0,amanda.morrow@hotmail.com,604-410-3675,281 Robert Lake,Saskatoon,SK,A3G 1A4,Central,ACC00984,N/A,0.0,0,2023-04-25,Active
+CUST00985,John,Reed,F,1980-09-11,2022-02-05,Mastercard,High,0,john.reed@gmail.com,604-890-6821,2322 Jimenez Vista,Burnaby,BC,E4K 1P3,West,ACC00985,Platinum,0.026,20000,2021-07-19,Active
+CUST00986,Joshua,Pineda,M,1979-03-17,2023-10-23,Mastercard,High,0,joshua.pineda@gmail.com,204-126-8273,5064 Gonzalez Springs,Brampton,ON,P8K 8T6,East,ACC00986,Gold,0.023,25000,2023-11-05,Active
+CUST00987,Jessica,Rodriguez,F,1984-12-29,2019-07-04,Cash,Mid,0,jessica.rodriguez@yahoo.com,306-549-7540,198 David Cliffs Apt. 291,Winnipeg,MB,C7V1M3,Central,ACC00987,N/A,0.0,0,2021-09-03,Suspended
+CUST00988,Lisa,Barnes,F,1997-05-16,2022-07-17,Mastercard,Mid,1,lisa.barnes@yahoo.com,905-195-3868,04384 Christine Lock,Markham,ON,G2C 7J8,East,ACC00988,Standard,0.024,15000,2024-01-28,Active
+CUST00989,Katie,Stephenson,F,1965-03-09,2023-08-13,Debit,High,0,katie.stephenson@hotmail.com,905-266-4434,056 Novak Mall,Kelowna,BC,T4B7R3,West,ACC00989,N/A,0.0,0,2023-05-19,Active
+CUST00990,Alexis,Harris,M,1995-11-23,2023-12-01,Cash,Low,1,alexis.harris@hotmail.com,514-867-6191,865 Brown Prairie,Brampton,ON,L8M7B7,East,ACC00990,N/A,0.0,0,2021-09-22,Active
+CUST00991,Craig,Johnson,F,1995-10-05,2022-05-18,Debit,Mid,1,craig.johnson@shaw.ca,514-589-5182,493 Ashley Key,Surrey,BC,M8R 4H3,West,ACC00991,N/A,0.0,0,2022-02-03,Active
+CUST00992,Carla,Warner,F,1974-06-26,2022-07-14,Mastercard,Low,1,carla.warner@gmail.com,204-922-7881,2611 Schmitt Glens,Richmond,BC,S9G 6N5,West,ACC00992,World Elite,0.013,25000,2021-01-29,Active
+CUST00993,Brandon,Yang,F,1965-05-18,2019-08-15,Mastercard,High,0,brandon.yang@yahoo.com,403-956-2069,88087 Jodi Lodge,Vancouver,BC,K7M 5C4,West,ACC00993,Platinum,0.018,25000,2021-11-23,Active
+CUST00994,Richard,Young,M,1994-10-24,2023-06-12,Cash,High,1,richard.young@yahoo.com,905-766-7384,532 Valentine Ferry,Victoria,BC,B4P4Y4,West,ACC00994,N/A,0.0,0,2023-03-09,Active
+CUST00995,Jeff,Shields,M,1987-05-23,2023-06-26,Mastercard,Mid,1,jeff.shields@bell.net,403-847-6296,03115 Sullivan Landing Suite 576,Saskatoon,SK,V7N5T6,Central,ACC00995,Standard,0.039,5000,2020-05-09,Inactive
+CUST00996,Brian,Gordon,F,1978-02-20,2019-02-12,Cash,Mid,1,brian.gordon@gmail.com,416-231-9497,3659 Ritter Groves,Markham,ON,R2X7R4,East,ACC00996,N/A,0.0,0,2020-05-31,Inactive
+CUST00997,Keith,Cabrera,F,1999-06-27,2020-02-11,Mastercard,Low,1,keith.cabrera@yahoo.com,416-162-4437,12545 Amanda Branch Suite 948,London,ON,N3H 6R6,East,ACC00997,Platinum,0.03,20000,2023-10-19,Active
+CUST00998,Jessica,Flores,M,1971-05-23,2019-07-02,Gift Card,Mid,1,jessica.flores@yahoo.com,204-943-3580,4721 Alexander Ways Suite 235,Brandon,MB,L2H 5R1,Central,ACC00998,N/A,0.0,0,2023-06-25,Inactive
+CUST00999,Carla,Chambers,M,1998-09-15,2023-08-22,Debit,High,1,carla.chambers@bell.net,647-859-3975,893 Laura Estate Suite 145,Surrey,BC,J7B4T8,West,ACC00999,N/A,0.0,0,2024-03-02,Active
+CUST01000,Malik,Turner,M,1981-11-18,2020-08-12,Debit,Mid,1,malik.turner@icloud.com,416-609-4343,00817 Gillespie Divide,Toronto,ON,C8P 2Y9,East,ACC01000,N/A,0.0,0,2021-10-14,Suspended

@@ -1,0 +1,1001 @@
+customer_id,city,province,region,card_tier,account_status
+CUST00001,Markham,ON,East,Standard,Active
+CUST00002,Surrey,BC,West,Platinum,Active
+CUST00003,Regina,SK,Central,N/A,Inactive
+CUST00004,Burnaby,BC,West,N/A,Active
+CUST00005,Gatineau,QC,East,Platinum,Active
+CUST00006,Calgary,AB,West,Standard,Active
+CUST00007,Saint John,NB,East,Gold,Active
+CUST00008,Richmond,BC,West,Gold,Active
+CUST00009,Hamilton,ON,East,World Elite,Active
+CUST00010,Burnaby,BC,West,N/A,Active
+CUST00011,Gatineau,QC,East,N/A,Active
+CUST00012,Fredericton,NB,East,N/A,Inactive
+CUST00013,Dartmouth,NS,East,Gold,Inactive
+CUST00014,Richmond,BC,West,Standard,Active
+CUST00015,Quebec City,QC,East,N/A,Inactive
+CUST00016,Ottawa,ON,East,Standard,Active
+CUST00017,Gatineau,QC,East,N/A,Active
+CUST00018,London,ON,East,N/A,Active
+CUST00019,Winnipeg,MB,Central,Gold,Inactive
+CUST00020,Ottawa,ON,East,Standard,Active
+CUST00021,Calgary,AB,West,N/A,Active
+CUST00022,Brampton,ON,East,N/A,Active
+CUST00023,Montreal,QC,East,N/A,Active
+CUST00024,Toronto,ON,East,N/A,Suspended
+CUST00025,Calgary,AB,West,Standard,Active
+CUST00026,London,ON,East,N/A,Active
+CUST00027,Laval,QC,East,N/A,Inactive
+CUST00028,Lethbridge,AB,West,N/A,Active
+CUST00029,Fredericton,NB,East,Platinum,Active
+CUST00030,Laval,QC,East,Standard,Active
+CUST00031,Richmond,BC,West,N/A,Inactive
+CUST00032,Toronto,ON,East,Standard,Inactive
+CUST00033,Regina,SK,Central,Gold,Active
+CUST00034,Quebec City,QC,East,Standard,Active
+CUST00035,Richmond,BC,West,Gold,Active
+CUST00036,Calgary,AB,West,Gold,Active
+CUST00037,Ottawa,ON,East,N/A,Active
+CUST00038,Burnaby,BC,West,N/A,Active
+CUST00039,Brampton,ON,East,N/A,Suspended
+CUST00040,Hamilton,ON,East,N/A,Active
+CUST00041,Ottawa,ON,East,Platinum,Active
+CUST00042,Regina,SK,Central,N/A,Active
+CUST00043,Red Deer,AB,West,Standard,Active
+CUST00044,Hamilton,ON,East,N/A,Active
+CUST00045,Brampton,ON,East,Gold,Active
+CUST00046,Richmond,BC,West,N/A,Inactive
+CUST00047,Gatineau,QC,East,Gold,Active
+CUST00048,Toronto,ON,East,N/A,Inactive
+CUST00049,London,ON,East,N/A,Inactive
+CUST00050,Mississauga,ON,East,Platinum,Inactive
+CUST00051,Ottawa,ON,East,N/A,Active
+CUST00052,Brampton,ON,East,N/A,Active
+CUST00053,Toronto,ON,East,N/A,Active
+CUST00054,Laval,QC,East,N/A,Inactive
+CUST00055,Lethbridge,AB,West,Gold,Active
+CUST00056,Burnaby,BC,West,N/A,Active
+CUST00057,Saskatoon,SK,Central,N/A,Active
+CUST00058,Mississauga,ON,East,Platinum,Active
+CUST00059,Ottawa,ON,East,N/A,Active
+CUST00060,Mississauga,ON,East,Platinum,Active
+CUST00061,Quebec City,QC,East,N/A,Active
+CUST00062,Edmonton,AB,West,Gold,Active
+CUST00063,Brampton,ON,East,World Elite,Active
+CUST00064,Toronto,ON,East,Gold,Active
+CUST00065,Quebec City,QC,East,Standard,Active
+CUST00066,Toronto,ON,East,N/A,Active
+CUST00067,Burnaby,BC,West,Gold,Active
+CUST00068,Saskatoon,SK,Central,Standard,Active
+CUST00069,Moncton,NB,East,N/A,Inactive
+CUST00070,Surrey,BC,West,N/A,Inactive
+CUST00071,Gatineau,QC,East,World Elite,Active
+CUST00072,Mississauga,ON,East,Gold,Inactive
+CUST00073,Richmond,BC,West,N/A,Active
+CUST00074,Hamilton,ON,East,N/A,Active
+CUST00075,London,ON,East,N/A,Suspended
+CUST00076,Brampton,ON,East,Gold,Inactive
+CUST00077,Laval,QC,East,Platinum,Active
+CUST00078,Montreal,QC,East,N/A,Inactive
+CUST00079,Richmond,BC,West,Standard,Active
+CUST00080,Saint John,NB,East,N/A,Active
+CUST00081,Regina,SK,Central,Platinum,Active
+CUST00082,Winnipeg,MB,Central,Platinum,Active
+CUST00083,Regina,SK,Central,Gold,Active
+CUST00084,Saskatoon,SK,Central,Platinum,Inactive
+CUST00085,Kelowna,BC,West,N/A,Active
+CUST00086,Victoria,BC,West,N/A,Active
+CUST00087,Edmonton,AB,West,Platinum,Active
+CUST00088,Moncton,NB,East,N/A,Active
+CUST00089,Toronto,ON,East,N/A,Active
+CUST00090,Calgary,AB,West,N/A,Active
+CUST00091,Winnipeg,MB,Central,N/A,Active
+CUST00092,Quebec City,QC,East,N/A,Active
+CUST00093,Surrey,BC,West,N/A,Active
+CUST00094,Ottawa,ON,East,N/A,Active
+CUST00095,Gatineau,QC,East,N/A,Active
+CUST00096,Lethbridge,AB,West,N/A,Inactive
+CUST00097,Winnipeg,MB,Central,N/A,Active
+CUST00098,London,ON,East,N/A,Active
+CUST00099,Vancouver,BC,West,Standard,Inactive
+CUST00100,Mississauga,ON,East,N/A,Active
+CUST00101,Mississauga,ON,East,N/A,Inactive
+CUST00102,Ottawa,ON,East,Platinum,Inactive
+CUST00103,Saskatoon,SK,Central,N/A,Active
+CUST00104,Calgary,AB,West,N/A,Active
+CUST00105,Red Deer,AB,West,N/A,Active
+CUST00106,Gatineau,QC,East,Gold,Active
+CUST00107,Hamilton,ON,East,N/A,Active
+CUST00108,Regina,SK,Central,Platinum,Active
+CUST00109,Edmonton,AB,West,N/A,Inactive
+CUST00110,Calgary,AB,West,Platinum,Active
+CUST00111,Brampton,ON,East,Platinum,Inactive
+CUST00112,Toronto,ON,East,N/A,Inactive
+CUST00113,Hamilton,ON,East,Standard,Active
+CUST00114,Vancouver,BC,West,Platinum,Active
+CUST00115,Brandon,MB,Central,N/A,Active
+CUST00116,Red Deer,AB,West,Gold,Active
+CUST00117,Brampton,ON,East,Standard,Active
+CUST00118,London,ON,East,Standard,Active
+CUST00119,Mississauga,ON,East,N/A,Active
+CUST00120,Hamilton,ON,East,Standard,Inactive
+CUST00121,Vancouver,BC,West,N/A,Active
+CUST00122,Toronto,ON,East,N/A,Active
+CUST00123,Calgary,AB,West,Standard,Inactive
+CUST00124,Victoria,BC,West,Platinum,Suspended
+CUST00125,Moncton,NB,East,N/A,Inactive
+CUST00126,Markham,ON,East,Standard,Active
+CUST00127,Brampton,ON,East,N/A,Active
+CUST00128,Saint John,NB,East,N/A,Active
+CUST00129,Montreal,QC,East,N/A,Active
+CUST00130,Brandon,MB,Central,N/A,Active
+CUST00131,Dartmouth,NS,East,N/A,Active
+CUST00132,Saint John,NB,East,N/A,Inactive
+CUST00133,Brampton,ON,East,Gold,Suspended
+CUST00134,Calgary,AB,West,Standard,Active
+CUST00135,Victoria,BC,West,Gold,Active
+CUST00136,Montreal,QC,East,N/A,Suspended
+CUST00137,Markham,ON,East,N/A,Inactive
+CUST00138,Winnipeg,MB,Central,N/A,Active
+CUST00139,London,ON,East,World Elite,Active
+CUST00140,Markham,ON,East,World Elite,Active
+CUST00141,Brampton,ON,East,N/A,Active
+CUST00142,Saskatoon,SK,Central,N/A,Active
+CUST00143,Lethbridge,AB,West,Gold,Inactive
+CUST00144,Ottawa,ON,East,Gold,Active
+CUST00145,Regina,SK,Central,N/A,Inactive
+CUST00146,Lethbridge,AB,West,N/A,Active
+CUST00147,Brandon,MB,Central,N/A,Inactive
+CUST00148,Gatineau,QC,East,Gold,Active
+CUST00149,Brampton,ON,East,World Elite,Active
+CUST00150,Toronto,ON,East,N/A,Active
+CUST00151,Fredericton,NB,East,Platinum,Active
+CUST00152,Toronto,ON,East,N/A,Active
+CUST00153,Vancouver,BC,West,Standard,Active
+CUST00154,Brampton,ON,East,Gold,Active
+CUST00155,Winnipeg,MB,Central,N/A,Active
+CUST00156,Calgary,AB,West,N/A,Active
+CUST00157,Markham,ON,East,N/A,Active
+CUST00158,Hamilton,ON,East,N/A,Inactive
+CUST00159,Red Deer,AB,West,World Elite,Active
+CUST00160,Hamilton,ON,East,Platinum,Active
+CUST00161,Richmond,BC,West,Gold,Active
+CUST00162,Burnaby,BC,West,N/A,Active
+CUST00163,Calgary,AB,West,N/A,Active
+CUST00164,Red Deer,AB,West,N/A,Active
+CUST00165,Ottawa,ON,East,N/A,Inactive
+CUST00166,Red Deer,AB,West,N/A,Active
+CUST00167,Mississauga,ON,East,Gold,Inactive
+CUST00168,Hamilton,ON,East,N/A,Active
+CUST00169,Ottawa,ON,East,N/A,Active
+CUST00170,London,ON,East,Gold,Active
+CUST00171,Brandon,MB,Central,Standard,Inactive
+CUST00172,Markham,ON,East,N/A,Active
+CUST00173,Edmonton,AB,West,Standard,Active
+CUST00174,Laval,QC,East,N/A,Active
+CUST00175,Toronto,ON,East,Standard,Suspended
+CUST00176,Edmonton,AB,West,N/A,Active
+CUST00177,Toronto,ON,East,Standard,Active
+CUST00178,Saskatoon,SK,Central,Gold,Active
+CUST00179,Markham,ON,East,Standard,Active
+CUST00180,Markham,ON,East,N/A,Active
+CUST00181,Burnaby,BC,West,Standard,Active
+CUST00182,Saskatoon,SK,Central,N/A,Inactive
+CUST00183,Brampton,ON,East,Platinum,Active
+CUST00184,Moncton,NB,East,Platinum,Active
+CUST00185,Ottawa,ON,East,N/A,Inactive
+CUST00186,Regina,SK,Central,Platinum,Active
+CUST00187,Montreal,QC,East,N/A,Active
+CUST00188,Hamilton,ON,East,N/A,Inactive
+CUST00189,Richmond,BC,West,N/A,Active
+CUST00190,Calgary,AB,West,N/A,Suspended
+CUST00191,Burnaby,BC,West,N/A,Active
+CUST00192,Dartmouth,NS,East,Gold,Active
+CUST00193,Hamilton,ON,East,N/A,Active
+CUST00194,Lethbridge,AB,West,N/A,Active
+CUST00195,Laval,QC,East,Gold,Active
+CUST00196,London,ON,East,Standard,Inactive
+CUST00197,Victoria,BC,West,Platinum,Inactive
+CUST00198,Mississauga,ON,East,Standard,Active
+CUST00199,Laval,QC,East,Gold,Active
+CUST00200,Saint John,NB,East,N/A,Active
+CUST00201,Mississauga,ON,East,N/A,Active
+CUST00202,Kelowna,BC,West,World Elite,Active
+CUST00203,London,ON,East,Standard,Active
+CUST00204,Lethbridge,AB,West,Standard,Active
+CUST00205,Ottawa,ON,East,Standard,Active
+CUST00206,Kelowna,BC,West,N/A,Active
+CUST00207,London,ON,East,N/A,Active
+CUST00208,Victoria,BC,West,Gold,Active
+CUST00209,Calgary,AB,West,Standard,Inactive
+CUST00210,Moncton,NB,East,Platinum,Inactive
+CUST00211,Toronto,ON,East,N/A,Active
+CUST00212,Toronto,ON,East,Platinum,Inactive
+CUST00213,Ottawa,ON,East,N/A,Active
+CUST00214,London,ON,East,N/A,Active
+CUST00215,Surrey,BC,West,Standard,Active
+CUST00216,Moncton,NB,East,World Elite,Inactive
+CUST00217,Surrey,BC,West,N/A,Inactive
+CUST00218,Gatineau,QC,East,Platinum,Suspended
+CUST00219,Victoria,BC,West,N/A,Active
+CUST00220,Richmond,BC,West,N/A,Inactive
+CUST00221,Regina,SK,Central,Standard,Active
+CUST00222,Brampton,ON,East,Platinum,Inactive
+CUST00223,Surrey,BC,West,N/A,Active
+CUST00224,Saskatoon,SK,Central,World Elite,Active
+CUST00225,Markham,ON,East,N/A,Inactive
+CUST00226,Quebec City,QC,East,N/A,Active
+CUST00227,Moncton,NB,East,N/A,Active
+CUST00228,Ottawa,ON,East,Platinum,Active
+CUST00229,Lethbridge,AB,West,Standard,Active
+CUST00230,Vancouver,BC,West,Standard,Active
+CUST00231,Vancouver,BC,West,N/A,Active
+CUST00232,Markham,ON,East,Standard,Active
+CUST00233,Edmonton,AB,West,N/A,Active
+CUST00234,Montreal,QC,East,Gold,Active
+CUST00235,London,ON,East,Standard,Active
+CUST00236,Winnipeg,MB,Central,N/A,Active
+CUST00237,Calgary,AB,West,Gold,Active
+CUST00238,Saskatoon,SK,Central,N/A,Inactive
+CUST00239,Ottawa,ON,East,Standard,Active
+CUST00240,Quebec City,QC,East,Gold,Active
+CUST00241,Mississauga,ON,East,N/A,Inactive
+CUST00242,Dartmouth,NS,East,Platinum,Active
+CUST00243,Mississauga,ON,East,N/A,Active
+CUST00244,Ottawa,ON,East,N/A,Active
+CUST00245,Red Deer,AB,West,World Elite,Active
+CUST00246,Gatineau,QC,East,Gold,Active
+CUST00247,Quebec City,QC,East,N/A,Active
+CUST00248,Saint John,NB,East,N/A,Active
+CUST00249,Red Deer,AB,West,Platinum,Inactive
+CUST00250,Hamilton,ON,East,N/A,Active
+CUST00251,Hamilton,ON,East,Gold,Active
+CUST00252,Quebec City,QC,East,N/A,Active
+CUST00253,Surrey,BC,West,N/A,Active
+CUST00254,London,ON,East,Platinum,Active
+CUST00255,Mississauga,ON,East,World Elite,Active
+CUST00256,Red Deer,AB,West,N/A,Inactive
+CUST00257,Ottawa,ON,East,N/A,Active
+CUST00258,Lethbridge,AB,West,N/A,Active
+CUST00259,Brampton,ON,East,Gold,Active
+CUST00260,Halifax,NS,East,N/A,Active
+CUST00261,London,ON,East,Gold,Active
+CUST00262,Ottawa,ON,East,N/A,Active
+CUST00263,Moncton,NB,East,N/A,Active
+CUST00264,Surrey,BC,West,N/A,Active
+CUST00265,Gatineau,QC,East,N/A,Active
+CUST00266,Laval,QC,East,World Elite,Active
+CUST00267,Brampton,ON,East,N/A,Active
+CUST00268,Ottawa,ON,East,N/A,Active
+CUST00269,Markham,ON,East,N/A,Suspended
+CUST00270,Dartmouth,NS,East,Platinum,Inactive
+CUST00271,Hamilton,ON,East,Standard,Active
+CUST00272,Halifax,NS,East,Standard,Active
+CUST00273,Richmond,BC,West,N/A,Active
+CUST00274,Lethbridge,AB,West,Gold,Active
+CUST00275,Dartmouth,NS,East,Standard,Active
+CUST00276,Brampton,ON,East,Standard,Inactive
+CUST00277,Edmonton,AB,West,Platinum,Active
+CUST00278,Kelowna,BC,West,Platinum,Active
+CUST00279,Saskatoon,SK,Central,N/A,Active
+CUST00280,Kelowna,BC,West,N/A,Active
+CUST00281,Montreal,QC,East,Gold,Active
+CUST00282,Ottawa,ON,East,N/A,Active
+CUST00283,Ottawa,ON,East,N/A,Active
+CUST00284,Gatineau,QC,East,N/A,Inactive
+CUST00285,Mississauga,ON,East,N/A,Active
+CUST00286,Toronto,ON,East,N/A,Active
+CUST00287,Ottawa,ON,East,N/A,Active
+CUST00288,Kelowna,BC,West,Platinum,Active
+CUST00289,Toronto,ON,East,Standard,Active
+CUST00290,Victoria,BC,West,Gold,Inactive
+CUST00291,Montreal,QC,East,Standard,Active
+CUST00292,Vancouver,BC,West,Platinum,Active
+CUST00293,Gatineau,QC,East,N/A,Inactive
+CUST00294,Dartmouth,NS,East,Standard,Inactive
+CUST00295,Montreal,QC,East,N/A,Active
+CUST00296,Toronto,ON,East,N/A,Active
+CUST00297,Hamilton,ON,East,N/A,Active
+CUST00298,Calgary,AB,West,World Elite,Active
+CUST00299,Regina,SK,Central,N/A,Active
+CUST00300,Kelowna,BC,West,N/A,Inactive
+CUST00301,Saint John,NB,East,N/A,Inactive
+CUST00302,Montreal,QC,East,Standard,Active
+CUST00303,Fredericton,NB,East,Standard,Suspended
+CUST00304,Edmonton,AB,West,N/A,Inactive
+CUST00305,London,ON,East,Standard,Active
+CUST00306,Mississauga,ON,East,Platinum,Active
+CUST00307,Dartmouth,NS,East,N/A,Active
+CUST00308,Halifax,NS,East,Gold,Active
+CUST00309,Lethbridge,AB,West,N/A,Active
+CUST00310,Toronto,ON,East,N/A,Active
+CUST00311,Edmonton,AB,West,Gold,Active
+CUST00312,Hamilton,ON,East,N/A,Inactive
+CUST00313,Quebec City,QC,East,Standard,Active
+CUST00314,Markham,ON,East,N/A,Active
+CUST00315,Brandon,MB,Central,N/A,Active
+CUST00316,London,ON,East,N/A,Active
+CUST00317,London,ON,East,Gold,Active
+CUST00318,Victoria,BC,West,N/A,Active
+CUST00319,London,ON,East,N/A,Inactive
+CUST00320,Halifax,NS,East,Gold,Active
+CUST00321,Saint John,NB,East,World Elite,Active
+CUST00322,Fredericton,NB,East,N/A,Active
+CUST00323,Gatineau,QC,East,Standard,Active
+CUST00324,Brandon,MB,Central,Standard,Active
+CUST00325,Richmond,BC,West,N/A,Active
+CUST00326,Quebec City,QC,East,N/A,Inactive
+CUST00327,Quebec City,QC,East,N/A,Active
+CUST00328,Halifax,NS,East,N/A,Active
+CUST00329,Hamilton,ON,East,Standard,Active
+CUST00330,Toronto,ON,East,Platinum,Active
+CUST00331,Lethbridge,AB,West,N/A,Inactive
+CUST00332,Brandon,MB,Central,N/A,Active
+CUST00333,Toronto,ON,East,N/A,Active
+CUST00334,London,ON,East,World Elite,Active
+CUST00335,Saint John,NB,East,N/A,Active
+CUST00336,Markham,ON,East,Gold,Active
+CUST00337,Kelowna,BC,West,N/A,Inactive
+CUST00338,Winnipeg,MB,Central,Standard,Active
+CUST00339,Hamilton,ON,East,N/A,Active
+CUST00340,Montreal,QC,East,N/A,Inactive
+CUST00341,Mississauga,ON,East,Platinum,Active
+CUST00342,Burnaby,BC,West,Platinum,Active
+CUST00343,Toronto,ON,East,Gold,Inactive
+CUST00344,Kelowna,BC,West,Platinum,Active
+CUST00345,Edmonton,AB,West,Standard,Active
+CUST00346,Mississauga,ON,East,World Elite,Active
+CUST00347,Red Deer,AB,West,Platinum,Active
+CUST00348,London,ON,East,N/A,Active
+CUST00349,Dartmouth,NS,East,N/A,Active
+CUST00350,London,ON,East,Standard,Inactive
+CUST00351,Edmonton,AB,West,N/A,Active
+CUST00352,Hamilton,ON,East,N/A,Active
+CUST00353,Hamilton,ON,East,N/A,Suspended
+CUST00354,Mississauga,ON,East,N/A,Active
+CUST00355,Toronto,ON,East,Gold,Active
+CUST00356,Montreal,QC,East,Standard,Suspended
+CUST00357,Mississauga,ON,East,N/A,Active
+CUST00358,Calgary,AB,West,N/A,Active
+CUST00359,Gatineau,QC,East,N/A,Active
+CUST00360,Quebec City,QC,East,Gold,Active
+CUST00361,London,ON,East,Standard,Active
+CUST00362,Gatineau,QC,East,Standard,Inactive
+CUST00363,Laval,QC,East,N/A,Active
+CUST00364,Markham,ON,East,Platinum,Active
+CUST00365,Winnipeg,MB,Central,N/A,Active
+CUST00366,Calgary,AB,West,Standard,Active
+CUST00367,Fredericton,NB,East,Platinum,Inactive
+CUST00368,Victoria,BC,West,Gold,Active
+CUST00369,Calgary,AB,West,Platinum,Active
+CUST00370,Montreal,QC,East,N/A,Active
+CUST00371,Saskatoon,SK,Central,Gold,Inactive
+CUST00372,Dartmouth,NS,East,Platinum,Inactive
+CUST00373,London,ON,East,Gold,Inactive
+CUST00374,Burnaby,BC,West,Platinum,Active
+CUST00375,Halifax,NS,East,N/A,Active
+CUST00376,Brampton,ON,East,N/A,Active
+CUST00377,London,ON,East,N/A,Inactive
+CUST00378,Surrey,BC,West,N/A,Active
+CUST00379,Saskatoon,SK,Central,N/A,Active
+CUST00380,Burnaby,BC,West,N/A,Active
+CUST00381,Brampton,ON,East,N/A,Active
+CUST00382,Brampton,ON,East,Standard,Inactive
+CUST00383,Ottawa,ON,East,N/A,Active
+CUST00384,Lethbridge,AB,West,N/A,Active
+CUST00385,Richmond,BC,West,Gold,Active
+CUST00386,Victoria,BC,West,N/A,Active
+CUST00387,Halifax,NS,East,N/A,Active
+CUST00388,Quebec City,QC,East,Standard,Active
+CUST00389,Burnaby,BC,West,World Elite,Active
+CUST00390,Ottawa,ON,East,N/A,Active
+CUST00391,Laval,QC,East,N/A,Active
+CUST00392,London,ON,East,N/A,Active
+CUST00393,Edmonton,AB,West,N/A,Active
+CUST00394,Toronto,ON,East,Standard,Inactive
+CUST00395,Ottawa,ON,East,N/A,Active
+CUST00396,Victoria,BC,West,N/A,Suspended
+CUST00397,Vancouver,BC,West,Standard,Active
+CUST00398,Mississauga,ON,East,N/A,Active
+CUST00399,Saskatoon,SK,Central,N/A,Inactive
+CUST00400,Brampton,ON,East,Standard,Active
+CUST00401,Brampton,ON,East,N/A,Active
+CUST00402,Edmonton,AB,West,N/A,Active
+CUST00403,Edmonton,AB,West,N/A,Active
+CUST00404,Toronto,ON,East,Standard,Active
+CUST00405,Brampton,ON,East,N/A,Inactive
+CUST00406,Brampton,ON,East,N/A,Active
+CUST00407,Ottawa,ON,East,N/A,Inactive
+CUST00408,Regina,SK,Central,N/A,Active
+CUST00409,Kelowna,BC,West,N/A,Active
+CUST00410,Quebec City,QC,East,N/A,Active
+CUST00411,Gatineau,QC,East,N/A,Active
+CUST00412,Gatineau,QC,East,N/A,Active
+CUST00413,Toronto,ON,East,Platinum,Active
+CUST00414,Regina,SK,Central,N/A,Active
+CUST00415,Mississauga,ON,East,N/A,Active
+CUST00416,Burnaby,BC,West,Standard,Active
+CUST00417,Markham,ON,East,N/A,Active
+CUST00418,Vancouver,BC,West,N/A,Inactive
+CUST00419,Dartmouth,NS,East,N/A,Active
+CUST00420,Toronto,ON,East,N/A,Active
+CUST00421,Mississauga,ON,East,Standard,Active
+CUST00422,Gatineau,QC,East,Platinum,Active
+CUST00423,Quebec City,QC,East,Platinum,Active
+CUST00424,Ottawa,ON,East,Standard,Inactive
+CUST00425,Saskatoon,SK,Central,N/A,Active
+CUST00426,Brampton,ON,East,Standard,Active
+CUST00427,Ottawa,ON,East,N/A,Active
+CUST00428,Toronto,ON,East,N/A,Active
+CUST00429,Hamilton,ON,East,N/A,Active
+CUST00430,Toronto,ON,East,N/A,Active
+CUST00431,Markham,ON,East,Gold,Active
+CUST00432,Montreal,QC,East,N/A,Active
+CUST00433,Winnipeg,MB,Central,Gold,Suspended
+CUST00434,Laval,QC,East,N/A,Active
+CUST00435,Red Deer,AB,West,N/A,Active
+CUST00436,Mississauga,ON,East,Gold,Active
+CUST00437,Saskatoon,SK,Central,N/A,Active
+CUST00438,Edmonton,AB,West,N/A,Active
+CUST00439,Vancouver,BC,West,N/A,Active
+CUST00440,Calgary,AB,West,Platinum,Active
+CUST00441,Hamilton,ON,East,Standard,Active
+CUST00442,London,ON,East,Gold,Active
+CUST00443,Brampton,ON,East,N/A,Inactive
+CUST00444,Quebec City,QC,East,Standard,Active
+CUST00445,Victoria,BC,West,N/A,Active
+CUST00446,Brampton,ON,East,Gold,Active
+CUST00447,Ottawa,ON,East,N/A,Active
+CUST00448,Richmond,BC,West,N/A,Inactive
+CUST00449,London,ON,East,N/A,Active
+CUST00450,Richmond,BC,West,Standard,Active
+CUST00451,Lethbridge,AB,West,Gold,Inactive
+CUST00452,Toronto,ON,East,Standard,Active
+CUST00453,Halifax,NS,East,Standard,Active
+CUST00454,Ottawa,ON,East,N/A,Active
+CUST00455,Winnipeg,MB,Central,N/A,Active
+CUST00456,Toronto,ON,East,Platinum,Active
+CUST00457,Montreal,QC,East,N/A,Active
+CUST00458,Toronto,ON,East,N/A,Active
+CUST00459,Ottawa,ON,East,N/A,Active
+CUST00460,Laval,QC,East,Gold,Inactive
+CUST00461,Ottawa,ON,East,Gold,Active
+CUST00462,Vancouver,BC,West,N/A,Inactive
+CUST00463,Red Deer,AB,West,N/A,Active
+CUST00464,Surrey,BC,West,Standard,Inactive
+CUST00465,Moncton,NB,East,N/A,Active
+CUST00466,Ottawa,ON,East,N/A,Active
+CUST00467,Victoria,BC,West,Platinum,Active
+CUST00468,Gatineau,QC,East,Gold,Active
+CUST00469,Markham,ON,East,Standard,Active
+CUST00470,Toronto,ON,East,World Elite,Active
+CUST00471,Ottawa,ON,East,N/A,Active
+CUST00472,Hamilton,ON,East,Standard,Active
+CUST00473,Mississauga,ON,East,N/A,Active
+CUST00474,Halifax,NS,East,N/A,Inactive
+CUST00475,Saint John,NB,East,N/A,Active
+CUST00476,Markham,ON,East,N/A,Active
+CUST00477,Vancouver,BC,West,Standard,Active
+CUST00478,London,ON,East,N/A,Active
+CUST00479,Quebec City,QC,East,Standard,Active
+CUST00480,Mississauga,ON,East,Gold,Suspended
+CUST00481,Hamilton,ON,East,N/A,Inactive
+CUST00482,Toronto,ON,East,N/A,Active
+CUST00483,Richmond,BC,West,Platinum,Inactive
+CUST00484,Mississauga,ON,East,World Elite,Active
+CUST00485,Brampton,ON,East,N/A,Suspended
+CUST00486,Dartmouth,NS,East,Standard,Suspended
+CUST00487,Winnipeg,MB,Central,N/A,Inactive
+CUST00488,Gatineau,QC,East,N/A,Active
+CUST00489,Quebec City,QC,East,Platinum,Active
+CUST00490,Ottawa,ON,East,N/A,Active
+CUST00491,Saskatoon,SK,Central,World Elite,Inactive
+CUST00492,Regina,SK,Central,N/A,Suspended
+CUST00493,Regina,SK,Central,Platinum,Active
+CUST00494,Mississauga,ON,East,N/A,Active
+CUST00495,Brampton,ON,East,N/A,Inactive
+CUST00496,Red Deer,AB,West,N/A,Active
+CUST00497,Gatineau,QC,East,N/A,Active
+CUST00498,Dartmouth,NS,East,Platinum,Active
+CUST00499,Brampton,ON,East,N/A,Active
+CUST00500,Victoria,BC,West,Gold,Active
+CUST00501,Brampton,ON,East,Standard,Active
+CUST00502,Brampton,ON,East,N/A,Inactive
+CUST00503,London,ON,East,N/A,Active
+CUST00504,London,ON,East,N/A,Active
+CUST00505,Brampton,ON,East,N/A,Active
+CUST00506,London,ON,East,N/A,Suspended
+CUST00507,Calgary,AB,West,N/A,Active
+CUST00508,Gatineau,QC,East,Gold,Inactive
+CUST00509,Mississauga,ON,East,Platinum,Active
+CUST00510,Gatineau,QC,East,Platinum,Active
+CUST00511,Burnaby,BC,West,N/A,Active
+CUST00512,Hamilton,ON,East,Gold,Active
+CUST00513,Brandon,MB,Central,N/A,Active
+CUST00514,Toronto,ON,East,Standard,Active
+CUST00515,Montreal,QC,East,N/A,Active
+CUST00516,Winnipeg,MB,Central,N/A,Active
+CUST00517,Markham,ON,East,Standard,Active
+CUST00518,Victoria,BC,West,N/A,Suspended
+CUST00519,Laval,QC,East,N/A,Active
+CUST00520,Montreal,QC,East,Platinum,Active
+CUST00521,Markham,ON,East,Platinum,Active
+CUST00522,Dartmouth,NS,East,N/A,Inactive
+CUST00523,Brandon,MB,Central,N/A,Active
+CUST00524,Burnaby,BC,West,Standard,Inactive
+CUST00525,Quebec City,QC,East,Gold,Active
+CUST00526,Winnipeg,MB,Central,N/A,Inactive
+CUST00527,Toronto,ON,East,N/A,Active
+CUST00528,Halifax,NS,East,N/A,Active
+CUST00529,Saint John,NB,East,Gold,Active
+CUST00530,Edmonton,AB,West,World Elite,Active
+CUST00531,Montreal,QC,East,Gold,Inactive
+CUST00532,Calgary,AB,West,Gold,Active
+CUST00533,Ottawa,ON,East,Gold,Active
+CUST00534,Saskatoon,SK,Central,N/A,Active
+CUST00535,Richmond,BC,West,N/A,Inactive
+CUST00536,Mississauga,ON,East,N/A,Active
+CUST00537,Toronto,ON,East,N/A,Active
+CUST00538,Fredericton,NB,East,N/A,Active
+CUST00539,Montreal,QC,East,N/A,Active
+CUST00540,Surrey,BC,West,N/A,Active
+CUST00541,Ottawa,ON,East,Standard,Active
+CUST00542,Vancouver,BC,West,N/A,Active
+CUST00543,Richmond,BC,West,N/A,Active
+CUST00544,Laval,QC,East,N/A,Active
+CUST00545,Ottawa,ON,East,N/A,Active
+CUST00546,Victoria,BC,West,N/A,Active
+CUST00547,Lethbridge,AB,West,Standard,Inactive
+CUST00548,Vancouver,BC,West,Platinum,Active
+CUST00549,Markham,ON,East,N/A,Active
+CUST00550,Markham,ON,East,N/A,Active
+CUST00551,London,ON,East,N/A,Active
+CUST00552,Mississauga,ON,East,N/A,Active
+CUST00553,Red Deer,AB,West,Platinum,Active
+CUST00554,Edmonton,AB,West,N/A,Active
+CUST00555,Lethbridge,AB,West,N/A,Active
+CUST00556,Toronto,ON,East,N/A,Active
+CUST00557,Vancouver,BC,West,N/A,Active
+CUST00558,Toronto,ON,East,Gold,Suspended
+CUST00559,Brampton,ON,East,Gold,Active
+CUST00560,Toronto,ON,East,N/A,Active
+CUST00561,Markham,ON,East,N/A,Inactive
+CUST00562,Vancouver,BC,West,Gold,Active
+CUST00563,Winnipeg,MB,Central,N/A,Suspended
+CUST00564,Mississauga,ON,East,N/A,Active
+CUST00565,London,ON,East,N/A,Active
+CUST00566,Saint John,NB,East,Platinum,Active
+CUST00567,Mississauga,ON,East,N/A,Active
+CUST00568,Ottawa,ON,East,N/A,Active
+CUST00569,Ottawa,ON,East,World Elite,Active
+CUST00570,Edmonton,AB,West,Platinum,Active
+CUST00571,Gatineau,QC,East,N/A,Active
+CUST00572,Laval,QC,East,Platinum,Inactive
+CUST00573,Montreal,QC,East,N/A,Active
+CUST00574,Gatineau,QC,East,Standard,Active
+CUST00575,Markham,ON,East,N/A,Active
+CUST00576,Quebec City,QC,East,N/A,Active
+CUST00577,Regina,SK,Central,N/A,Inactive
+CUST00578,Mississauga,ON,East,World Elite,Active
+CUST00579,Toronto,ON,East,Standard,Active
+CUST00580,Toronto,ON,East,N/A,Active
+CUST00581,Hamilton,ON,East,N/A,Active
+CUST00582,Richmond,BC,West,Standard,Active
+CUST00583,Toronto,ON,East,N/A,Active
+CUST00584,Ottawa,ON,East,N/A,Active
+CUST00585,Toronto,ON,East,N/A,Active
+CUST00586,Toronto,ON,East,N/A,Active
+CUST00587,Ottawa,ON,East,Gold,Active
+CUST00588,London,ON,East,N/A,Active
+CUST00589,Ottawa,ON,East,Standard,Active
+CUST00590,Montreal,QC,East,N/A,Inactive
+CUST00591,Winnipeg,MB,Central,World Elite,Active
+CUST00592,Brampton,ON,East,N/A,Active
+CUST00593,Vancouver,BC,West,Standard,Active
+CUST00594,Montreal,QC,East,N/A,Active
+CUST00595,Surrey,BC,West,N/A,Active
+CUST00596,Red Deer,AB,West,Gold,Active
+CUST00597,Montreal,QC,East,N/A,Active
+CUST00598,Laval,QC,East,Platinum,Active
+CUST00599,Mississauga,ON,East,N/A,Active
+CUST00600,London,ON,East,N/A,Active
+CUST00601,Winnipeg,MB,Central,Standard,Inactive
+CUST00602,London,ON,East,Platinum,Active
+CUST00603,Saint John,NB,East,N/A,Active
+CUST00604,London,ON,East,Standard,Inactive
+CUST00605,Dartmouth,NS,East,N/A,Active
+CUST00606,Montreal,QC,East,N/A,Inactive
+CUST00607,Toronto,ON,East,Standard,Suspended
+CUST00608,Burnaby,BC,West,Standard,Active
+CUST00609,Markham,ON,East,N/A,Active
+CUST00610,Hamilton,ON,East,N/A,Inactive
+CUST00611,Victoria,BC,West,Gold,Active
+CUST00612,Mississauga,ON,East,Gold,Active
+CUST00613,London,ON,East,N/A,Active
+CUST00614,Mississauga,ON,East,Platinum,Active
+CUST00615,Moncton,NB,East,N/A,Active
+CUST00616,Brampton,ON,East,N/A,Active
+CUST00617,Quebec City,QC,East,Platinum,Active
+CUST00618,Toronto,ON,East,N/A,Active
+CUST00619,Markham,ON,East,Gold,Active
+CUST00620,Laval,QC,East,Platinum,Active
+CUST00621,Fredericton,NB,East,N/A,Active
+CUST00622,Ottawa,ON,East,N/A,Suspended
+CUST00623,Red Deer,AB,West,N/A,Active
+CUST00624,London,ON,East,Gold,Inactive
+CUST00625,Mississauga,ON,East,N/A,Active
+CUST00626,Brandon,MB,Central,Platinum,Active
+CUST00627,Montreal,QC,East,Platinum,Active
+CUST00628,London,ON,East,N/A,Active
+CUST00629,Montreal,QC,East,N/A,Active
+CUST00630,Hamilton,ON,East,N/A,Active
+CUST00631,Toronto,ON,East,N/A,Active
+CUST00632,Dartmouth,NS,East,N/A,Active
+CUST00633,Brandon,MB,Central,N/A,Active
+CUST00634,Victoria,BC,West,N/A,Active
+CUST00635,London,ON,East,World Elite,Active
+CUST00636,London,ON,East,Standard,Active
+CUST00637,Victoria,BC,West,N/A,Active
+CUST00638,Mississauga,ON,East,N/A,Active
+CUST00639,London,ON,East,Platinum,Active
+CUST00640,Fredericton,NB,East,Standard,Active
+CUST00641,Fredericton,NB,East,N/A,Active
+CUST00642,Vancouver,BC,West,N/A,Active
+CUST00643,Surrey,BC,West,Standard,Active
+CUST00644,Regina,SK,Central,N/A,Active
+CUST00645,Red Deer,AB,West,Platinum,Active
+CUST00646,Lethbridge,AB,West,Standard,Active
+CUST00647,London,ON,East,N/A,Active
+CUST00648,Saint John,NB,East,N/A,Active
+CUST00649,Gatineau,QC,East,Standard,Active
+CUST00650,Markham,ON,East,Standard,Inactive
+CUST00651,Calgary,AB,West,Gold,Active
+CUST00652,London,ON,East,Standard,Active
+CUST00653,Victoria,BC,West,N/A,Active
+CUST00654,Kelowna,BC,West,Standard,Active
+CUST00655,Calgary,AB,West,World Elite,Active
+CUST00656,Montreal,QC,East,N/A,Active
+CUST00657,Lethbridge,AB,West,Platinum,Active
+CUST00658,Gatineau,QC,East,N/A,Active
+CUST00659,Edmonton,AB,West,N/A,Active
+CUST00660,Vancouver,BC,West,N/A,Suspended
+CUST00661,Brandon,MB,Central,Platinum,Active
+CUST00662,Markham,ON,East,Gold,Inactive
+CUST00663,Red Deer,AB,West,Standard,Active
+CUST00664,Red Deer,AB,West,Platinum,Active
+CUST00665,Mississauga,ON,East,World Elite,Suspended
+CUST00666,Red Deer,AB,West,Standard,Inactive
+CUST00667,Hamilton,ON,East,N/A,Active
+CUST00668,Halifax,NS,East,Gold,Active
+CUST00669,Montreal,QC,East,Standard,Active
+CUST00670,Burnaby,BC,West,N/A,Active
+CUST00671,Markham,ON,East,N/A,Active
+CUST00672,Calgary,AB,West,Standard,Active
+CUST00673,Richmond,BC,West,N/A,Inactive
+CUST00674,Regina,SK,Central,Platinum,Inactive
+CUST00675,Toronto,ON,East,Gold,Active
+CUST00676,Calgary,AB,West,Gold,Active
+CUST00677,Ottawa,ON,East,N/A,Active
+CUST00678,London,ON,East,N/A,Inactive
+CUST00679,Vancouver,BC,West,N/A,Active
+CUST00680,London,ON,East,N/A,Active
+CUST00681,Burnaby,BC,West,N/A,Active
+CUST00682,Burnaby,BC,West,N/A,Active
+CUST00683,Regina,SK,Central,Platinum,Inactive
+CUST00684,London,ON,East,World Elite,Active
+CUST00685,Ottawa,ON,East,N/A,Active
+CUST00686,Vancouver,BC,West,Platinum,Active
+CUST00687,Markham,ON,East,N/A,Active
+CUST00688,Vancouver,BC,West,N/A,Inactive
+CUST00689,Victoria,BC,West,Standard,Active
+CUST00690,Dartmouth,NS,East,World Elite,Inactive
+CUST00691,Markham,ON,East,N/A,Active
+CUST00692,Gatineau,QC,East,Gold,Active
+CUST00693,Kelowna,BC,West,N/A,Active
+CUST00694,Surrey,BC,West,Platinum,Active
+CUST00695,Ottawa,ON,East,N/A,Active
+CUST00696,Mississauga,ON,East,N/A,Active
+CUST00697,Hamilton,ON,East,Standard,Inactive
+CUST00698,Vancouver,BC,West,N/A,Active
+CUST00699,Kelowna,BC,West,N/A,Active
+CUST00700,Hamilton,ON,East,N/A,Active
+CUST00701,Markham,ON,East,N/A,Active
+CUST00702,Edmonton,AB,West,Gold,Active
+CUST00703,Edmonton,AB,West,N/A,Inactive
+CUST00704,London,ON,East,Platinum,Active
+CUST00705,Laval,QC,East,N/A,Active
+CUST00706,Toronto,ON,East,N/A,Inactive
+CUST00707,Mississauga,ON,East,Standard,Active
+CUST00708,Saskatoon,SK,Central,N/A,Active
+CUST00709,Regina,SK,Central,Gold,Inactive
+CUST00710,Toronto,ON,East,N/A,Active
+CUST00711,Ottawa,ON,East,N/A,Active
+CUST00712,Winnipeg,MB,Central,N/A,Inactive
+CUST00713,Halifax,NS,East,N/A,Active
+CUST00714,Winnipeg,MB,Central,N/A,Active
+CUST00715,Hamilton,ON,East,N/A,Active
+CUST00716,Laval,QC,East,N/A,Active
+CUST00717,Gatineau,QC,East,Gold,Active
+CUST00718,Hamilton,ON,East,N/A,Active
+CUST00719,Lethbridge,AB,West,N/A,Active
+CUST00720,Halifax,NS,East,N/A,Active
+CUST00721,Red Deer,AB,West,N/A,Suspended
+CUST00722,Surrey,BC,West,Standard,Active
+CUST00723,Toronto,ON,East,N/A,Active
+CUST00724,Toronto,ON,East,Gold,Suspended
+CUST00725,Moncton,NB,East,N/A,Active
+CUST00726,London,ON,East,N/A,Active
+CUST00727,Regina,SK,Central,N/A,Active
+CUST00728,Mississauga,ON,East,Platinum,Active
+CUST00729,Gatineau,QC,East,Gold,Active
+CUST00730,Montreal,QC,East,N/A,Inactive
+CUST00731,Gatineau,QC,East,Standard,Active
+CUST00732,Laval,QC,East,N/A,Active
+CUST00733,Vancouver,BC,West,N/A,Active
+CUST00734,Surrey,BC,West,Standard,Inactive
+CUST00735,Burnaby,BC,West,Platinum,Active
+CUST00736,Toronto,ON,East,Standard,Active
+CUST00737,Regina,SK,Central,N/A,Active
+CUST00738,Dartmouth,NS,East,N/A,Active
+CUST00739,Montreal,QC,East,Platinum,Active
+CUST00740,Montreal,QC,East,N/A,Inactive
+CUST00741,Hamilton,ON,East,N/A,Active
+CUST00742,Brandon,MB,Central,N/A,Active
+CUST00743,Vancouver,BC,West,Gold,Active
+CUST00744,Moncton,NB,East,Gold,Active
+CUST00745,Hamilton,ON,East,N/A,Suspended
+CUST00746,Montreal,QC,East,N/A,Active
+CUST00747,London,ON,East,Gold,Active
+CUST00748,Halifax,NS,East,Standard,Active
+CUST00749,Laval,QC,East,N/A,Active
+CUST00750,Laval,QC,East,N/A,Active
+CUST00751,Toronto,ON,East,N/A,Active
+CUST00752,London,ON,East,Platinum,Active
+CUST00753,Lethbridge,AB,West,N/A,Inactive
+CUST00754,Brandon,MB,Central,Gold,Active
+CUST00755,Lethbridge,AB,West,N/A,Active
+CUST00756,Richmond,BC,West,N/A,Active
+CUST00757,Burnaby,BC,West,N/A,Active
+CUST00758,Gatineau,QC,East,N/A,Inactive
+CUST00759,Montreal,QC,East,N/A,Active
+CUST00760,Markham,ON,East,N/A,Active
+CUST00761,Gatineau,QC,East,N/A,Active
+CUST00762,Laval,QC,East,N/A,Active
+CUST00763,Kelowna,BC,West,N/A,Active
+CUST00764,Dartmouth,NS,East,Gold,Active
+CUST00765,Montreal,QC,East,N/A,Suspended
+CUST00766,Edmonton,AB,West,N/A,Active
+CUST00767,Victoria,BC,West,N/A,Active
+CUST00768,Kelowna,BC,West,N/A,Inactive
+CUST00769,Montreal,QC,East,Gold,Suspended
+CUST00770,Toronto,ON,East,N/A,Inactive
+CUST00771,Gatineau,QC,East,N/A,Active
+CUST00772,Winnipeg,MB,Central,Platinum,Active
+CUST00773,Quebec City,QC,East,Standard,Active
+CUST00774,Gatineau,QC,East,Gold,Active
+CUST00775,Vancouver,BC,West,N/A,Inactive
+CUST00776,Surrey,BC,West,N/A,Active
+CUST00777,Saskatoon,SK,Central,N/A,Active
+CUST00778,Halifax,NS,East,N/A,Active
+CUST00779,Richmond,BC,West,Platinum,Inactive
+CUST00780,Montreal,QC,East,N/A,Inactive
+CUST00781,Calgary,AB,West,N/A,Inactive
+CUST00782,Brampton,ON,East,N/A,Active
+CUST00783,Winnipeg,MB,Central,N/A,Inactive
+CUST00784,Ottawa,ON,East,N/A,Active
+CUST00785,London,ON,East,N/A,Suspended
+CUST00786,Victoria,BC,West,Standard,Inactive
+CUST00787,Gatineau,QC,East,N/A,Active
+CUST00788,Quebec City,QC,East,N/A,Active
+CUST00789,Victoria,BC,West,World Elite,Active
+CUST00790,Vancouver,BC,West,Gold,Active
+CUST00791,Kelowna,BC,West,Standard,Active
+CUST00792,Surrey,BC,West,N/A,Active
+CUST00793,Surrey,BC,West,N/A,Active
+CUST00794,Gatineau,QC,East,N/A,Active
+CUST00795,Vancouver,BC,West,N/A,Inactive
+CUST00796,Burnaby,BC,West,N/A,Active
+CUST00797,London,ON,East,N/A,Active
+CUST00798,Dartmouth,NS,East,N/A,Active
+CUST00799,Markham,ON,East,Standard,Suspended
+CUST00800,Edmonton,AB,West,N/A,Active
+CUST00801,Mississauga,ON,East,N/A,Inactive
+CUST00802,Lethbridge,AB,West,N/A,Active
+CUST00803,Toronto,ON,East,Platinum,Active
+CUST00804,Brampton,ON,East,Platinum,Active
+CUST00805,Markham,ON,East,N/A,Active
+CUST00806,Vancouver,BC,West,N/A,Inactive
+CUST00807,Laval,QC,East,N/A,Suspended
+CUST00808,Saskatoon,SK,Central,Platinum,Active
+CUST00809,Brandon,MB,Central,Standard,Active
+CUST00810,Lethbridge,AB,West,N/A,Active
+CUST00811,Brandon,MB,Central,Platinum,Active
+CUST00812,Surrey,BC,West,Standard,Active
+CUST00813,Ottawa,ON,East,Platinum,Active
+CUST00814,Regina,SK,Central,N/A,Active
+CUST00815,Mississauga,ON,East,N/A,Active
+CUST00816,Toronto,ON,East,N/A,Active
+CUST00817,Saint John,NB,East,N/A,Active
+CUST00818,Montreal,QC,East,N/A,Active
+CUST00819,Saskatoon,SK,Central,N/A,Inactive
+CUST00820,Calgary,AB,West,Standard,Active
+CUST00821,Calgary,AB,West,N/A,Active
+CUST00822,Regina,SK,Central,N/A,Active
+CUST00823,Markham,ON,East,N/A,Active
+CUST00824,Brampton,ON,East,Platinum,Active
+CUST00825,Victoria,BC,West,N/A,Active
+CUST00826,Calgary,AB,West,Gold,Suspended
+CUST00827,Toronto,ON,East,N/A,Active
+CUST00828,Calgary,AB,West,N/A,Active
+CUST00829,Victoria,BC,West,Standard,Active
+CUST00830,Quebec City,QC,East,N/A,Active
+CUST00831,Ottawa,ON,East,N/A,Active
+CUST00832,Ottawa,ON,East,N/A,Active
+CUST00833,Brampton,ON,East,N/A,Active
+CUST00834,Victoria,BC,West,Standard,Active
+CUST00835,Hamilton,ON,East,World Elite,Active
+CUST00836,London,ON,East,N/A,Inactive
+CUST00837,Laval,QC,East,Standard,Active
+CUST00838,Victoria,BC,West,N/A,Active
+CUST00839,Brampton,ON,East,N/A,Active
+CUST00840,Calgary,AB,West,N/A,Inactive
+CUST00841,Calgary,AB,West,N/A,Active
+CUST00842,Surrey,BC,West,Gold,Active
+CUST00843,Lethbridge,AB,West,N/A,Active
+CUST00844,Mississauga,ON,East,N/A,Active
+CUST00845,Ottawa,ON,East,World Elite,Active
+CUST00846,Gatineau,QC,East,N/A,Active
+CUST00847,Halifax,NS,East,N/A,Inactive
+CUST00848,Montreal,QC,East,N/A,Suspended
+CUST00849,Gatineau,QC,East,Gold,Active
+CUST00850,Ottawa,ON,East,N/A,Active
+CUST00851,Brandon,MB,Central,Gold,Active
+CUST00852,Ottawa,ON,East,N/A,Active
+CUST00853,Gatineau,QC,East,N/A,Active
+CUST00854,Montreal,QC,East,N/A,Inactive
+CUST00855,Burnaby,BC,West,N/A,Active
+CUST00856,Burnaby,BC,West,Standard,Active
+CUST00857,Laval,QC,East,N/A,Active
+CUST00858,Saskatoon,SK,Central,Platinum,Active
+CUST00859,Toronto,ON,East,Gold,Active
+CUST00860,Brampton,ON,East,World Elite,Active
+CUST00861,Dartmouth,NS,East,Standard,Active
+CUST00862,Brandon,MB,Central,N/A,Active
+CUST00863,Lethbridge,AB,West,N/A,Suspended
+CUST00864,Hamilton,ON,East,N/A,Active
+CUST00865,Lethbridge,AB,West,Platinum,Active
+CUST00866,London,ON,East,N/A,Inactive
+CUST00867,Laval,QC,East,Standard,Active
+CUST00868,Saint John,NB,East,Standard,Active
+CUST00869,London,ON,East,N/A,Active
+CUST00870,Richmond,BC,West,Standard,Active
+CUST00871,Vancouver,BC,West,N/A,Suspended
+CUST00872,Mississauga,ON,East,N/A,Inactive
+CUST00873,Mississauga,ON,East,N/A,Inactive
+CUST00874,Calgary,AB,West,Gold,Suspended
+CUST00875,Toronto,ON,East,Platinum,Active
+CUST00876,Lethbridge,AB,West,Standard,Active
+CUST00877,Regina,SK,Central,Standard,Suspended
+CUST00878,London,ON,East,N/A,Active
+CUST00879,Moncton,NB,East,N/A,Active
+CUST00880,London,ON,East,N/A,Active
+CUST00881,Moncton,NB,East,Gold,Active
+CUST00882,Surrey,BC,West,N/A,Inactive
+CUST00883,Brampton,ON,East,N/A,Active
+CUST00884,Gatineau,QC,East,N/A,Active
+CUST00885,Vancouver,BC,West,N/A,Active
+CUST00886,Victoria,BC,West,N/A,Active
+CUST00887,Quebec City,QC,East,N/A,Active
+CUST00888,Red Deer,AB,West,N/A,Active
+CUST00889,Mississauga,ON,East,N/A,Active
+CUST00890,Brandon,MB,Central,Gold,Suspended
+CUST00891,Toronto,ON,East,N/A,Active
+CUST00892,Red Deer,AB,West,N/A,Suspended
+CUST00893,Gatineau,QC,East,Standard,Active
+CUST00894,Lethbridge,AB,West,Gold,Active
+CUST00895,Lethbridge,AB,West,Gold,Active
+CUST00896,Markham,ON,East,N/A,Active
+CUST00897,Saint John,NB,East,Platinum,Active
+CUST00898,Red Deer,AB,West,N/A,Active
+CUST00899,Mississauga,ON,East,N/A,Active
+CUST00900,Surrey,BC,West,World Elite,Active
+CUST00901,Brampton,ON,East,N/A,Active
+CUST00902,Markham,ON,East,Gold,Active
+CUST00903,Montreal,QC,East,Platinum,Inactive
+CUST00904,Toronto,ON,East,N/A,Inactive
+CUST00905,Saint John,NB,East,N/A,Active
+CUST00906,Edmonton,AB,West,Gold,Active
+CUST00907,Halifax,NS,East,N/A,Active
+CUST00908,Winnipeg,MB,Central,N/A,Inactive
+CUST00909,Halifax,NS,East,N/A,Active
+CUST00910,Brampton,ON,East,Platinum,Active
+CUST00911,Saint John,NB,East,N/A,Active
+CUST00912,London,ON,East,N/A,Active
+CUST00913,Gatineau,QC,East,N/A,Active
+CUST00914,Brampton,ON,East,N/A,Inactive
+CUST00915,Gatineau,QC,East,Gold,Inactive
+CUST00916,Winnipeg,MB,Central,N/A,Active
+CUST00917,Markham,ON,East,N/A,Active
+CUST00918,London,ON,East,Gold,Active
+CUST00919,Toronto,ON,East,World Elite,Active
+CUST00920,Laval,QC,East,N/A,Active
+CUST00921,Laval,QC,East,N/A,Active
+CUST00922,Ottawa,ON,East,Standard,Inactive
+CUST00923,London,ON,East,Standard,Active
+CUST00924,Quebec City,QC,East,N/A,Suspended
+CUST00925,Brandon,MB,Central,N/A,Active
+CUST00926,Edmonton,AB,West,Gold,Active
+CUST00927,Gatineau,QC,East,N/A,Active
+CUST00928,Red Deer,AB,West,Gold,Active
+CUST00929,Lethbridge,AB,West,N/A,Inactive
+CUST00930,Mississauga,ON,East,World Elite,Active
+CUST00931,Red Deer,AB,West,World Elite,Active
+CUST00932,Saskatoon,SK,Central,Gold,Active
+CUST00933,Halifax,NS,East,N/A,Inactive
+CUST00934,Kelowna,BC,West,N/A,Active
+CUST00935,Quebec City,QC,East,N/A,Inactive
+CUST00936,Fredericton,NB,East,Platinum,Active
+CUST00937,Montreal,QC,East,N/A,Inactive
+CUST00938,Ottawa,ON,East,N/A,Active
+CUST00939,Vancouver,BC,West,N/A,Active
+CUST00940,Toronto,ON,East,World Elite,Active
+CUST00941,Red Deer,AB,West,N/A,Active
+CUST00942,Gatineau,QC,East,N/A,Active
+CUST00943,Fredericton,NB,East,N/A,Active
+CUST00944,Brampton,ON,East,N/A,Active
+CUST00945,Mississauga,ON,East,Gold,Active
+CUST00946,Markham,ON,East,N/A,Inactive
+CUST00947,Regina,SK,Central,N/A,Active
+CUST00948,Montreal,QC,East,N/A,Active
+CUST00949,Winnipeg,MB,Central,Standard,Active
+CUST00950,Burnaby,BC,West,N/A,Active
+CUST00951,Halifax,NS,East,Standard,Suspended
+CUST00952,Brampton,ON,East,N/A,Active
+CUST00953,Hamilton,ON,East,Standard,Inactive
+CUST00954,Mississauga,ON,East,Gold,Active
+CUST00955,London,ON,East,N/A,Active
+CUST00956,Richmond,BC,West,N/A,Active
+CUST00957,Brampton,ON,East,Standard,Active
+CUST00958,London,ON,East,Gold,Active
+CUST00959,Brampton,ON,East,Platinum,Active
+CUST00960,Gatineau,QC,East,N/A,Active
+CUST00961,London,ON,East,Standard,Active
+CUST00962,Gatineau,QC,East,Gold,Suspended
+CUST00963,Mississauga,ON,East,N/A,Active
+CUST00964,Ottawa,ON,East,N/A,Active
+CUST00965,Winnipeg,MB,Central,N/A,Active
+CUST00966,Burnaby,BC,West,N/A,Active
+CUST00967,Montreal,QC,East,N/A,Active
+CUST00968,Dartmouth,NS,East,N/A,Active
+CUST00969,Brampton,ON,East,N/A,Active
+CUST00970,Laval,QC,East,N/A,Active
+CUST00971,Lethbridge,AB,West,N/A,Inactive
+CUST00972,Winnipeg,MB,Central,Standard,Active
+CUST00973,Saint John,NB,East,Platinum,Suspended
+CUST00974,Kelowna,BC,West,N/A,Active
+CUST00975,Calgary,AB,West,N/A,Active
+CUST00976,Edmonton,AB,West,Platinum,Active
+CUST00977,Victoria,BC,West,Standard,Active
+CUST00978,Red Deer,AB,West,World Elite,Active
+CUST00979,Calgary,AB,West,N/A,Active
+CUST00980,Brampton,ON,East,N/A,Inactive
+CUST00981,Victoria,BC,West,Platinum,Active
+CUST00982,Ottawa,ON,East,N/A,Active
+CUST00983,Vancouver,BC,West,N/A,Active
+CUST00984,Saskatoon,SK,Central,N/A,Active
+CUST00985,Burnaby,BC,West,Platinum,Active
+CUST00986,Brampton,ON,East,Gold,Active
+CUST00987,Winnipeg,MB,Central,N/A,Suspended
+CUST00988,Markham,ON,East,Standard,Active
+CUST00989,Kelowna,BC,West,N/A,Active
+CUST00990,Brampton,ON,East,N/A,Active
+CUST00991,Surrey,BC,West,N/A,Active
+CUST00992,Richmond,BC,West,World Elite,Active
+CUST00993,Vancouver,BC,West,Platinum,Active
+CUST00994,Victoria,BC,West,N/A,Active
+CUST00995,Saskatoon,SK,Central,Standard,Inactive
+CUST00996,Markham,ON,East,N/A,Inactive
+CUST00997,London,ON,East,Platinum,Active
+CUST00998,Brandon,MB,Central,N/A,Inactive
+CUST00999,Surrey,BC,West,N/A,Active
+CUST01000,Toronto,ON,East,N/A,Suspended
