@@ -175,12 +175,8 @@ Triangle-Loyalty-Analytics/
 |-- data/ <- Faker-generated dataset
 |-- sql/ <- Star schema (dim & fact) scripts
 |-- dashboard/ <- Triangle_Loyalty_Analytics.pbix
-|-- assets/ <- Dashboard screenshot
+|-- visuals/ <- Dashboard screenshot
 \-- README.md
 ```
 
----
 
-## Author
-
-**[Your Name]** - [LinkedIn](#) | [Portfolio](#)
