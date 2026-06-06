@@ -13,8 +13,7 @@ A loyalty analytics dashboard built to help a retailer **quantify the incrementa
 - Identify which card tiers and channels return the most revenue per reward dollar
 - Target seasonal campaigns and acquisition at the segments and regions with the most upside
 
-> *Fictional loyalty program on synthetic data (Python/Faker), with realistic data-quality defects intentionally seeded to demonstrate a production-style validation pipeline.*
-
+> *Note:* This is a hypothetical loyalty program on synthetic data (Python/Faker), with realistic data-quality defects intentionally seeded to demonstrate a production-style validation pipeline.
 ---
 
 ## Target Audience & Value
@@ -123,7 +122,7 @@ RETURN y * 10 + s
 
 > Set `txn_season_year` to **Sort by column = `txn_season_year_sort`** so the axis runs 2022 Spring -> 2024 Winter instead of alphabetically.
 
-> *Note:* season is folded directly into `txn_season_year` rather than a separate `Season` column; both sit on the fact table here for simplicity, but in a production model they would live in a dedicated `dim_date` (Calendar) table.
+> *Note:* Season is folded directly into `txn_season_year` rather than a separate `Season` column; both sit on the fact table here for simplicity, but in a production model they would live in a dedicated `dim_date` (Calendar) table.
 
 ---
 
@@ -164,7 +163,7 @@ Visuals are arranged to move from the overall trend down to the segments you can
 
 ## Summary
 
-This project takes a loyalty dataset from raw, defect-laden CSVs through a validated PostgreSQL star schema and into an interactive Power BI report, with every row reconciled to the headline KPIs. The analysis centers on one question a loyalty team actually faces - *what is a cardholder worth, and where should we spend to get more of them* - and turns each finding into a concrete action across enrollment, seasonal campaigns, regional acquisition, reward-tier economics, and digital channels. The emphasis throughout is on an auditable pipeline and decision-ready insight rather than charts for their own sake.
+This project delivers an end-to-end loyalty analytics solution, moving a synthetic dataset from raw, defect-laden source files to a decision-ready Power BI report. The data is staged and modeled into a PostgreSQL star schema, cleaned and standardized in Power Query, and surfaced through DAX measures, with every transaction reconciled to the reported KPIs to ensure accuracy and traceability. The analysis quantifies the value of enrolled cardholders relative to non-cardholders and identifies the most effective allocation of acquisition and reward spend across season, city, card tier, and channel. Each finding is paired with a specific, actionable recommendation, and every visual is tied to a defined business question, ensuring the report supports operational and strategic decisions rather than presentation alone.
 
 ---
 
